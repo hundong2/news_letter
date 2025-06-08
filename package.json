@@ -1,0 +1,13 @@
+{
+  "name": "ai-daily-trends",
+  "version": "1.0.0",
+  "description": "Generates a daily AI trend page using Gemini API and GitHub Actions.",
+  "main": "generate-page.js",
+  "type": "module",
+  "scripts": {
+    "start": "node generate-page.js"
+  },
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
