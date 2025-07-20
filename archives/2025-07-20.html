@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-07-20 AI 트렌드 & 논문</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+    <div class="container mx-auto px-4 py-8 md:py-12">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900">2025-07-20 AI 트렌드</h1>
+            <p class="text-lg text-gray-600 mt-2">Gemini가 선정한 오늘의 AI 소식</p>
+            <a href="../index.html" class="text-blue-500 hover:underline mt-4 inline-block">&larr; 전체 목록으로 돌아가기</a>
+        </header>
+        <main class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">🚀 오늘의 AI 기술 동향</h2>
+                <div class="space-y-4 text-lg">## <strong class="text-indigo-600">[생성형 AI의 기업 도입 확산 및 윤리적 고려 심화]</strong><br><br>생성형 AI 기술이 챗GPT를 필두로 다양한 산업 분야에서 빠르게 도입되고 있으며, 특히 기업들은 업무 효율성 향상, 고객 경험 개선, 신규 서비스 개발 등 다양한 목표를 달성하기 위해 적극적으로 활용하고 있습니다. 하지만 동시에 데이터 편향, 저작권 문제, 허위 정보 생성 등 윤리적인 문제에 대한 우려도 커지고 있으며, 이에 대한 기업 및 사회적인 책임감 있는 대응이 중요해지고 있습니다. 따라서 기업들은 생성형 AI 도입 시 기술적 효용성 뿐만 아니라 윤리적 측면까지 고려하여 신중하게 접근해야 할 필요성이 증대되고 있습니다.<br><br>[OpenAI의 기업용 ChatGPT 출시](https://openai.com/blog/introducing-chatgpt-team)<br></div>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">📄 오늘의 추천 논문</h2>
+                <div class="space-y-4 text-lg">## <strong class="text-indigo-600">[논문 제목]</strong> Scaling Language Model Inference with Dynamic Context Pruning**<br><br><strong class="text-indigo-600">[핵심 내용 요약]</strong><br><br>최근 대규모 언어 모델(LLM)은 뛰어난 성능을 보여주지만, 추론 과정에서 막대한 계산 비용과 메모리 사용량을 요구합니다. 이 논문은 "Dynamic Context Pruning"이라는 새로운 기술을 제안하여 LLM의 추론 효율성을 획기적으로 개선합니다. 핵심 아이디어는 LLM이 답변을 생성하는 데 <strong class="text-indigo-600">불필요한 맥락 정보(context)</strong>를 실시간으로 제거하여 계산량과 메모리 사용량을 줄이는 것입니다.  모델은 각 맥락 토큰의 중요도를 학습하고, 중요도가 낮은 토큰은 추론 과정에서 제외합니다. 이를 통해 답변의 정확도를 유지하면서도 LLM 추론 속도를 가속화하고 더 작은 메모리 footprint를 달성할 수 있습니다.<br><br><a href="https://arxiv.org/abs/2405.18405" target="_blank" class="text-blue-500 hover:underline break-all">[관련 링크]</a><br><br><strong class="text-indigo-600">[일반인을 위한 쉬운 설명]</strong><br><br>영화 "반지의 제왕"을 LLM이라고 상상해 봅시다. 주인공 프로도가 반지를 파괴하기 위해 모르도르로 가는 여정을 돕기 위해 다양한 등장인물들이 함께 합니다. 하지만 프로도가 중요한 결정을 내리는 순간에는 모든 등장인물의 이야기가 다 필요한 것은 아닙니다. 예를 들어, 프로도가 골룸과 대화할 때는 샘의 조언이 중요하지만, 다른 요정이나 드워프의 이야기는 잠시 잊어도 됩니다.<br><br>"Dynamic Context Pruning"은 바로 이처럼 LLM이 답변을 생성할 때 <strong class="text-indigo-600">가장 중요한 정보에 집중</strong>하도록 돕는 기술입니다. LLM은 긴 문맥 속에서 어떤 정보가 답변에 <strong class="text-indigo-600">실제로 필요한지</strong> 스스로 판단하고, 불필요한 정보는 잠시 잊어버립니다. 마치 프로도가 중요한 순간에 샘의 말에 귀 기울이고 다른 이야기는 잠시 제쳐두는 것처럼요.<br><br>이 기술을 사용하면 LLM은 훨씬 <strong class="text-indigo-600">빠르고 효율적으로 답변</strong>할 수 있게 됩니다. 마치 프로도가 불필요한 정보를 쳐내고 샘의 조언에 집중하여 더 빠르게 결정을 내리는 것과 같습니다. 결과적으로 LLM을 사용하는 비용이 줄어들고, 더 작은 기기에서도 LLM을 사용할 수 있게 됩니다.<br></div>
+            </div>
+        </main>
+        <footer class="text-center mt-12 text-gray-500 text-sm">
+            <p>본 페이지는 Google Gemini API를 사용하여 자동 생성되었습니다.</p>
+        </footer>
+    </div>
+</body>
+</html>
