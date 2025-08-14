@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-08-14 AI 트렌드 & 논문</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+    <div class="container mx-auto px-4 py-8 md:py-12">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900">2025-08-14 AI 트렌드</h1>
+            <p class="text-lg text-gray-600 mt-2">Gemini가 선정한 오늘의 AI 소식</p>
+            <a href="../index.html" class="text-blue-500 hover:underline mt-4 inline-block">&larr; 전체 목록으로 돌아가기</a>
+        </header>
+        <main class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">🚀 오늘의 AI 기술 동향</h2>
+                <div class="space-y-4 text-lg">## <strong class="text-indigo-600">[생성형 AI, 의료 분야 혁신 가속화]</strong><br><br>생성형 AI가 의료 분야에서 질병 진단, 신약 개발, 맞춤형 치료 등 다양한 분야에서 혁신을 주도하고 있습니다. 특히 의료 이미지 분석, 환자 데이터 기반 예측 모델링, 가상 환자 시뮬레이션 등에 활용되면서 의료 서비스의 효율성과 정확성을 높이는 데 기여하고 있습니다. 또한, 의료 전문가의 의사 결정을 지원하고 환자에게 더욱 정밀한 치료 옵션을 제공하는 데 중요한 역할을 할 것으로 기대됩니다. 이러한 추세는 의료 비용 절감과 환자 경험 개선에도 긍정적인 영향을 미칠 것으로 전망됩니다.<br><br><a href="https://www.aitimes.com/news/articleView.html?idxno=156772" target="_blank" class="text-blue-500 hover:underline break-all">[관련 링크]</a><br></div>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">📄 오늘의 추천 논문</h2>
+                <div class="space-y-4 text-lg">## <strong class="text-indigo-600">[Scaling Language Model Inference with Partitioned Activation Map]</strong><br><br><strong class="text-indigo-600">핵심 내용 요약:</strong> 거대 언어 모델(LLM)은 성능이 뛰어나지만, 추론 과정에서 엄청난 메모리를 사용한다는 단점이 있습니다. 이 논문은 LLM의 활성화 맵(Activation Map)을 분할하여 여러 개의 GPU에 나누어 저장함으로써, 메모리 사용량을 획기적으로 줄이는 새로운 기술을 제시합니다. 활성화 맵은 각 레이어의 연산 결과로 생성되는 중간 데이터인데, 이 맵을 분산 저장하면 단일 GPU의 메모리 부담을 줄일 수 있습니다. 특히, 이 기술은 메모리 사용량을 줄이면서도 추론 속도를 유지하거나 심지어 향상시킬 수 있습니다. 따라서, 더 큰 모델을 더 적은 자원으로 실행할 수 있게 되어 LLM 활용의 문턱을 낮추는 데 기여할 수 있습니다.<br><br><a href="https://arxiv.org/abs/2405.03973" target="_blank" class="text-blue-500 hover:underline break-all">[관련 링크]</a><br><br><strong class="text-indigo-600">일반인에게 쉽게 설명:</strong><br><br>마치 거대한 퍼즐을 여러 사람이 나누어 맞추는 것과 같습니다. 기존에는 큰 퍼즐(LLM)을 혼자서 (하나의 GPU) 전부 맞춰야 했기 때문에 너무 힘들고 시간이 오래 걸렸습니다. 이 논문은 퍼즐을 여러 조각(활성화 맵)으로 나누어 여러 사람(여러 GPU)에게 나누어 줍니다. 각자 맡은 조각만 맞추면 되니 훨씬 쉽고 빠르게 퍼즐을 완성할 수 있습니다. 결과적으로, 더 큰 퍼즐(더 큰 LLM)도 쉽게 맞출 수 있게 되는 것이죠.<br></div>
+            </div>
+        </main>
+        <footer class="text-center mt-12 text-gray-500 text-sm">
+            <p>본 페이지는 Google Gemini API를 사용하여 자동 생성되었습니다.</p>
+        </footer>
+    </div>
+</body>
+</html>
