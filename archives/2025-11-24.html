@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>2025-11-24 AI 트렌드 & 논문</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+    <style>
+        body { font-family: 'Noto Sans KR', sans-serif; }
+    </style>
+</head>
+<body class="bg-gray-50 text-gray-800">
+    <div class="container mx-auto px-4 py-8 md:py-12">
+        <header class="text-center mb-10">
+            <h1 class="text-4xl md:text-5xl font-bold text-gray-900">2025-11-24 AI 트렌드</h1>
+            <p class="text-lg text-gray-600 mt-2">Gemini가 선정한 오늘의 AI 소식</p>
+            <a href="../index.html" class="text-blue-500 hover:underline mt-4 inline-block">&larr; 전체 목록으로 돌아가기</a>
+        </header>
+        <main class="grid grid-cols-1 lg:grid-cols-2 gap-8">
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">🚀 오늘의 AI 기술 동향</h2>
+                <div class="space-y-4 text-lg"><strong class="text-indigo-600">[생성형 AI의 기업 도입 가속화 및 윤리적 문제 대두]</strong><br><br>생성형 AI 기술이 빠르게 발전하면서 기업들의 도입이 활발해지고 있습니다. 업무 효율성 향상, 새로운 서비스 개발 등 다양한 가능성을 제시하지만, 동시에 저작권 침해, 허위 정보 생성, 일자리 감소 등 윤리적인 문제점도 부각되고 있습니다. 기업들은 기술 도입과 더불어 책임감 있는 AI 사용을 위한 전략 마련에 고심하고 있습니다. 관련 규제 논의도 활발하게 진행될 것으로 예상됩니다.<br><br>[AI타임스: 생성형 AI 도입 시 윤리적 문제 해결 방안은](https://www.aitimes.com/news/articleView.html?idxno=154413)<br></div>
+            </div>
+            <div class="bg-white p-6 md:p-8 rounded-xl shadow-md">
+                <h2 class="text-2xl font-bold mb-4 border-b pb-2">📄 오늘의 추천 논문</h2>
+                <div class="space-y-4 text-lg">## <strong class="text-indigo-600">[논문 제목]</strong> Scaling Language Model Inference with Intra-Layer Parallelism<br><br><strong class="text-indigo-600">[핵심 내용 요약]</strong><br><br>최근 엄청나게 커진 AI 모델(특히 언어 모델)은 추론(inference: 모델이 새로운 데이터에 대해 예측하는 과정)에 많은 계산 자원을 필요로 합니다. 이 논문은 모델의 각 레이어(layer: AI 모델을 구성하는 기본적인 연산 단위) 내에서 연산을 병렬적으로 처리하여 추론 속도를 크게 향상시키는 새로운 기술을 제시합니다. 핵심 아이디어는 큰 행렬 곱셈 연산을 여러 개의 작은 행렬 곱셈으로 나누어 여러 개의 GPU에서 동시에 처리하는 것입니다. 이를 통해 모델 전체를 여러 GPU에 분산시키지 않고도 추론 속도를 높일 수 있습니다. 특히, 레이어 내 병렬성은 모델 크기가 커질수록 더욱 효과적이며, 기존의 모델 병렬 처리 방식과 결합하여 더욱 큰 시너지를 낼 수 있습니다. 이 방법은 기존 방식보다 훨씬 적은 통신량으로도 빠른 추론이 가능하게 해줍니다.<br><br><a href="https://arxiv.org/abs/2405.10834" target="_blank" class="text-blue-500 hover:underline break-all">[관련 링크]</a><br><br><strong class="text-indigo-600">쉬운 설명:</strong><br><br>쉽게 말해, 거대한 AI 모델이 답을 내놓는 과정을 더욱 빠르게 만드는 새로운 기술을 개발한 논문입니다. 마치 큰 회사의 업무를 여러 팀에게 나누어 처리하는 것처럼, AI 모델의 연산 과정을 잘게 쪼개어 여러 개의 컴퓨터(GPU)가 동시에 처리하게 하는 것입니다. 이 기술은 특히 모델이 클수록 효과가 크며, 기존의 다른 기술과 함께 사용하면 훨씬 더 빠른 속도를 낼 수 있습니다. 이전에는 모델 전체를 여러 컴퓨터에 나눠서 처리해야 했지만, 이 기술은 모델의 각 부분만 나눠서 처리하기 때문에 컴퓨터 간의 소통량을 줄여 훨씬 효율적입니다. 따라서, 이 기술은 더 빠르고 저렴하게 AI 모델을 사용할 수 있도록 도와줍니다.<br></div>
+            </div>
+        </main>
+        <footer class="text-center mt-12 text-gray-500 text-sm">
+            <p>본 페이지는 Google Gemini API를 사용하여 자동 생성되었습니다.</p>
+        </footer>
+    </div>
+</body>
+</html>
