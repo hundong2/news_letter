@@ -8,7 +8,7 @@ const MAX_ITEMS_TOTAL = 18;
 const MAX_ITEMS_PER_SOURCE = 5;
 const ENRICH_LIMIT = 12;
 const MIN_ITEMS_TOTAL = 6;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
+const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const DEBUG = process.env.DEBUG === '1' || process.env.DEBUG === 'true';
 const FORCE_DATE = process.env.FORCE_DATE;
 const REPORT_DIR = ARCHIVE_DIR;
@@ -395,8 +395,16 @@ function categorizeFallback(items) {
   }));
 }
 
+function buildGeminiUrl(model, apiKey) {
+  return `https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent?key=${apiKey}`;
+}
+
 async function callGeminiAPI(prompt, apiKey) {
-  const apiUrl = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent?key=${apiKey}`;
+  const fallbackModels = [];
+  if (GEMINI_MODEL !== 'gemini-2.5-flash') fallbackModels.push('gemini-2.5-flash');
+  if (GEMINI_MODEL !== 'gemini-2.5-flash-preview-09-2025') fallbackModels.push('gemini-2.5-flash-preview-09-2025');
+  const modelsToTry = [GEMINI_MODEL, ...fallbackModels];
+
   const payload = {
     contents: [{ role: 'user', parts: [{ text: prompt }] }],
     generationConfig: {
@@ -405,23 +413,33 @@ async function callGeminiAPI(prompt, apiKey) {
     },
   };
 
-  const response = await fetch(apiUrl, {
-    method: 'POST',
-    headers: { 'Content-Type': 'application/json' },
-    body: JSON.stringify(payload),
-  });
+  let lastError = null;
+  for (const model of modelsToTry) {
+    const apiUrl = buildGeminiUrl(model, apiKey);
+    const response = await fetch(apiUrl, {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify(payload),
+    });
 
-  if (!response.ok) {
-    const text = await response.text();
-    logDebug('gemini:fail', response.status, text.slice(0, 400));
-    throw new Error(`Gemini API Error: ${response.status} ${text}`);
+    if (!response.ok) {
+      const text = await response.text();
+      logDebug('gemini:fail', model, response.status, text.slice(0, 400));
+      lastError = new Error(`Gemini API Error: ${response.status} ${text}`);
+      if (response.status === 404) {
+        continue;
+      }
+      throw lastError;
+    }
+
+    const data = await response.json();
+    const parts = data?.candidates?.[0]?.content?.parts || [];
+    const text = parts.map((part) => part.text || '').join('').trim();
+    logDebug('gemini:ok', model, `chars=${text.length}`);
+    return text;
   }
 
-  const data = await response.json();
-  const parts = data?.candidates?.[0]?.content?.parts || [];
-  const text = parts.map((part) => part.text || '').join('').trim();
-  logDebug('gemini:ok', `chars=${text.length}`);
-  return text;
+  throw lastError || new Error('Gemini API Error: unknown');
 }
 
 function extractJson(text) {
