@@ -1,60 +1,148 @@
 <!DOCTYPE html>
 <html lang="ko">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>AI 트렌드 아카이브</title>
-    <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
-    <style>
-        body { font-family: 'Noto Sans KR', sans-serif; }
-    </style>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AI 리서치 브리핑 아카이브</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+    }
+
+    header {
+      margin-bottom: 32px;
+    }
+
+    header h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2rem, 3vw, 3rem);
+      margin: 0 0 10px;
+    }
+
+    header p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.02rem;
+    }
+
+    .archive {
+      background: var(--card);
+      border-radius: 20px;
+      border: 1px solid var(--border);
+      box-shadow: var(--shadow);
+      padding: 24px;
+    }
+
+    .archive h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 14px;
+    }
+
+    ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 10px;
+    }
+
+    li a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      padding: 10px 12px;
+      border-radius: 12px;
+      display: block;
+      border: 1px solid transparent;
+    }
+
+    li a:hover {
+      border-color: var(--accent);
+      background: rgba(0, 128, 143, 0.08);
+    }
+
+    footer {
+      margin-top: 24px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      text-align: center;
+    }
+  </style>
 </head>
-<body class="bg-gray-100">
-    <div class="container mx-auto px-4 py-10">
-        <h1 class="text-4xl font-bold text-center text-gray-800 mb-8">AI 트렌드 아카이브</h1>
-        <div class="max-w-2xl mx-auto bg-white rounded-lg shadow-lg p-6">
-            <h2 class="text-2xl font-semibold mb-4">날짜별 포스트</h2>
-            <ul id="post-list" class="space-y-3">
-                <!-- LATEST_LINKS -->
-<li><a href="archives/2026-02-02.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-02-02 AI 트렌드</a></li>
-<li><a href="archives/2026-02-01.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-02-01 AI 트렌드</a></li>
-<li><a href="archives/2026-01-31.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-31 AI 트렌드</a></li>
-<li><a href="archives/2026-01-30.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-30 AI 트렌드</a></li>
-<li><a href="archives/2026-01-29.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-29 AI 트렌드</a></li>
-<li><a href="archives/2026-01-28.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-28 AI 트렌드</a></li>
-<li><a href="archives/2026-01-27.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-27 AI 트렌드</a></li>
-<li><a href="archives/2026-01-26.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-26 AI 트렌드</a></li>
-<li><a href="archives/2026-01-25.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-25 AI 트렌드</a></li>
-<li><a href="archives/2026-01-24.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-24 AI 트렌드</a></li>
-<li><a href="archives/2026-01-23.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-23 AI 트렌드</a></li>
-<li><a href="archives/2026-01-22.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-22 AI 트렌드</a></li>
-<li><a href="archives/2026-01-21.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-21 AI 트렌드</a></li>
-<li><a href="archives/2026-01-20.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-20 AI 트렌드</a></li>
-<li><a href="archives/2026-01-19.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-19 AI 트렌드</a></li>
-<li><a href="archives/2026-01-18.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-18 AI 트렌드</a></li>
-<li><a href="archives/2026-01-17.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-17 AI 트렌드</a></li>
-<li><a href="archives/2026-01-16.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-16 AI 트렌드</a></li>
-<li><a href="archives/2026-01-15.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-15 AI 트렌드</a></li>
-<li><a href="archives/2026-01-14.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-14 AI 트렌드</a></li>
-<li><a href="archives/2026-01-13.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-13 AI 트렌드</a></li>
-<li><a href="archives/2026-01-12.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-12 AI 트렌드</a></li>
-<li><a href="archives/2026-01-11.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-11 AI 트렌드</a></li>
-<li><a href="archives/2026-01-10.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-10 AI 트렌드</a></li>
-<li><a href="archives/2026-01-09.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-09 AI 트렌드</a></li>
-<li><a href="archives/2026-01-08.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-08 AI 트렌드</a></li>
-<li><a href="archives/2026-01-07.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-07 AI 트렌드</a></li>
-<li><a href="archives/2026-01-06.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-06 AI 트렌드</a></li>
-<li><a href="archives/2026-01-05.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-05 AI 트렌드</a></li>
-<li><a href="archives/2026-01-04.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-04 AI 트렌드</a></li>
-<li><a href="archives/2026-01-03.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-03 AI 트렌드</a></li>
-<li><a href="archives/2026-01-02.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-02 AI 트렌드</a></li>
-<li><a href="archives/2026-01-01.html" class="text-lg text-blue-600 hover:text-blue-800 transition-colors">2026-01-01 AI 트렌드</a></li>
+<body>
+  <div class="page">
+    <header>
+      <h1>AI 리서치 브리핑 아카이브</h1>
+      <p>매일 자동 업데이트되는 VLM, sLLM, on-device AI 브리핑 기록입니다.</p>
+    </header>
+
+    <section class="archive">
+      <h2>날짜별 브리핑</h2>
+      <ul>
+        <!-- LATEST_LINKS -->
+<li><a href="archives/2026-02-02.html">2026-02-02 AI 트렌드</a></li>
+<li><a href="archives/2026-02-01.html">2026-02-01 AI 트렌드</a></li>
+<li><a href="archives/2026-01-31.html">2026-01-31 AI 트렌드</a></li>
+<li><a href="archives/2026-01-30.html">2026-01-30 AI 트렌드</a></li>
+<li><a href="archives/2026-01-29.html">2026-01-29 AI 트렌드</a></li>
+<li><a href="archives/2026-01-28.html">2026-01-28 AI 트렌드</a></li>
+<li><a href="archives/2026-01-27.html">2026-01-27 AI 트렌드</a></li>
+<li><a href="archives/2026-01-26.html">2026-01-26 AI 트렌드</a></li>
+<li><a href="archives/2026-01-25.html">2026-01-25 AI 트렌드</a></li>
+<li><a href="archives/2026-01-24.html">2026-01-24 AI 트렌드</a></li>
+<li><a href="archives/2026-01-23.html">2026-01-23 AI 트렌드</a></li>
+<li><a href="archives/2026-01-22.html">2026-01-22 AI 트렌드</a></li>
+<li><a href="archives/2026-01-21.html">2026-01-21 AI 트렌드</a></li>
+<li><a href="archives/2026-01-20.html">2026-01-20 AI 트렌드</a></li>
+<li><a href="archives/2026-01-19.html">2026-01-19 AI 트렌드</a></li>
+<li><a href="archives/2026-01-18.html">2026-01-18 AI 트렌드</a></li>
+<li><a href="archives/2026-01-17.html">2026-01-17 AI 트렌드</a></li>
+<li><a href="archives/2026-01-16.html">2026-01-16 AI 트렌드</a></li>
+<li><a href="archives/2026-01-15.html">2026-01-15 AI 트렌드</a></li>
+<li><a href="archives/2026-01-14.html">2026-01-14 AI 트렌드</a></li>
+<li><a href="archives/2026-01-13.html">2026-01-13 AI 트렌드</a></li>
+<li><a href="archives/2026-01-12.html">2026-01-12 AI 트렌드</a></li>
+<li><a href="archives/2026-01-11.html">2026-01-11 AI 트렌드</a></li>
+<li><a href="archives/2026-01-10.html">2026-01-10 AI 트렌드</a></li>
+<li><a href="archives/2026-01-09.html">2026-01-09 AI 트렌드</a></li>
+<li><a href="archives/2026-01-08.html">2026-01-08 AI 트렌드</a></li>
+<li><a href="archives/2026-01-07.html">2026-01-07 AI 트렌드</a></li>
+<li><a href="archives/2026-01-06.html">2026-01-06 AI 트렌드</a></li>
+<li><a href="archives/2026-01-05.html">2026-01-05 AI 트렌드</a></li>
+<li><a href="archives/2026-01-04.html">2026-01-04 AI 트렌드</a></li>
+<li><a href="archives/2026-01-03.html">2026-01-03 AI 트렌드</a></li>
+<li><a href="archives/2026-01-02.html">2026-01-02 AI 트렌드</a></li>
+<li><a href="archives/2026-01-01.html">2026-01-01 AI 트렌드</a></li>
 </ul>
-        </div>
-        <footer class="text-center mt-8 text-gray-600 text-sm">
-            <p>매일 자동으로 업데이트됩니다.</p>
-        </footer>
-    </div>
+    </section>
+
+    <footer>
+      매일 UTC 00:00 자동 업데이트됩니다.
+    </footer>
+  </div>
 </body>
 </html>
