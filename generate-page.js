@@ -391,7 +391,7 @@ function categorizeFallback(items) {
     ...item,
     category: 'news',
     summary_ko: item.snippet || `${item.title} 관련 업데이트입니다.`,
-    summary_en: item.type === 'paper' ? 'Summary unavailable.' : '',
+    summary_en: '',
   }));
 }
 
