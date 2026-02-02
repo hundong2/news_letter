@@ -1,0 +1,132 @@
+{
+  "version": 1,
+  "updatedAt": "2026-02-02",
+  "items": {
+    "https://huggingface.co/papers/2601.21558": {
+      "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://huggingface.co/papers/2601.23143": {
+      "title": "THINKSAFE: Self-Generated Safety Alignment for Reasoning Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://huggingface.co/papers/2601.22628": {
+      "title": "TTCS: Test-Time Curriculum Synthesis for Self-Evolving",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://huggingface.co/papers/2601.23265": {
+      "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://huggingface.co/papers/2601.23184": {
+      "title": "ReGuLaR: Variational Latent Reasoning Guided by Rendered Chain-of-Thought",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "http://arxiv.org/abs/2601.23286v1": {
+      "title": "VideoGPA: Distilling Geometry Priors for 3D-Consistent Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "http://arxiv.org/abs/2601.18532v2": {
+      "title": "From Cold Start to Active Learning: Embedding-Based Scan Selection for Medical Image Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "http://arxiv.org/abs/2601.23281v1": {
+      "title": "User Prompting Strategies and Prompt Enhancement Methods for Open-Set Object Detection in XR Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "http://arxiv.org/abs/2601.23276v1": {
+      "title": "Denoising the Deep Sky: Physics-Based CCD Noise Formation for Astronomical Imaging",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "http://arxiv.org/abs/2601.23265v1": {
+      "title": "PaperBanana: Automating Academic Illustration for AI Scientists",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
+      "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://research.google/blog/label/algorithms-theory": {
+      "title": "Algorithms & Theory",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://research.google/blog/label/climate-sustainability": {
+      "title": "Climate & Sustainability",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://research.google/blog/label/conferences-events": {
+      "title": "Conferences & Events",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://research.google/blog/label/data-management": {
+      "title": "Data Management",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://www.microsoft.com/en-us/research/blog": {
+      "title": "Microsoft Research blog",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
+      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    },
+    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents": {
+      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-02",
+      "lastSeen": "2026-02-02"
+    }
+  }
+}
