@@ -7,6 +7,7 @@ const SEEN_FILE = `${ARCHIVE_DIR}/seen-items.json`;
 const MAX_ITEMS_TOTAL = 18;
 const MAX_ITEMS_PER_SOURCE = 5;
 const ENRICH_LIMIT = 12;
+const MIN_ITEMS_TOTAL = 6;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
 const DEBUG = process.env.DEBUG === '1' || process.env.DEBUG === 'true';
 
@@ -365,6 +366,18 @@ function filterDuplicates(items, seen) {
   return unique;
 }
 
+function dedupeWithinRun(items) {
+  const unique = [];
+  const seenThisRun = new Set();
+  for (const item of items) {
+    const key = normalizeUrl(item.url);
+    if (!key || seenThisRun.has(key)) continue;
+    seenThisRun.add(key);
+    unique.push({ ...item, url: key });
+  }
+  return unique;
+}
+
 function categorizeFallback(items) {
   return items.map((item) => ({
     ...item,
@@ -511,8 +524,12 @@ async function main() {
   console.log(`수집된 원본 항목: ${rawItems.length}`);
   const seen = loadSeen();
   logDebug('seen:loaded', Object.keys(seen.items || {}).length);
-  const uniqueItems = filterDuplicates(rawItems, seen);
+  let uniqueItems = filterDuplicates(rawItems, seen);
   console.log(`중복 제거 후 항목: ${uniqueItems.length}`);
+  if (uniqueItems.length < MIN_ITEMS_TOTAL) {
+    console.warn('중복 제거 후 항목이 부족하여 기존 항목도 포함합니다.');
+    uniqueItems = dedupeWithinRun(rawItems);
+  }
   const enrichedItems = await enrichItems(uniqueItems);
   logDebug('enrich:done', enrichedItems.length);
   const trimmedItems = enrichedItems.slice(0, MAX_ITEMS_TOTAL);
