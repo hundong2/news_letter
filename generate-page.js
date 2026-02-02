@@ -11,6 +11,7 @@ const MIN_ITEMS_TOTAL = 6;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
 const DEBUG = process.env.DEBUG === '1' || process.env.DEBUG === 'true';
 const FORCE_DATE = process.env.FORCE_DATE;
+const REPORT_DIR = ARCHIVE_DIR;
 
 function logDebug(...args) {
   if (DEBUG) {
@@ -338,6 +339,7 @@ async function enrichItems(items) {
 
 async function collectItems() {
   const collected = [];
+  const errors = [];
   for (const source of SOURCES) {
     try {
       logDebug('source:start', source.id, source.url);
@@ -348,9 +350,14 @@ async function collectItems() {
     } catch (error) {
       console.warn(`소스 처리 실패: ${source.name}`, error.message);
       logDebug('source:error', source.id, error.stack || error.message);
+      errors.push({
+        sourceId: source.id,
+        sourceName: source.name,
+        message: error.message,
+      });
     }
   }
-  return collected;
+  return { items: collected, errors };
 }
 
 function filterDuplicates(items, seen) {
@@ -537,7 +544,7 @@ async function main() {
   console.log(`생성 날짜: ${dateString}`);
 
   console.log('소스 수집 중...');
-  const rawItems = await collectItems();
+  const { items: rawItems, errors: sourceErrors } = await collectItems();
   console.log(`수집된 원본 항목: ${rawItems.length}`);
   const seen = loadSeen();
   logDebug('seen:loaded', Object.keys(seen.items || {}).length);
@@ -555,6 +562,7 @@ async function main() {
 
   console.log('Gemini 요약 생성 중...');
   let summarizedItems = [];
+  let geminiError = null;
   try {
     const prompt = buildPrompt(trimmedItems, dateString);
     logDebug('gemini:prompt_chars', prompt.length);
@@ -566,6 +574,7 @@ async function main() {
     console.log(`Gemini 반환 항목: ${summarizedItems.length}`);
   } catch (error) {
     console.error('Gemini API 호출 실패:', error);
+    geminiError = error.message;
   }
 
   if (!summarizedItems.length) {
@@ -610,6 +619,23 @@ async function main() {
 
   fs.writeFileSync(`${ARCHIVE_DIR}/${dateString}.html`, newPageContent);
   console.log(`${dateString}.html 파일 생성 완료.`);
+
+  const report = {
+    date: dateString,
+    model: GEMINI_MODEL,
+    forceDate: FORCE_DATE || null,
+    counts: {
+      raw: rawItems.length,
+      unique: uniqueItems.length,
+      enriched: enrichedItems.length,
+      trimmed: trimmedItems.length,
+      summarized: summarizedItems.length,
+    },
+    sourceErrors,
+    geminiError,
+  };
+  fs.writeFileSync(`${REPORT_DIR}/debug-${dateString}.json`, JSON.stringify(report, null, 2));
+  logDebug('report:written', `${REPORT_DIR}/debug-${dateString}.json`);
 
   updateSeen(seen, normalizedItems, dateString, sourceLookup);
   pruneSeen(seen);
