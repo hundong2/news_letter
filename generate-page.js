@@ -10,6 +10,7 @@ const ENRICH_LIMIT = 12;
 const MIN_ITEMS_TOTAL = 6;
 const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-1.5-flash';
 const DEBUG = process.env.DEBUG === '1' || process.env.DEBUG === 'true';
+const FORCE_DATE = process.env.FORCE_DATE;
 
 function logDebug(...args) {
   if (DEBUG) {
@@ -440,6 +441,17 @@ function escapeHtml(value) {
     .replace(/'/g, '&#39;');
 }
 
+function buildEmptyState() {
+  return `
+    <section class="section-block">
+      <div class="section-header">
+        <h2>오늘의 브리핑을 준비하지 못했습니다</h2>
+        <p>소스 수집 또는 요약 과정에서 문제가 발생했습니다. 소스 상태 및 API 키를 확인해주세요.</p>
+      </div>
+    </section>
+  `;
+}
+
 function renderCard(item) {
   const summaryEn = item.type === 'paper' && item.summary_en
     ? `<p class="card-translation"><span>English</span> ${escapeHtml(item.summary_en)}</p>`
@@ -517,7 +529,12 @@ async function main() {
   }
 
   const today = new Date();
-  const dateString = today.toISOString().split('T')[0];
+  const defaultDate = today.toISOString().split('T')[0];
+  const dateString = FORCE_DATE && /^\\d{4}-\\d{2}-\\d{2}$/.test(FORCE_DATE) ? FORCE_DATE : defaultDate;
+  if (FORCE_DATE && dateString !== FORCE_DATE) {
+    console.warn(`FORCE_DATE 형식이 올바르지 않아 ${defaultDate}로 진행합니다.`);
+  }
+  console.log(`생성 날짜: ${dateString}`);
 
   console.log('소스 수집 중...');
   const rawItems = await collectItems();
@@ -573,12 +590,12 @@ async function main() {
 
   const grouped = groupByCategory(normalizedItems);
 
-  const contentHtml = [
+  const contentHtml = normalizedItems.length ? [
     renderSection('VLM 업데이트', '멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화', grouped.vlm),
     renderSection('sLLM 트렌드', '경량화·효율화를 위한 스몰 LLM 연구', grouped.sllm),
     renderSection('On-Device AI', '디바이스 내 추론 및 엣지 최적화 동향', grouped.ondevice),
     renderSection('AI 뉴스 & 리서치', '기업/연구기관의 주요 발표와 블로그 업데이트', grouped.news),
-  ].join(EOL);
+  ].join(EOL) : buildEmptyState();
 
   const sourcesHtml = SOURCES.map((source) => {
     return `<li><a href="${escapeHtml(source.url)}" target="_blank" rel="noopener noreferrer">${escapeHtml(source.name)}</a></li>`;
