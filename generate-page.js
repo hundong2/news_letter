@@ -248,6 +248,7 @@ function parseGoogleResearchBlog(html, source) {
   const seen = new Set();
   for (const anchor of anchors) {
     if (!anchor.href.startsWith('/blog/') && !anchor.href.startsWith('https://research.google/blog/')) continue;
+    if (anchor.href.includes('/label/')) continue;
     const url = anchor.href.startsWith('http') ? anchor.href : `https://research.google${anchor.href}`;
     const title = anchor.text;
     if (!title || title.length < 8) continue;
@@ -270,6 +271,9 @@ function parseMicrosoftResearchBlog(html, source) {
   const seen = new Set();
   for (const anchor of anchors) {
     if (!anchor.href.includes('/research/blog/')) continue;
+    if (anchor.href === '/en-us/research/blog' || anchor.href === 'https://www.microsoft.com/en-us/research/blog') {
+      continue;
+    }
     const url = anchor.href.startsWith('http') ? anchor.href : `https://www.microsoft.com${anchor.href}`;
     const title = anchor.text;
     if (!title || title.length < 8) continue;
@@ -325,7 +329,8 @@ async function enrichItems(items) {
     try {
       const html = await fetchText(item.url);
       const description = extractMetaDescription(html);
-      enriched.push({ ...item, snippet: item.snippet || description });
+      const snippet = item.snippet || description;
+      enriched.push({ ...item, snippet: sanitizeSnippet(snippet) });
     } catch (error) {
       console.warn(`아이템 상세 가져오기 실패: ${item.url}`, error.message);
       enriched.push(item);
@@ -386,11 +391,36 @@ function dedupeWithinRun(items) {
   return unique;
 }
 
+function sanitizeSnippet(value) {
+  const snippet = extractText(value);
+  if (!snippet) return '';
+  const lower = snippet.toLowerCase();
+  if (lower.includes('join the discussion')) return '';
+  if (lower.includes('관련 업데이트입니다')) return '';
+  if (snippet.length < 40) return '';
+  return snippet;
+}
+
+function classifyCategory(item) {
+  const text = `${item.title || ''} ${item.snippet || ''}`.toLowerCase();
+  if (/(vlm|vision[- ]language|multimodal|multi[- ]modal|image[- ]text|video[- ]text)/.test(text)) return 'vlm';
+  if (/(sllm|small llm|compact llm|distill|quantization|q4|q8|lora|adapter|efficient llm)/.test(text)) return 'sllm';
+  if (/(on[- ]device|ondevice|edge ai|edge|mobile|embedded|tinyml|device|npu)/.test(text)) return 'ondevice';
+  return 'news';
+}
+
+function buildFallbackSummary(title, snippet) {
+  const cleanSnippet = sanitizeSnippet(snippet);
+  if (cleanSnippet) return cleanSnippet;
+  const safeTitle = title || '해당 항목';
+  return `${safeTitle}에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.`;
+}
+
 function categorizeFallback(items) {
   return items.map((item) => ({
     ...item,
-    category: 'news',
-    summary_ko: item.snippet || `${item.title} 관련 업데이트입니다.`,
+    category: classifyCategory(item),
+    summary_ko: buildFallbackSummary(item.title, item.snippet),
     summary_en: '',
   }));
 }
