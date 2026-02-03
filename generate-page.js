@@ -12,6 +12,7 @@ const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
 const DEBUG = process.env.DEBUG === '1' || process.env.DEBUG === 'true';
 const FORCE_DATE = process.env.FORCE_DATE;
 const REPORT_DIR = ARCHIVE_DIR;
+const TRANSLATE_BATCH_SIZE = 8;
 
 function logDebug(...args) {
   if (DEBUG) {
@@ -487,6 +488,54 @@ function buildPrompt(items, dateString) {
   return `오늘 날짜(${dateString}) 기준으로 최신 VLM, sLLM, on-device AI 관련 논문/뉴스를 한국어로 요약해야 합니다.\n\n입력 데이터(JSON 배열)에는 title, url, sourceName, type, snippet가 포함됩니다.\n\n규칙:\n- 항목을 category: "vlm" | "sllm" | "ondevice" | "news" 중 하나로 분류하세요.\n- summary_ko: 2~3문장 요약.\n- papers(type=paper)에는 summary_en(영문 번역)도 제공하세요. news는 summary_en을 빈 문자열로 두세요.\n- 실제로 최신성과 중요도가 높은 항목 위주로 최대 12개 선택하세요.\n- 입력에 없는 내용은 추가하지 마세요.\n\n출력은 반드시 아래 JSON 형식만 반환하세요:\n{\n  "items": [\n    {\n      "title": "",\n      "url": "",\n      "source": "",\n      "type": "paper|news",\n      "category": "vlm|sllm|ondevice|news",\n      "summary_ko": "",\n      "summary_en": ""\n    }\n  ]\n}\n\n입력 데이터:\n${JSON.stringify(items, null, 2)}`;
 }
 
+function buildTranslatePrompt(items) {
+  return `다음 항목에 대해 한국어 요약과 (논문인 경우) 영어 요약을 보완하세요.\n\n규칙:\n- summary_ko: 2~3문장, 자연스러운 한국어.\n- type=paper 인 경우 summary_en 제공 (영어 2~3문장). news는 summary_en 빈 문자열.\n- 입력에 있는 title/snippet/summary_ko/summary_en만 활용하고, 모르는 사실은 추가하지 마세요.\n- 출력은 반드시 JSON만 반환하세요.\n\n출력 형식:\n{\n  "items": [\n    {\n      "url": "",\n      "summary_ko": "",\n      "summary_en": ""\n    }\n  ]\n}\n\n입력 데이터:\n${JSON.stringify(items, null, 2)}`;
+}
+
+async function translateMissing(items, apiKey) {
+  const targets = items.filter((item) => {
+    if (!item.summary_ko || !isMostlyKorean(item.summary_ko)) return true;
+    if (item.type === 'paper' && !item.summary_en) return true;
+    return false;
+  });
+
+  if (!targets.length) return items;
+
+  const updated = new Map(items.map((item) => [normalizeUrl(item.url), { ...item }]));
+
+  for (let i = 0; i < targets.length; i += TRANSLATE_BATCH_SIZE) {
+    const batch = targets.slice(i, i + TRANSLATE_BATCH_SIZE).map((item) => ({
+      url: item.url,
+      title: item.title,
+      type: item.type,
+      snippet: item.snippet || '',
+      summary_ko: item.summary_ko || '',
+      summary_en: item.summary_en || '',
+    }));
+
+    try {
+      const responseText = await callGeminiAPI(buildTranslatePrompt(batch), apiKey);
+      const parsed = extractJson(responseText);
+      const itemsOut = parsed?.items || [];
+      for (const translated of itemsOut) {
+        const key = normalizeUrl(translated.url);
+        const existing = updated.get(key);
+        if (!existing) continue;
+        if (translated.summary_ko && isMostlyKorean(translated.summary_ko)) {
+          existing.summary_ko = translated.summary_ko;
+        }
+        if (existing.type === 'paper' && translated.summary_en) {
+          existing.summary_en = translated.summary_en;
+        }
+      }
+    } catch (error) {
+      console.warn('번역 보완 실패:', error.message);
+    }
+  }
+
+  return [...updated.values()];
+}
+
 function escapeHtml(value) {
   return String(value || '')
     .replace(/&/g, '&amp;')
@@ -494,6 +543,14 @@ function escapeHtml(value) {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+function isMostlyKorean(text) {
+  if (!text) return false;
+  const normalized = String(text);
+  const hangulCount = (normalized.match(/[가-힣]/g) || []).length;
+  const alphaCount = (normalized.match(/[A-Za-z]/g) || []).length;
+  return hangulCount >= 10 && hangulCount >= alphaCount;
 }
 
 function buildEmptyState() {
@@ -645,7 +702,9 @@ async function main() {
   }));
   logDebug('normalized:count', normalizedItems.length);
 
-  const grouped = groupByCategory(normalizedItems);
+  const translatedItems = await translateMissing(normalizedItems, apiKey);
+
+  const grouped = groupByCategory(translatedItems);
 
   const contentHtml = normalizedItems.length ? [
     renderSection('VLM 업데이트', '멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화', grouped.vlm),
@@ -663,7 +722,7 @@ async function main() {
     .replace(/{{DATE}}/g, dateString)
     .replace('{{CONTENT}}', contentHtml)
     .replace('{{SOURCES}}', sourcesHtml)
-    .replace('{{TOTAL_COUNT}}', String(normalizedItems.length));
+    .replace('{{TOTAL_COUNT}}', String(translatedItems.length));
 
   fs.writeFileSync(`${ARCHIVE_DIR}/${dateString}.html`, newPageContent);
   console.log(`${dateString}.html 파일 생성 완료.`);
@@ -685,7 +744,7 @@ async function main() {
   fs.writeFileSync(`${REPORT_DIR}/debug-${dateString}.json`, JSON.stringify(report, null, 2));
   logDebug('report:written', `${REPORT_DIR}/debug-${dateString}.json`);
 
-  updateSeen(seen, normalizedItems, dateString, sourceLookup);
+  updateSeen(seen, translatedItems, dateString, sourceLookup);
   pruneSeen(seen);
   saveSeen(seen);
   logDebug('seen:saved', Object.keys(seen.items || {}).length);
