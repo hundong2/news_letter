@@ -599,7 +599,7 @@ function renderSection(title, description, items) {
         <h2>${escapeHtml(title)}</h2>
         <p>${escapeHtml(description)}</p>
       </div>
-      <div class="card-grid">
+      <div class="card-grid scrollable">
         ${cards}
       </div>
     </section>
