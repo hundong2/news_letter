@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-02",
+  "updatedAt": "2026-02-03",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -127,6 +127,132 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
       "lastSeen": "2026-02-02"
+    },
+    "https://huggingface.co/papers/2602.00919": {
+      "title": "Green-VLA: Staged Vision-Language-Action Model for Generalist Robots",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://huggingface.co/papers/2602.02276": {
+      "title": "Kimi K2.5: Visual Agentic Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://huggingface.co/papers/2601.22060": {
+      "title": "Vision-DeepResearch: Incentivizing DeepResearch Capability in Multimodal Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://huggingface.co/papers/2602.02185": {
+      "title": "Vision-DeepResearch Benchmark: Rethinking Visual and Textual Search for Multimodal Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://huggingface.co/papers/2602.02084": {
+      "title": "Closing the Loop: Universal Repository Representation with RPG-Encoder",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "http://arxiv.org/abs/2602.02493v1": {
+      "title": "PixelGen: Pixel Diffusion Beats Latent Diffusion with Perceptual Loss",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "http://arxiv.org/abs/2602.02471v1": {
+      "title": "Multi-head automated segmentation by incorporating detection head into the contextual layer neural network",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "http://arxiv.org/abs/2503.07825v2": {
+      "title": "Helios 2.0: A Robust, Ultra-Low Power Gesture Recognition System Optimised for Event-Sensor based Wearables",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "http://arxiv.org/abs/2602.02465v1": {
+      "title": "MentisOculi: Revealing the Limits of Reasoning with Mental Imagery",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "http://arxiv.org/abs/2602.02444v1": {
+      "title": "RANKVIDEO: Reasoning Reranking for Text-to-Video Retrieval",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models": {
+      "title": "January 27, 2026 ATLAS: Practical scaling laws for multilingual models Generative AI &#183; Global &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://research.google/blog/introducing-gist-the-next-stage-in-smart-sampling": {
+      "title": "January 23, 2026 Introducing GIST: The next stage in smart sampling Algorithms & Theory &#183; Data Mining & Modeling &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://research.google/blog/small-models-big-results-achieving-superior-intent-extraction-through-decomposition": {
+      "title": "January 22, 2026 Small models, big results: Achieving superior intent extraction through decomposition Generative AI &#183; Machine Perception &#183; Mobile Systems",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches": {
+      "title": "January 15, 2026 Unlocking health insights: Estimating advanced walking metrics with smartwatches Health & Bioscience &#183; Human-Computer Interaction and Visualization",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise": {
+      "title": "OptiMind: A small language model with optimization expertise",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites": {
+      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://ai.google.dev/edge": {
+      "title": "Google AI Edge | Google AI for Developers",
+      "sourceId": "google_ai_edge",
+      "sourceName": "Google AI Edge",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
+    },
+    "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
+      "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
+      "sourceId": "open_vlm_leaderboard",
+      "sourceName": "Open VLM Leaderboard",
+      "firstSeen": "2026-02-03",
+      "lastSeen": "2026-02-03"
     }
   }
 }
