@@ -105,6 +105,11 @@ function decodeHtml(value) {
     .replace(/&nbsp;/g, ' ');
 }
 
+function extractText(value) {
+  if (!value) return '';
+  return stripTags(String(value)).replace(/\s+/g, ' ').trim();
+}
+
 function stripTags(value) {
   return decodeHtml(String(value || '').replace(/<[^>]*>/g, ' ')).replace(/\s+/g, ' ').trim();
 }
