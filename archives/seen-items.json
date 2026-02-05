@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-04",
+  "updatedAt": "2026-02-05",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -260,6 +260,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-04",
       "lastSeen": "2026-02-04"
+    },
+    "https://huggingface.co/papers/2602.01785": {
+      "title": "CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "https://huggingface.co/papers/2602.03786": {
+      "title": "AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "https://huggingface.co/papers/2602.02103": {
+      "title": "No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "https://huggingface.co/papers/2602.02660": {
+      "title": "MARS: Modular Agent with Reflective Search for Automated AI Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "https://huggingface.co/papers/2602.03796": {
+      "title": "3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "http://arxiv.org/abs/2602.03847v1": {
+      "title": "EventNeuS: 3D Mesh Reconstruction from a Single Event Camera",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "http://arxiv.org/abs/2602.03838v1": {
+      "title": "PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "http://arxiv.org/abs/2507.21802v4": {
+      "title": "MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "http://arxiv.org/abs/2602.03828v1": {
+      "title": "AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "http://arxiv.org/abs/2602.03826v1": {
+      "title": "Continuous Control of Editing Models via Adaptive-Origin Guidance",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
+    },
+    "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy": {
+      "title": "February 4, 2026 ​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy Algorithms & Theory",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-05",
+      "lastSeen": "2026-02-05"
     }
   }
 }
