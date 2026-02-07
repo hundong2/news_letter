@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-07",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 17,
+    "unique": 17,
+    "enriched": 17,
+    "trimmed": 17,
+    "summarized": 17
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "message": "Fetch error 429 for https://export.arxiv.org/api/query?search_query=cat:cs.CV&sortBy=lastUpdatedDate&sortOrder=descending&max_results=10"
+    }
+  ],
+  "geminiError": null
+}
