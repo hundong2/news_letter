@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-07",
+  "updatedAt": "2026-02-08",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -463,6 +463,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-07",
       "lastSeen": "2026-02-07"
+    },
+    "https://huggingface.co/papers/2602.02474": {
+      "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
+    },
+    "http://arxiv.org/abs/2602.06043v1": {
+      "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
+    },
+    "http://arxiv.org/abs/2602.06042v1": {
+      "title": "Pseudo-Invertible Neural Networks",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
+    },
+    "http://arxiv.org/abs/2602.06041v1": {
+      "title": "Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
+    },
+    "http://arxiv.org/abs/2602.06040v1": {
+      "title": "SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
+    },
+    "http://arxiv.org/abs/2602.06038v1": {
+      "title": "CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-08",
+      "lastSeen": "2026-02-08"
     }
   }
 }
