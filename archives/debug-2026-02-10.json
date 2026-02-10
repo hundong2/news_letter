@@ -1,0 +1,20 @@
+{
+  "date": "2026-02-10",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 17,
+    "unique": 6,
+    "enriched": 6,
+    "trimmed": 6,
+    "summarized": 6
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "message": "The operation was aborted."
+    }
+  ],
+  "geminiError": null
+}

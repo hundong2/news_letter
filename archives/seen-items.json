@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-09",
+  "updatedAt": "2026-02-10",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -512,6 +512,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-09",
       "lastSeen": "2026-02-09"
+    },
+    "https://huggingface.co/papers/2602.06717": {
+      "title": "F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
+    },
+    "https://huggingface.co/papers/2602.06570": {
+      "title": "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
+    },
+    "https://huggingface.co/papers/2602.05843": {
+      "title": "OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
+    },
+    "https://huggingface.co/papers/2602.05027": {
+      "title": "AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
+    },
+    "https://huggingface.co/papers/2602.03392": {
+      "title": "On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
+    },
+    "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries": {
+      "title": "February 9, 2026 How AI trained on birds is surfacing underwater mysteries Climate & Sustainability &#183; Open Source Models & Datasets &#183; Sound & Accoustics",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-10",
+      "lastSeen": "2026-02-10"
     }
   }
 }
