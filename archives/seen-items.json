@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-10",
+  "updatedAt": "2026-02-11",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -554,6 +554,48 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-10",
       "lastSeen": "2026-02-10"
+    },
+    "https://huggingface.co/papers/2602.07085": {
+      "title": "QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
+    },
+    "https://huggingface.co/papers/2602.08794": {
+      "title": "MOVA: Towards Scalable and Synchronized Video-Audio Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
+    },
+    "https://huggingface.co/papers/2602.07026": {
+      "title": "Modality Gap-Driven Subspace Alignment Training Paradigm For Multimodal Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
+    },
+    "https://huggingface.co/papers/2602.08222": {
+      "title": "Weak-Driven Learning: How Weak Agents make Strong Agents Stronger",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
+    },
+    "https://huggingface.co/papers/2602.06855": {
+      "title": "AIRS-Bench: a Suite of Tasks for Frontier AI Research Science Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
+    },
+    "https://research.google/blog/beyond-one-on-one-authoring-simulating-and-testing-dynamic-human-ai-group-conversations": {
+      "title": "February 10, 2026 Beyond one-on-one: Authoring, simulating, and testing dynamic human-AI group conversations Human-Computer Interaction and Visualization &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-11",
+      "lastSeen": "2026-02-11"
     }
   }
 }
