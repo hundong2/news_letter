@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-11",
+  "updatedAt": "2026-02-12",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -596,6 +596,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-11",
       "lastSeen": "2026-02-11"
+    },
+    "https://huggingface.co/papers/2602.05400": {
+      "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "https://huggingface.co/papers/2602.09856": {
+      "title": "Code2World: A GUI World Model via Renderable Code Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "https://huggingface.co/papers/2602.09082": {
+      "title": "UI-Venus-1.5 Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "https://huggingface.co/papers/2602.10063": {
+      "title": "Chain of Mindset: Reasoning with Adaptive Cognitive Modes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "https://huggingface.co/papers/2602.08234": {
+      "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "http://arxiv.org/abs/2602.10116v1": {
+      "title": "SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "http://arxiv.org/abs/2602.10115v1": {
+      "title": "Quantum Multiple Rotation Averaging",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "http://arxiv.org/abs/2602.10113v1": {
+      "title": "ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "http://arxiv.org/abs/2602.10104v1": {
+      "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "http://arxiv.org/abs/2602.10102v1": {
+      "title": "VideoWorld 2: Learning Transferable Knowledge from Real-world Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
+    },
+    "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity": {
+      "title": "February 11, 2026 Scheduling in a changing world: Maximizing throughput with time-varying capacity Algorithms & Theory",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-12",
+      "lastSeen": "2026-02-12"
     }
   }
 }
