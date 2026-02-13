@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-12",
+  "updatedAt": "2026-02-13",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -673,6 +673,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-12",
       "lastSeen": "2026-02-12"
+    },
+    "https://huggingface.co/papers/2602.10604": {
+      "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "https://huggingface.co/papers/2602.11124": {
+      "title": "PhyCritic: Multimodal Critic Models for Physical AI",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "https://huggingface.co/papers/2602.11144": {
+      "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "https://huggingface.co/papers/2602.04935": {
+      "title": "ASA: Training-Free Representation Engineering for Tool-Calling Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "https://huggingface.co/papers/2602.10177": {
+      "title": "Towards Autonomous Mathematics Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "http://arxiv.org/abs/2602.11154v1": {
+      "title": "SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "http://arxiv.org/abs/2602.11146v1": {
+      "title": "Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "http://arxiv.org/abs/2602.11144v1": {
+      "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "http://arxiv.org/abs/2512.04890v5": {
+      "title": "Equivariant symmetry-aware head pose estimation for fetal MRI",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
+    },
+    "http://arxiv.org/abs/2602.08025v2": {
+      "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-13",
+      "lastSeen": "2026-02-13"
     }
   }
 }
