@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-13",
+  "updatedAt": "2026-02-14",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -743,6 +743,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-13",
       "lastSeen": "2026-02-13"
+    },
+    "https://huggingface.co/papers/2602.09877": {
+      "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "https://huggingface.co/papers/2602.12036": {
+      "title": "Composition-RL: Compose Your Verifiable Prompts for Reinforcement Learning of Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "https://huggingface.co/papers/2602.12205": {
+      "title": "DeepGen 1.0: A Lightweight Unified Multimodal Model for Advancing Image Generation and Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "https://huggingface.co/papers/2602.12125": {
+      "title": "Learning beyond Teacher: Generalized On-Policy Distillation with Reward Extrapolation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "https://huggingface.co/papers/2602.10934": {
+      "title": "MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "http://arxiv.org/abs/2602.12280v1": {
+      "title": "Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "http://arxiv.org/abs/2602.12279v1": {
+      "title": "UniT: Unified Multimodal Chain-of-Thought Test-time Scaling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "http://arxiv.org/abs/2602.12271v1": {
+      "title": "MonarchRT: Efficient Attention for Real-Time Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "http://arxiv.org/abs/2602.12236v1": {
+      "title": "Energy-Aware Spike Budgeting for Continual Learning in Spiking Neural Networks for Neuromorphic Vision",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
+    },
+    "http://arxiv.org/abs/2602.12222v1": {
+      "title": "Towards On-Policy SFT: Distribution Discriminant Theory and its Applications in LLM Training",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-14",
+      "lastSeen": "2026-02-14"
     }
   }
 }
