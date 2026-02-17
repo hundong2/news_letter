@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-16",
+  "updatedAt": "2026-02-17",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -820,6 +820,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-16",
       "lastSeen": "2026-02-16"
+    },
+    "https://huggingface.co/papers/2602.10388": {
+      "title": "Less is Enough: Synthesizing Diverse Data in Feature Space of LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "https://huggingface.co/papers/2602.12783": {
+      "title": "SQuTR: A Robustness Benchmark for Spoken Query to Text Retrieval under Acoustic Noise",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "https://huggingface.co/papers/2602.12705": {
+      "title": "MedXIAOHE: A Comprehensive Recipe for Building Medical MLLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "https://huggingface.co/papers/2602.11858": {
+      "title": "Zooming without Zooming: Region-to-Image Distillation for Fine-Grained Multimodal Perception",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "https://huggingface.co/papers/2602.08683": {
+      "title": "OneVision-Encoder: Codec-Aligned Sparsity as a Foundational Principle for Multimodal Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "http://arxiv.org/abs/2602.13197v1": {
+      "title": "Imitating What Works: Simulation-Filtered Modular Policy Learning from Human Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "http://arxiv.org/abs/2602.13195v1": {
+      "title": "Conversational Image Segmentation: Grounding Abstract Concepts with Scalable Supervision",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "http://arxiv.org/abs/2602.13191v1": {
+      "title": "CoPE-VideoLM: Codec Primitives For Efficient Video Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "http://arxiv.org/abs/2602.13185v1": {
+      "title": "FlexAM: Flexible Appearance-Motion Decomposition for Versatile Video Generation Control",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
+    },
+    "http://arxiv.org/abs/2602.13176v1": {
+      "title": "Monocular Markerless Motion Capture Enables Quantitative Assessment of Upper Extremity Reachable Workspace",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-17",
+      "lastSeen": "2026-02-17"
     }
   }
 }
