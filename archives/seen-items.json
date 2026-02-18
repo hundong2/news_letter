@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-17",
+  "updatedAt": "2026-02-18",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -890,6 +890,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-17",
       "lastSeen": "2026-02-17"
+    },
+    "https://huggingface.co/papers/2602.10809": {
+      "title": "DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "https://huggingface.co/papers/2602.13949": {
+      "title": "Experiential Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "https://huggingface.co/papers/2602.14234": {
+      "title": "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "https://huggingface.co/papers/2602.14265": {
+      "title": "STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "https://huggingface.co/papers/2602.14492": {
+      "title": "Query as Anchor: Scenario-Adaptive User Representation via Large Language Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "http://arxiv.org/abs/2602.15031v1": {
+      "title": "EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "http://arxiv.org/abs/2602.15030v1": {
+      "title": "Image Generation with a Sphere Encoder",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "http://arxiv.org/abs/2503.04641v3": {
+      "title": "Simulating the Real World: A Unified Survey of Multimodal Generative Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "http://arxiv.org/abs/2602.15018v1": {
+      "title": "Neurosim: A Fast Simulator for Neuromorphic Robot Perception",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "http://arxiv.org/abs/2506.17040v3": {
+      "title": "Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
+    },
+    "https://research.google/blog/teaching-ai-to-read-a-map": {
+      "title": "February 17, 2026 Teaching AI to read a map Machine Perception &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-02-18",
+      "lastSeen": "2026-02-18"
     }
   }
 }
