@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-18",
+  "updatedAt": "2026-02-19",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -967,6 +967,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-18",
       "lastSeen": "2026-02-18"
+    },
+    "https://huggingface.co/papers/2602.14111": {
+      "title": "Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "https://huggingface.co/papers/2602.12670": {
+      "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "https://huggingface.co/papers/2602.15763": {
+      "title": "GLM-5: from Vibe Coding to Agentic Engineering",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "https://huggingface.co/papers/2602.14299": {
+      "title": "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "https://huggingface.co/papers/2602.15112": {
+      "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "http://arxiv.org/abs/2602.15828v1": {
+      "title": "Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "http://arxiv.org/abs/2602.15819v1": {
+      "title": "VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "http://arxiv.org/abs/2602.15811v1": {
+      "title": "Task-Agnostic Continual Learning for Chest Radiograph Classification",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "http://arxiv.org/abs/2602.15783v1": {
+      "title": "Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "http://arxiv.org/abs/2602.15782v1": {
+      "title": "Meteorological data and Sky Images meets Neural Models for Photovoltaic Power Forecasting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
+    },
+    "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology": {
+      "title": "Project Silica’s advances in glass storage technology",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-19",
+      "lastSeen": "2026-02-19"
     }
   }
 }
