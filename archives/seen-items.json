@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-19",
+  "updatedAt": "2026-02-20",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1044,6 +1044,83 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-19",
       "lastSeen": "2026-02-19"
+    },
+    "https://huggingface.co/papers/2602.12675": {
+      "title": "SLA2: Sparse-Linear Attention with Learnable Routing and QAT",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "https://huggingface.co/papers/2602.14979": {
+      "title": "RynnBrain: Open Embodied Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "https://huggingface.co/papers/2602.16705": {
+      "title": "Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "https://huggingface.co/papers/2602.16317": {
+      "title": "CADEvolve: Creating Realistic CAD via Program Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "https://huggingface.co/papers/2602.14080": {
+      "title": "Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "http://arxiv.org/abs/2602.16711v1": {
+      "title": "TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "http://arxiv.org/abs/2602.16705v1": {
+      "title": "Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "http://arxiv.org/abs/2602.16702v1": {
+      "title": "Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "http://arxiv.org/abs/2602.16689v1": {
+      "title": "Are Object-Centric Representations Better At Compositional Generalization?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "http://arxiv.org/abs/2411.11706v4": {
+      "title": "MC-LLaVA: Multi-Concept Personalized Vision-Language Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
+    },
+    "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions": {
+      "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-20",
+      "lastSeen": "2026-02-20"
     }
   }
 }
