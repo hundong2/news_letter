@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-22",
+  "updatedAt": "2026-02-23",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -413,7 +413,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models": {
       "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
@@ -553,7 +553,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.07085": {
       "title": "QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining",
@@ -595,7 +595,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-11",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.05400": {
       "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
@@ -672,7 +672,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.10604": {
       "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
@@ -966,7 +966,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.14111": {
       "title": "Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?",
@@ -1043,7 +1043,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.12675": {
       "title": "SLA2: Sparse-Linear Attention with Learnable Routing and QAT",
@@ -1120,28 +1120,28 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.13515": {
       "title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.17270": {
       "title": "Unified Latents (UL): How to train your latents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.16855": {
       "title": "Mobile-Agent-v3.5: Multi-platform Fundamental GUI Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.15569": {
       "title": "\"What Are You Doing?\": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing",
@@ -1162,49 +1162,49 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "http://arxiv.org/abs/2602.17659v1": {
       "title": "When Vision Overrides Language: Evaluating and Mitigating Counterfactual Failures in VLAs",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "http://arxiv.org/abs/2602.17650v1": {
       "title": "Human-level 3D shape perception emerges from multi-view learning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "http://arxiv.org/abs/2602.17645v1": {
       "title": "Pushing the Frontier of Black-Box LVLM Attacks via Fine-Grained Detail Targeting",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "http://arxiv.org/abs/2602.17639v1": {
       "title": "IntRec: Intent-based Retrieval with Contrastive Refinement",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.14457": {
       "title": "Frontier AI Risk Management Framework in Practice: A Risk Analysis Technical Report v1.5",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-22",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     },
     "https://huggingface.co/papers/2602.17004": {
       "title": "Arcee Trinity Large Technical Report",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-22",
-      "lastSeen": "2026-02-22"
+      "lastSeen": "2026-02-23"
     }
   }
 }
