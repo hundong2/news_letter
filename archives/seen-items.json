@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-23",
+  "updatedAt": "2026-02-24",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1205,6 +1205,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-22",
       "lastSeen": "2026-02-23"
+    },
+    "https://huggingface.co/papers/2602.10693": {
+      "title": "VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "https://huggingface.co/papers/2602.08354": {
+      "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "https://huggingface.co/papers/2602.18422": {
+      "title": "Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "https://huggingface.co/papers/2602.18292": {
+      "title": "Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "https://huggingface.co/papers/2602.15727": {
+      "title": "Spanning the Visual Analogy Space with a Weight Basis of LoRAs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "http://arxiv.org/abs/2602.18434v1": {
+      "title": "Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "http://arxiv.org/abs/2602.18432v1": {
+      "title": "SARAH: Spatially Aware Real-time Agentic Humans",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "http://arxiv.org/abs/2602.18428v1": {
+      "title": "The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "http://arxiv.org/abs/2602.18426v1": {
+      "title": "Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
+    },
+    "http://arxiv.org/abs/2602.18424v1": {
+      "title": "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-24",
+      "lastSeen": "2026-02-24"
     }
   }
 }
