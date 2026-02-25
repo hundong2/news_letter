@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-24",
+  "updatedAt": "2026-02-25",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1275,6 +1275,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-24",
       "lastSeen": "2026-02-24"
+    },
+    "https://huggingface.co/papers/2602.20159": {
+      "title": "A Very Big Video Reasoning Suite",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "https://huggingface.co/papers/2602.18532": {
+      "title": "VLANeXt: Recipes for Building Strong VLA Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "https://huggingface.co/papers/2602.19672": {
+      "title": "SkillOrchestra: Learning to Route Agents via Skill Transfer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "https://huggingface.co/papers/2602.19313": {
+      "title": "TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "https://huggingface.co/papers/2602.20161": {
+      "title": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "http://arxiv.org/abs/2602.20161v1": {
+      "title": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "http://arxiv.org/abs/2602.17665v2": {
+      "title": "OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "http://arxiv.org/abs/2602.20160v1": {
+      "title": "tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "http://arxiv.org/abs/2602.20159v1": {
+      "title": "A Very Big Video Reasoning Suite",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
+    },
+    "http://arxiv.org/abs/2602.20157v1": {
+      "title": "Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-25",
+      "lastSeen": "2026-02-25"
     }
   }
 }
