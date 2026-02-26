@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-25",
+  "updatedAt": "2026-02-26",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1345,6 +1345,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-25",
       "lastSeen": "2026-02-25"
+    },
+    "https://huggingface.co/papers/2602.21193": {
+      "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "https://huggingface.co/papers/2602.12192": {
+      "title": "Query-focused and Memory-aware Reranker for Long Context Processing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "https://huggingface.co/papers/2602.20739": {
+      "title": "PyVision-RL: Forging Open Agentic Vision Models via RL",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "https://huggingface.co/papers/2602.21015": {
+      "title": "From Perception to Action: An Interactive Benchmark for Vision Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "https://huggingface.co/papers/2602.21204": {
+      "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "http://arxiv.org/abs/2602.21204v1": {
+      "title": "Test-Time Training with KV Binding Is Secretly Linear Attention",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "http://arxiv.org/abs/2602.21203v1": {
+      "title": "Squint: Fast Visual Reinforcement Learning for Sim-to-Real Robotics",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "http://arxiv.org/abs/2602.21202v1": {
+      "title": "Multi-Vector Index Compression in Any Modality",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "http://arxiv.org/abs/2602.21198v1": {
+      "title": "Learning from Trials and Errors: Reflective Test-Time Planning for Embodied LLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
+    },
+    "http://arxiv.org/abs/2602.21195v1": {
+      "title": "Region of Interest Segmentation and Morphological Analysis for Membranes in Cryo-Electron Tomography",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-26",
+      "lastSeen": "2026-02-26"
     }
   }
 }
