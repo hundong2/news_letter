@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-26",
+  "updatedAt": "2026-02-27",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1415,6 +1415,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-26",
       "lastSeen": "2026-02-26"
+    },
+    "https://huggingface.co/papers/2602.18283": {
+      "title": "HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "https://huggingface.co/papers/2602.17602": {
+      "title": "MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "https://huggingface.co/papers/2602.12160": {
+      "title": "DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "https://huggingface.co/papers/2602.21818": {
+      "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "https://huggingface.co/papers/2602.21534": {
+      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "http://arxiv.org/abs/2602.22212v1": {
+      "title": "Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "http://arxiv.org/abs/2602.22209v1": {
+      "title": "WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "http://arxiv.org/abs/2602.22208v1": {
+      "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "http://arxiv.org/abs/2602.00288v3": {
+      "title": "TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "http://arxiv.org/abs/2602.22197v1": {
+      "title": "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
+    },
+    "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work": {
+      "title": "CORPGEN advances AI agents for real work",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-02-27",
+      "lastSeen": "2026-02-27"
     }
   }
 }
