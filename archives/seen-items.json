@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-02-28",
+  "updatedAt": "2026-03-01",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -413,7 +413,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://www.microsoft.com/en-us/research/blog/rethinking-imitation-learning-with-predictive-inverse-dynamics-models": {
       "title": "Rethinking imitation learning with Predictive Inverse Dynamics Models",
@@ -553,7 +553,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.07085": {
       "title": "QuantaAlpha: An Evolutionary Framework for LLM-Driven Alpha Mining",
@@ -595,7 +595,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-11",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.05400": {
       "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
@@ -672,7 +672,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.10604": {
       "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
@@ -966,7 +966,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.14111": {
       "title": "Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?",
@@ -1120,7 +1120,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-23"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.13515": {
       "title": "SpargeAttention2: Trainable Sparse Attention via Hybrid Top-k+Top-p Masking and Distillation Fine-Tuning",
@@ -1491,77 +1491,77 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.23152": {
       "title": "The Trinity of Consistency as a Defining Principle for General World Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.22859": {
       "title": "From Blind Spots to Gains: Diagnostic-Driven Iterative Training for Large Multimodal Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.22638": {
       "title": "MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.22897": {
       "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "https://huggingface.co/papers/2602.22766": {
       "title": "Imagination Helps Visual Reasoning, But Not Yet in Latent Space",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "http://arxiv.org/abs/2602.23363v1": {
       "title": "MediX-R1: Open Ended Medical Reinforcement Learning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "http://arxiv.org/abs/2501.02158v2": {
       "title": "Joint Optimization for 4D Human-Scene Reconstruction in the Wild",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "http://arxiv.org/abs/2602.23361v1": {
       "title": "VGG-T$^3$: Offline Feed-Forward 3D Reconstruction at Scale",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "http://arxiv.org/abs/2602.23359v1": {
       "title": "SeeThrough3D: Occlusion Aware 3D Control in Text-to-Image Generation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     },
     "http://arxiv.org/abs/2602.23358v1": {
       "title": "A Dataset is Worth 1 MB",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
-      "lastSeen": "2026-02-28"
+      "lastSeen": "2026-03-01"
     }
   }
 }
