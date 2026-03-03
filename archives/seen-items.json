@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-02",
+  "updatedAt": "2026-03-03",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1562,6 +1562,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-02-28",
       "lastSeen": "2026-03-02"
+    },
+    "https://huggingface.co/papers/2602.22661": {
+      "title": "dLLM: Simple Diffusion Language Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "https://huggingface.co/papers/2602.24233": {
+      "title": "Enhancing Spatial Understanding in Image Generation via Reward Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "https://huggingface.co/papers/2602.22207": {
+      "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "https://huggingface.co/papers/2602.24286": {
+      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "https://huggingface.co/papers/2602.24289": {
+      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "http://arxiv.org/abs/2602.24290v1": {
+      "title": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "http://arxiv.org/abs/2602.24289v1": {
+      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "http://arxiv.org/abs/2602.24275v1": {
+      "title": "Hierarchical Action Learning for Weakly-Supervised Action Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "http://arxiv.org/abs/2509.25094v3": {
+      "title": "Unsupervised Representation Learning for 3D Mesh Parameterization with Semantic and Visibility Objectives",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
+    },
+    "http://arxiv.org/abs/2602.24264v1": {
+      "title": "Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-03",
+      "lastSeen": "2026-03-03"
     }
   }
 }
