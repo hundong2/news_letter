@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-03",
+  "updatedAt": "2026-03-04",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1632,6 +1632,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-03",
       "lastSeen": "2026-03-03"
+    },
+    "https://huggingface.co/papers/2603.00141": {
+      "title": "From Scale to Speed: Adaptive Test-Time Scaling for Image Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "https://huggingface.co/papers/2603.02138": {
+      "title": "OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "https://huggingface.co/papers/2602.23866": {
+      "title": "SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "https://huggingface.co/papers/2603.01562": {
+      "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "https://huggingface.co/papers/2603.01824": {
+      "title": "OpenAutoNLU: Open Source AutoML Library for NLU",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "http://arxiv.org/abs/2603.02210v1": {
+      "title": "HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "http://arxiv.org/abs/2602.19385v2": {
+      "title": "Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "http://arxiv.org/abs/2602.20160v2": {
+      "title": "tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "http://arxiv.org/abs/2603.02200v1": {
+      "title": "Adaptive Confidence Regularization for Multimodal Failure Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
+    },
+    "http://arxiv.org/abs/2603.02194v1": {
+      "title": "From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-04",
+      "lastSeen": "2026-03-04"
     }
   }
 }
