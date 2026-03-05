@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-04",
+  "updatedAt": "2026-03-05",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1702,6 +1702,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-04",
       "lastSeen": "2026-03-04"
+    },
+    "https://huggingface.co/papers/2603.03283": {
+      "title": "Utonia: Toward One Encoder for All Point Clouds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://huggingface.co/papers/2603.03241": {
+      "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://huggingface.co/papers/2603.03276": {
+      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://huggingface.co/papers/2603.03194": {
+      "title": "BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://huggingface.co/papers/2603.01571": {
+      "title": "Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "http://arxiv.org/abs/2603.03283v1": {
+      "title": "Utonia: Toward One Encoder for All Point Clouds",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "http://arxiv.org/abs/2603.03282v1": {
+      "title": "MIBURI: Towards Expressive Interactive Gesture Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "http://arxiv.org/abs/2603.03281v1": {
+      "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "http://arxiv.org/abs/2603.03280v1": {
+      "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "http://arxiv.org/abs/2603.03279v1": {
+      "title": "ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://research.google/blog/teaching-llms-to-reason-like-bayesians": {
+      "title": "March 4, 2026 Teaching LLMs to reason like Bayesians Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
+    },
+    "https://www.microsoft.com/en-us/research/blog/phi-4-reasoning-vision-and-the-lessons-of-training-a-multimodal-reasoning-model": {
+      "title": "Phi-4-reasoning-vision and the lessons of training a multimodal reasoning model",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-03-05",
+      "lastSeen": "2026-03-05"
     }
   }
 }
