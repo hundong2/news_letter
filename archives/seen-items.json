@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-05",
+  "updatedAt": "2026-03-06",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1786,6 +1786,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-05",
       "lastSeen": "2026-03-05"
+    },
+    "https://huggingface.co/papers/2603.04379": {
+      "title": "Helios: Real Real-Time Long Video Generation Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "https://huggingface.co/papers/2603.03790": {
+      "title": "T2S-Bench & Structure-of-Thought: Benchmarking and Prompting Comprehensive Text-to-Structure Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "https://huggingface.co/papers/2603.02604": {
+      "title": "Heterogeneous Agent Collaborative Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "https://huggingface.co/papers/2603.03447": {
+      "title": "Proact-VL: A Proactive VideoLLM for Real-Time AI Companions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "https://huggingface.co/papers/2603.03379": {
+      "title": "MemSifter: Offloading LLM Memory Retrieval via Outcome-Driven Proxy Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "http://arxiv.org/abs/2603.04399v1": {
+      "title": "SimpliHuMoN: Simplifying Human Motion Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "http://arxiv.org/abs/2603.04385v1": {
+      "title": "ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "http://arxiv.org/abs/2510.15040v2": {
+      "title": "Composition-Grounded Data Synthesis for Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "http://arxiv.org/abs/2603.04380v1": {
+      "title": "TaxonRL: Reinforcement Learning with Intermediate Rewards for Interpretable Fine-Grained Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
+    },
+    "http://arxiv.org/abs/2603.04379v1": {
+      "title": "Helios: Real Real-Time Long Video Generation Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-06",
+      "lastSeen": "2026-03-06"
     }
   }
 }
