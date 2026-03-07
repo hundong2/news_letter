@@ -1,0 +1,14 @@
+{
+  "date": "2026-03-07",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 22,
+    "unique": 12,
+    "enriched": 12,
+    "trimmed": 12,
+    "summarized": 12
+  },
+  "sourceErrors": [],
+  "geminiError": null
+}

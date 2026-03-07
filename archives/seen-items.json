@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-06",
+  "updatedAt": "2026-03-07",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1856,6 +1856,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-06",
       "lastSeen": "2026-03-06"
+    },
+    "https://huggingface.co/papers/2603.03756": {
+      "title": "MOOSE-Star: Unlocking Tractable Training for Scientific Discovery by Breaking the Complexity Barrier",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://huggingface.co/papers/2603.04448": {
+      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://huggingface.co/papers/2603.04743": {
+      "title": "DARE: Aligning LLM Agents with the R Statistical Ecosystem via Distribution-Aware Retrieval",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://huggingface.co/papers/2602.23166": {
+      "title": "AgentVista: Evaluating Multimodal Agents in Ultra-Challenging Realistic Visual Scenarios",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://huggingface.co/papers/2603.05504": {
+      "title": "RoboPocket: Improve Robot Policies Instantly with Your Phone",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "http://arxiv.org/abs/2603.05507v1": {
+      "title": "Transformer-Based Inpainting for Real-Time 3D Streaming in Sparse Multi-Camera Setups",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "http://arxiv.org/abs/2603.05506v1": {
+      "title": "FaceCam: Portrait Video Camera Control via Scale-Aware Conditioning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "http://arxiv.org/abs/2603.05503v1": {
+      "title": "Accelerating Text-to-Video Generation with Calibrated Sparse Attention",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "http://arxiv.org/abs/2603.05484v1": {
+      "title": "Towards Multimodal Lifelong Understanding: A Dataset and Agentic Baseline",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "http://arxiv.org/abs/2603.05473v1": {
+      "title": "Towards 3D Scene Understanding of Gas Plumes in LWIR Hyperspectral Images Using Neural Radiance Fields",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet": {
+      "title": "March 6, 2026 Where wild things roam: Identifying wildlife with SpeciesNet Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
+    },
+    "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology": {
+      "title": "March 6, 2026 WAXAL: A large-scale open resource for African language speech technology Natural Language Processing &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-07",
+      "lastSeen": "2026-03-07"
     }
   }
 }
