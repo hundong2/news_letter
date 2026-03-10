@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-09",
+  "updatedAt": "2026-03-10",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -1940,6 +1940,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-07",
       "lastSeen": "2026-03-09"
+    },
+    "https://huggingface.co/papers/2603.06569": {
+      "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "https://huggingface.co/papers/2603.04918": {
+      "title": "BandPO: Bridging Trust Regions and Ratio Clipping via Probability-Aware Bounds for LLM Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "https://huggingface.co/papers/2603.05438": {
+      "title": "Planning in 8 Tokens: A Compact Discrete Tokenizer for Latent World Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "https://huggingface.co/papers/2603.04639": {
+      "title": "RoboMME: Benchmarking and Understanding Memory for Robotic Generalist Policies",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "https://huggingface.co/papers/2603.00586": {
+      "title": "WildActor: Unconstrained Identity-Preserving Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "http://arxiv.org/abs/2603.06578v1": {
+      "title": "Multimodal Large Language Models as Image Classifiers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "http://arxiv.org/abs/2603.06577v1": {
+      "title": "Omni-Diffusion: Unified Multimodal Understanding and Generation with Masked Discrete Diffusion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "http://arxiv.org/abs/2603.06576v1": {
+      "title": "BEVLM: Distilling Semantic Knowledge from LLMs into Bird's-Eye View Representations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "http://arxiv.org/abs/2603.06572v1": {
+      "title": "SCOPE: Scene-Contextualized Incremental Few-Shot 3D Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
+    },
+    "http://arxiv.org/abs/2603.06570v1": {
+      "title": "SUREON: A Benchmark and Vision-Language-Model for Surgical Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-10",
+      "lastSeen": "2026-03-10"
     }
   }
 }
