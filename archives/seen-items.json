@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-10",
+  "updatedAt": "2026-03-11",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2010,6 +2010,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-10",
       "lastSeen": "2026-03-10"
+    },
+    "https://huggingface.co/papers/2603.05890": {
+      "title": "Lost in Stories: Consistency Bugs in Long Story Generation by LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "https://huggingface.co/papers/2603.07660": {
+      "title": "Holi-Spatial: Evolving Video Streams into Holistic 3D Spatial Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "https://huggingface.co/papers/2603.03269": {
+      "title": "LoGeR: Long-Context Geometric Reconstruction with Hybrid Memory",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "https://huggingface.co/papers/2603.03872": {
+      "title": "Believe Your Model: Distribution-Guided Confidence Calibration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "https://huggingface.co/papers/2603.08660": {
+      "title": "How Far Can Unsupervised RLVR Scale LLM Training?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "http://arxiv.org/abs/2603.08709v1": {
+      "title": "Scale Space Diffusion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "http://arxiv.org/abs/2603.08708v1": {
+      "title": "FVG-PT: Adaptive Foreground View-Guided Prompt Tuning for Vision-Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "http://arxiv.org/abs/2603.08703v1": {
+      "title": "HiAR: Efficient Autoregressive Long Video Generation via Hierarchical Denoising",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "http://arxiv.org/abs/2603.08681v1": {
+      "title": "ER-Pose: Rethinking Keypoint-Driven Representation Learning for Real-Time Human Pose Estimation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "http://arxiv.org/abs/2603.08674v1": {
+      "title": "Talking Together: Synthesizing Co-Located 3D Conversations from Audio",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
+    },
+    "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents": {
+      "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-03-11",
+      "lastSeen": "2026-03-11"
     }
   }
 }
