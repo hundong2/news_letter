@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-12",
+  "updatedAt": "2026-03-13",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2164,6 +2164,97 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-12",
       "lastSeen": "2026-03-12"
+    },
+    "https://huggingface.co/papers/2603.10165": {
+      "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://huggingface.co/papers/2603.09229": {
+      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://huggingface.co/papers/2603.09827": {
+      "title": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://huggingface.co/papers/2603.10913": {
+      "title": "LLM2Vec-Gen: Generative Embeddings from Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://huggingface.co/papers/2603.10160": {
+      "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "http://arxiv.org/abs/2603.11048v1": {
+      "title": "COMIC: Agentic Sketch Comedy Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "http://arxiv.org/abs/2603.11047v1": {
+      "title": "LiTo: Surface Light Field Tokenization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "http://arxiv.org/abs/2603.11045v1": {
+      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "http://arxiv.org/abs/2603.11044v1": {
+      "title": "Agentar-Fin-OCR",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "http://arxiv.org/abs/2603.11042v1": {
+      "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting": {
+      "title": "March 12, 2026 Protecting cities with AI-driven flash flood forecasting Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini": {
+      "title": "March 12, 2026 Introducing Groundsource: Turning news reports into data with Gemini Climate & Sustainability &#183; Generative AI &#183; Natural Language Processing &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
+    },
+    "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework": {
+      "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-03-13",
+      "lastSeen": "2026-03-13"
     }
   }
 }
