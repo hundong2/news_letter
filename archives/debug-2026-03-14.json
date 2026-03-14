@@ -1,0 +1,14 @@
+{
+  "date": "2026-03-14",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 22,
+    "unique": 10,
+    "enriched": 10,
+    "trimmed": 10,
+    "summarized": 10
+  },
+  "sourceErrors": [],
+  "geminiError": "Gemini API Error: 503 {\n  \"error\": {\n    \"code\": 503,\n    \"message\": \"This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.\",\n    \"status\": \"UNAVAILABLE\"\n  }\n}\n"
+}
