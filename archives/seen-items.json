@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-14",
+  "updatedAt": "2026-03-15",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-03-09"
+      "lastSeen": "2026-03-15"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -1932,14 +1932,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-07",
-      "lastSeen": "2026-03-09"
+      "lastSeen": "2026-03-15"
     },
     "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology": {
       "title": "March 6, 2026 WAXAL: A large-scale open resource for African language speech technology Natural Language Processing &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-07",
-      "lastSeen": "2026-03-09"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.06569": {
       "title": "Penguin-VL: Exploring the Efficiency Limits of VLM with LLM-based Vision Encoders",
@@ -2086,7 +2086,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-11",
-      "lastSeen": "2026-03-11"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.03143": {
       "title": "Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing",
@@ -2163,7 +2163,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-12",
-      "lastSeen": "2026-03-12"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.10165": {
       "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
@@ -2240,49 +2240,49 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
+      "lastSeen": "2026-03-15"
     },
     "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini": {
       "title": "March 12, 2026 Introducing Groundsource: Turning news reports into data with Gemini Climate & Sustainability &#183; Generative AI &#183; Natural Language Processing &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
+      "lastSeen": "2026-03-15"
     },
     "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework": {
       "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.12255": {
       "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.12180": {
       "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.12201": {
       "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.10178": {
       "title": "Video-Based Reward Modeling for Computer-Use Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "https://huggingface.co/papers/2603.12257": {
       "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
@@ -2296,35 +2296,42 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "http://arxiv.org/abs/2603.12266v1": {
       "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "http://arxiv.org/abs/2603.12265v1": {
       "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "http://arxiv.org/abs/2603.12264v1": {
       "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
     },
     "http://arxiv.org/abs/2603.12262v1": {
       "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
+      "lastSeen": "2026-03-15"
+    },
+    "https://huggingface.co/papers/2603.11421": {
+      "title": "ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-15",
+      "lastSeen": "2026-03-15"
     }
   }
 }
