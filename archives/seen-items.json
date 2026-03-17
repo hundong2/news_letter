@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-16",
+  "updatedAt": "2026-03-17",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2332,6 +2332,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-15",
       "lastSeen": "2026-03-16"
+    },
+    "https://huggingface.co/papers/2603.12572": {
+      "title": "LMEB: Long-horizon Memory Embedding Benchmark",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "https://huggingface.co/papers/2603.12793": {
+      "title": "Cheers: Decoupling Patch Details from Semantic Representations Enables Unified Multimodal Comprehension and Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "https://huggingface.co/papers/2603.08436": {
+      "title": "Can Vision-Language Models Solve the Shell Game?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "https://huggingface.co/papers/2603.13023": {
+      "title": "daVinci-Env: Open SWE Environment Synthesis at Scale",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "https://huggingface.co/papers/2603.11647": {
+      "title": "OmniForcing: Unleashing Real-time Joint Audio-Visual Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "http://arxiv.org/abs/2603.13228v1": {
+      "title": "PhysMoDPO: Physically-Plausible Humanoid Motion with Preference Optimization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "http://arxiv.org/abs/2603.13227v1": {
+      "title": "Representation Learning for Spatiotemporal Physical Systems",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "http://arxiv.org/abs/2603.13224v1": {
+      "title": "Visual-ERM: Reward Modeling for Visual Equivalence",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "http://arxiv.org/abs/2603.13215v1": {
+      "title": "Out of Sight, Out of Mind? Evaluating State Evolution in Video World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "http://arxiv.org/abs/2601.19577v2": {
+      "title": "MaDiS: Taming Masked Diffusion Language Models for Sign Language Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
+    },
+    "https://research.google/blog/testing-llms-on-superconductivity-research-questions": {
+      "title": "March 16, 2026 Testing LLMs on superconductivity research questions Education Innovation &#183; General Science &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-17",
+      "lastSeen": "2026-03-17"
     }
   }
 }
