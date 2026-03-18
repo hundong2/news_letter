@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-17",
+  "updatedAt": "2026-03-18",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2409,6 +2409,90 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-17",
       "lastSeen": "2026-03-17"
+    },
+    "https://huggingface.co/papers/2603.14473": {
+      "title": "AI Can Learn Scientific Taste",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://huggingface.co/papers/2603.15594": {
+      "title": "OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://huggingface.co/papers/2603.13594": {
+      "title": "EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://huggingface.co/papers/2603.15583": {
+      "title": "Grounding World Simulation Models in a Real-World Metropolis",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://huggingface.co/papers/2603.15612": {
+      "title": "HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "http://arxiv.org/abs/2603.15620v1": {
+      "title": "Towards Generalizable Robotic Manipulation in Dynamic Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "http://arxiv.org/abs/2603.15618v1": {
+      "title": "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "http://arxiv.org/abs/2603.15616v1": {
+      "title": "GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "http://arxiv.org/abs/2603.15614v1": {
+      "title": "Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "http://arxiv.org/abs/2603.15612v1": {
+      "title": "HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings": {
+      "title": "March 17, 2026 Google Research at The Check Up: from healthcare innovation to real-world care settings Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
+    },
+    "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning": {
+      "title": "March 17, 2026 Improving breast cancer screening workflows with machine learning Health & Bioscience &#183; Human-Computer Interaction and Visualization",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-18",
+      "lastSeen": "2026-03-18"
     }
   }
 }
