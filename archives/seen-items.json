@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-18",
+  "updatedAt": "2026-03-19",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2493,6 +2493,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-03-18"
+    },
+    "https://huggingface.co/papers/2603.16790": {
+      "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "https://huggingface.co/papers/2603.15726": {
+      "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "https://huggingface.co/papers/2603.13398": {
+      "title": "Qianfan-OCR: A Unified End-to-End Model for Document Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "https://huggingface.co/papers/2603.13366": {
+      "title": "Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "https://huggingface.co/papers/2603.16669": {
+      "title": "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "http://arxiv.org/abs/2603.16871v1": {
+      "title": "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "http://arxiv.org/abs/2603.16870v1": {
+      "title": "Demystifing Video Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "http://arxiv.org/abs/2603.16869v1": {
+      "title": "SegviGen: Repurposing 3D Generative Model for Part Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "http://arxiv.org/abs/2603.16868v1": {
+      "title": "MessyKitchens: Contact-rich object-level 3D scene reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
+    },
+    "http://arxiv.org/abs/2603.16864v1": {
+      "title": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-19",
+      "lastSeen": "2026-03-19"
     }
   }
 }

@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-03-19 AI 리서치 브리핑</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --accent-2: #ff7a59;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+      position: relative;
+    }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 3vw, 3.4rem);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 640px;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+    }
+
+    .nav-back {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-block {
+      margin-bottom: 42px;
+    }
+
+    .section-header {
+      margin-bottom: 18px;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 6px;
+      font-size: 1.6rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .card-grid.scrollable {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.04);
+      border-radius: 999px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-thumb {
+      background: rgba(0, 128, 143, 0.35);
+      border-radius: 999px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 18px;
+      padding: 20px 20px 18px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .pill {
+      background: rgba(0, 128, 143, 0.12);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .card-summary {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .card-translation {
+      margin: 0;
+      background: rgba(255, 122, 89, 0.12);
+      color: #7a2c17;
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 0.92rem;
+    }
+
+    .card-translation span {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+
+    .card-link {
+      margin-top: auto;
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .sources h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 12px;
+    }
+
+    .sources ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .sources a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 36px 16px 56px;
+      }
+
+      .hero-meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <a class="nav-back" href="../index.html">← 전체 목록</a>
+      <h1>2026-03-19 AI 리서치 브리핑</h1>
+      <p>최신 VLM, sLLM, on-device AI 논문과 연구 블로그를 한눈에 정리합니다. 중복 기사 방지를 위해 URL 기준으로 추적합니다.</p>
+      <div class="hero-meta">
+        <span>총 10건 요약</span>
+        <span>자동 생성</span>
+      </div>
+    </header>
+
+    
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>sLLM 트렌드</h2>
+        <p>경량화·효율화를 위한 스몰 LLM 연구</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2603.16869v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>SegviGen: Repurposing 3D Generative Model for Part Segmentation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">We introduce SegviGen, a framework that repurposes native 3D generative models for 3D part segmentation. Existing pipelines either lift strong 2D priors into 3D via distillation or multi-view mask aggregation, often suffering from cross-view inconsistency and blurred boundaries, or explore native 3D discriminative segmentation, which typically requires large-scale annotated 3D data and substantial training resources. In contrast, SegviGen leverages the structured priors encoded in pretrained 3D generative model to induce segmentation through distinctive part colorization, establishing a novel and efficient framework for part segmentation. Specifically, SegviGen encodes a 3D asset and predicts part-indicative colors on active voxels of a geometry-aligned reconstruction. It supports interactive part segmentation, full segmentation, and full segmentation with 2D guidance in a unified framework. Extensive experiments show that SegviGen improves over the prior state of the art by 40% on interactive part segmentation and by 15% on full segmentation, while using only 0.32% of the labeled training data. It demonstrates that pretrained 3D generative priors transfer effectively to 3D part segmentation, enabling strong performance with limited supervision. See our project page at https://fenghora.github.io/SegviGen-Page/.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2603.16869v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>On-Device AI</h2>
+        <p>디바이스 내 추론 및 엣지 최적화 동향</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2603.16871v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Recent advances in video diffusion transformers have enabled interactive gaming world models that allow users to explore generated environments over extended horizons. However, existing approaches struggle with precise action control and long-horizon 3D consistency. Most prior works treat user actions as abstract conditioning signals, overlooking the fundamental geometric coupling between actions and the 3D world, whereby actions induce relative camera motions that accumulate into a global camera pose within a 3D world. In this paper, we establish camera pose as a unifying geometric representation to jointly ground immediate action control and long-term 3D consistency. First, we define a physics-based continuous action space and represent user inputs in the Lie algebra to derive precise 6-DoF camera poses, which are injected into the generative model via a camera embedder to ensure accurate action alignment. Second, we use global camera poses as spatial indices to retrieve relevant past observations, enabling geometrically consistent revisiting of locations during long-horizon navigation. To support this research, we introduce a large-scale dataset comprising 3,000 minutes of authentic human gameplay annotated with camera trajectories and textual descriptions. Extensive experiments show that our approach substantially outperforms state-of-the-art interactive gaming world models in action controllability, long-horizon visual quality, and 3D spatial consistency.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2603.16871v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>AI 뉴스 &amp; 리서치</h2>
+        <p>기업/연구기관의 주요 발표와 블로그 업데이트</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2603.16790" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>InCoder-32B: Code Foundation Model for Industrial Scenarios</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">InCoder-32B: Code Foundation Model for Industrial Scenarios에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2603.16790" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2603.15726" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>MiroThinker-1.7 &amp; H1: Towards Heavy-Duty Research Agents via Verification</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">MiroThinker-1.7 &amp; H1: Towards Heavy-Duty Research Agents via Verification에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2603.15726" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2603.13398" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Qianfan-OCR: A Unified End-to-End Model for Document Intelligence</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Qianfan-OCR: A Unified End-to-End Model for Document Intelligence에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2603.13398" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2603.13366" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2603.13366" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2603.16669" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2603.16669" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2603.16870v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Demystifing Video Reasoning</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Recent advances in video generation have revealed an unexpected phenomenon: diffusion-based video models exhibit non-trivial reasoning capabilities. Prior work attributes this to a Chain-of-Frames (CoF) mechanism, where reasoning is assumed to unfold sequentially across video frames. In this work, we challenge this assumption and uncover a fundamentally different mechanism. We show that reasoning in video models instead primarily emerges along the diffusion denoising steps. Through qualitative analysis and targeted probing experiments, we find that models explore multiple candidate solutions in early denoising steps and progressively converge to a final answer, a process we term Chain-of-Steps (CoS). Beyond this core mechanism, we identify several emergent reasoning behaviors critical to model performance: (1) working memory, enabling persistent reference; (2) self-correction and enhancement, allowing recovery from incorrect intermediate solutions; and (3) perception before action, where early steps establish semantic grounding and later steps perform structured manipulation. During a diffusion step, we further uncover self-evolved functional specialization within Diffusion Transformers, where early layers encode dense perceptual structure, middle layers execute reasoning, and later layers consolidate latent representations. Motivated by these insights, we present a simple training-free strategy as a proof-of-concept, demonstrating how reasoning can be improved by ensembling latent trajectories from identical models with different random seeds. Overall, our work provides a systematic understanding of how reasoning emerges in video generation models, offering a foundation to guide future research in better exploiting the inherent reasoning dynamics of video models as a new substrate for intelligence.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2603.16870v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2603.16868v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>MessyKitchens: Contact-rich object-level 3D scene reconstruction</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Monocular 3D scene reconstruction has recently seen significant progress. Powered by the modern neural architectures and large-scale data, recent methods achieve high performance in depth estimation from a single image. Meanwhile, reconstructing and decomposing common scenes into individual 3D objects remains a hard challenge due to the large variety of objects, frequent occlusions and complex object relations. Notably, beyond shape and pose estimation of individual objects, applications in robotics and animation require physically-plausible scene reconstruction where objects obey physical principles of non-penetration and realistic contacts. In this work we advance object-level scene reconstruction along two directions. First, we introduceMessyKitchens, a new dataset with real-world scenes featuring cluttered environments and providing high-fidelity object-level ground truth in terms of 3D object shapes, poses and accurate object contacts. Second, we build on the recent SAM 3D approach for single-object reconstruction and extend it with Multi-Object Decoder (MOD) for joint object-level scene reconstruction. To validate our contributions, we demonstrate MessyKitchens to significantly improve previous datasets in registration accuracy and inter-object penetration. We also compare our multi-object reconstruction approach on three datasets and demonstrate consistent and significant improvements of MOD over the state of the art. Our new benchmark, code and pre-trained models will become publicly available on our project website: https://messykitchens.github.io/.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2603.16868v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2603.16864v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Video Super-Resolution (VSR) aims to restore high-quality video frames from low-resolution (LR) estimates, yet most existing VSR approaches behave like black boxes at inference time: users cannot reliably correct unexpected artifacts, but instead can only accept whatever the model produces. In this paper, we propose a novel interactive VSR framework dubbed SparkVSR that makes sparse keyframes a simple and expressive control signal. Specifically, users can first super-resolve or optionally a small set of keyframes using any off-the-shelf image super-resolution (ISR) model, then SparkVSR propagates the keyframe priors to the entire video sequence while remaining grounded by the original LR video motion. Concretely, we introduce a keyframe-conditioned latent-pixel two-stage training pipeline that fuses LR video latents with sparsely encoded HR keyframe latents to learn robust cross-space propagation and refine perceptual details. At inference time, SparkVSR supports flexible keyframe selection (manual specification, codec I-frame extraction, or random sampling) and a reference-free guidance mechanism that continuously balances keyframe adherence and blind restoration, ensuring robust performance even when reference keyframes are absent or imperfect. Experiments on multiple VSR benchmarks demonstrate improved temporal consistency and strong restoration quality, surpassing baselines by up to 24.6%, 21.8%, and 5.6% on CLIP-IQA, DOVER, and MUSIQ, respectively, enabling controllable, keyframe-driven video super-resolution. Moreover, we demonstrate that SparkVSR is a generic interactive, keyframe-conditioned video processing framework as it can be applied out of the box to unseen tasks such as old-film restoration and video style transfer. Our project page is available at: https://sparkvsr.github.io/</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2603.16864v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="sources">
+      <h2>참고한 소스</h2>
+      <ul>
+        <li><a href="https://huggingface.co/papers" target="_blank" rel="noopener noreferrer">Hugging Face Papers</a></li>
+<li><a href="https://export.arxiv.org/api/query?search_query=cat:cs.CV&amp;sortBy=lastUpdatedDate&amp;sortOrder=descending&amp;max_results=10" target="_blank" rel="noopener noreferrer">arXiv cs.CV (recent)</a></li>
+<li><a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a></li>
+<li><a href="https://research.google/blog/" target="_blank" rel="noopener noreferrer">Google Research Blog</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/" target="_blank" rel="noopener noreferrer">Microsoft Research Blog</a></li>
+<li><a href="https://www.qualcomm.com/research/artificial-intelligence" target="_blank" rel="noopener noreferrer">Qualcomm AI Research</a></li>
+<li><a href="https://ai.google.dev/edge" target="_blank" rel="noopener noreferrer">Google AI Edge</a></li>
+<li><a href="https://huggingface.co/spaces/opencompass/open_vlm_leaderboard" target="_blank" rel="noopener noreferrer">Open VLM Leaderboard</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>요약은 Gemini API를 사용하며, 실제 원문은 "원문 보기" 링크를 확인하세요.</div>
+      <div>중복 방지 기준: URL 기준 + 최근 180일 기록 유지</div>
+    </footer>
+  </div>
+</body>
+</html>
