@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-20",
+  "updatedAt": "2026-03-21",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2633,6 +2633,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-20",
       "lastSeen": "2026-03-20"
+    },
+    "https://huggingface.co/papers/2603.19235": {
+      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "https://huggingface.co/papers/2603.19228": {
+      "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "https://huggingface.co/papers/2603.19199": {
+      "title": "FASTER: Rethinking Real-Time Flow VLAs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "https://huggingface.co/papers/2603.18524": {
+      "title": "3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "https://huggingface.co/papers/2603.19227": {
+      "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "http://arxiv.org/abs/2603.19235v1": {
+      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "http://arxiv.org/abs/2603.19234v1": {
+      "title": "Matryoshka Gaussian Splatting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "http://arxiv.org/abs/2603.19232v1": {
+      "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "http://arxiv.org/abs/2603.19231v1": {
+      "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
+    },
+    "http://arxiv.org/abs/2603.19229v1": {
+      "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-21",
+      "lastSeen": "2026-03-21"
     }
   }
 }
