@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-21",
+  "updatedAt": "2026-03-22",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-03-22"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -2086,7 +2086,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-11",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.03143": {
       "title": "Geometry-Guided Reinforcement Learning for Multi-view Consistent 3D Scene Editing",
@@ -2240,21 +2240,21 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-03-22"
     },
     "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini": {
       "title": "March 12, 2026 Introducing Groundsource: Turning news reports into data with Gemini Climate & Sustainability &#183; Generative AI &#183; Natural Language Processing &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-03-22"
     },
     "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework": {
       "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.12255": {
       "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
@@ -2408,7 +2408,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-17",
-      "lastSeen": "2026-03-17"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.14473": {
       "title": "AI Can Learn Scientific Taste",
@@ -2485,14 +2485,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
+      "lastSeen": "2026-03-22"
     },
     "https://research.google/blog/improving-breast-cancer-screening-workflows-with-machine-learning": {
       "title": "March 17, 2026 Improving breast cancer screening workflows with machine learning Health & Bioscience &#183; Human-Computer Interaction and Visualization",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.16790": {
       "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
@@ -2639,28 +2639,28 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.19228": {
       "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.19199": {
       "title": "FASTER: Rethinking Real-Time Flow VLAs",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.18524": {
       "title": "3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "https://huggingface.co/papers/2603.19227": {
       "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
@@ -2674,35 +2674,42 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "http://arxiv.org/abs/2603.19234v1": {
       "title": "Matryoshka Gaussian Splatting",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "http://arxiv.org/abs/2603.19232v1": {
       "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "http://arxiv.org/abs/2603.19231v1": {
       "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
     },
     "http://arxiv.org/abs/2603.19229v1": {
       "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
+      "lastSeen": "2026-03-22"
+    },
+    "https://huggingface.co/papers/2603.19220": {
+      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-22",
+      "lastSeen": "2026-03-22"
     }
   }
 }
