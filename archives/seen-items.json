@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-23",
+  "updatedAt": "2026-03-24",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2710,6 +2710,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-22",
       "lastSeen": "2026-03-23"
+    },
+    "https://huggingface.co/papers/2603.17024": {
+      "title": "HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "https://huggingface.co/papers/2603.17051": {
+      "title": "Astrolabe: Steering Forward-Process Reinforcement Learning for Distilled Autoregressive Video Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "https://huggingface.co/papers/2603.19039": {
+      "title": "TerraScope: Pixel-Grounded Visual Reasoning for Earth Observation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "https://huggingface.co/papers/2603.19466": {
+      "title": "ProactiveBench: Benchmarking Proactiveness in Multimodal Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "https://huggingface.co/papers/2603.19598": {
+      "title": "FlowScene: Style-Consistent Indoor Scene Generation with Multimodal Graph Rectified Flow",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "http://arxiv.org/abs/2603.20194v1": {
+      "title": "MME-CoF-Pro: Evaluating Reasoning Coherence in Video Generative Models with Text and Visual Hints",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "http://arxiv.org/abs/2603.20193v1": {
+      "title": "From Masks to Pixels and Meaning: A New Taxonomy, Benchmark, and Metrics for VLM Image Tampering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "http://arxiv.org/abs/2603.20192v1": {
+      "title": "LumosX: Relate Any Identities with Their Attributes for Personalized Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "http://arxiv.org/abs/2603.20191v1": {
+      "title": "Deterministic Mode Proposals: An Efficient Alternative to Generative Sampling for Ambiguous Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
+    },
+    "http://arxiv.org/abs/2603.20190v1": {
+      "title": "CoVR-R:Reason-Aware Composed Video Retrieval",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-24",
+      "lastSeen": "2026-03-24"
     }
   }
 }
