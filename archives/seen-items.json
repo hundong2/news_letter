@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-24",
+  "updatedAt": "2026-03-25",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2780,6 +2780,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-24",
       "lastSeen": "2026-03-24"
+    },
+    "https://huggingface.co/papers/2603.22212": {
+      "title": "Omni-WorldBench: Towards a Comprehensive Interaction-Centric Evaluation for World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://huggingface.co/papers/2603.21986": {
+      "title": "Speed by Simplicity: A Single-Stream Architecture for Fast Audio-Video Generative Foundation Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://huggingface.co/papers/2603.21065": {
+      "title": "LongCat-Flash-Prover: Advancing Native Formal Reasoning via Agentic Tool-Integrated Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://huggingface.co/papers/2603.16932": {
+      "title": "Look Where It Matters: High-Resolution Crops Retrieval for Efficient VLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://huggingface.co/papers/2603.20278": {
+      "title": "OpenResearcher: A Fully Open Pipeline for Long-Horizon Deep Research Trajectory Synthesis",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "http://arxiv.org/abs/2603.22286v1": {
+      "title": "WorldCache: Content-Aware Caching for Accelerated Video World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "http://arxiv.org/abs/2603.22285v1": {
+      "title": "VideoDetective: Clue Hunting via both Extrinsic Query and Intrinsic Relevance for Long Video Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "http://arxiv.org/abs/2603.22283v1": {
+      "title": "End-to-End Training for Unified Tokenization and Latent Denoising",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "http://arxiv.org/abs/2603.22282v1": {
+      "title": "UniMotion: A Unified Framework for Motion-Text-Vision Understanding and Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "http://arxiv.org/abs/2603.22281v1": {
+      "title": "ThinkJEPA: Empowering Latent World Models with Large Vision-Language Reasoning Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression": {
+      "title": "March 24, 2026 TurboQuant: Redefining AI efficiency with extreme compression Algorithms & Theory &#183; Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
+    },
+    "https://research.google/blog/mapping-the-modern-world-how-s2vec-learns-the-language-of-our-cities": {
+      "title": "March 24, 2026 Mapping the modern world: How S2Vec learns the language of our cities Algorithms & Theory &#183; Earth AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-03-25",
+      "lastSeen": "2026-03-25"
     }
   }
 }
