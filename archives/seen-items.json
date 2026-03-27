@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-26",
+  "updatedAt": "2026-03-27",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -2941,6 +2941,55 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-26",
       "lastSeen": "2026-03-26"
+    },
+    "https://huggingface.co/papers/2603.24440": {
+      "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://huggingface.co/papers/2603.22918": {
+      "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://huggingface.co/papers/2603.22341": {
+      "title": "T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://huggingface.co/papers/2603.24533": {
+      "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://huggingface.co/papers/2603.24472": {
+      "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
+      "title": "AsgardBench: A benchmark for visually grounded interactive planning",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
+    },
+    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation": {
+      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-03-27",
+      "lastSeen": "2026-03-27"
     }
   }
 }
