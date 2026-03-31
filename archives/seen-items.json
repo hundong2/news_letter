@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-30",
+  "updatedAt": "2026-03-31",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3032,6 +3032,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-29",
       "lastSeen": "2026-03-30"
+    },
+    "https://huggingface.co/papers/2603.25716": {
+      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "https://huggingface.co/papers/2603.25746": {
+      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "https://huggingface.co/papers/2603.25730": {
+      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "https://huggingface.co/papers/2603.25158": {
+      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "https://huggingface.co/papers/2603.24649": {
+      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "http://arxiv.org/abs/2603.26665v1": {
+      "title": "Detailed Geometry and Appearance from Opportunistic Motion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "http://arxiv.org/abs/2603.26661v1": {
+      "title": "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "http://arxiv.org/abs/2603.26658v1": {
+      "title": "Zero-Shot Depth from Defocus",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "http://arxiv.org/abs/2603.26657v1": {
+      "title": "Tunable Soft Equivariance with Guarantees",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
+    },
+    "http://arxiv.org/abs/2603.26653v1": {
+      "title": "PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-03-31",
+      "lastSeen": "2026-03-31"
     }
   }
 }
