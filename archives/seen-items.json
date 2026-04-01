@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-03-31",
+  "updatedAt": "2026-04-01",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3102,6 +3102,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-03-31",
       "lastSeen": "2026-03-31"
+    },
+    "https://huggingface.co/papers/2603.27027": {
+      "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://huggingface.co/papers/2603.28589": {
+      "title": "Towards a Medical AI Scientist",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://huggingface.co/papers/2603.28767": {
+      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://huggingface.co/papers/2603.27771": {
+      "title": "Emergent Social Intelligence Risks in Generative Multi-Agent Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://huggingface.co/papers/2603.27304": {
+      "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "http://arxiv.org/abs/2603.28767v1": {
+      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "http://arxiv.org/abs/2603.28766v1": {
+      "title": "HandX: Scaling Bimanual Motion and Interaction Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "http://arxiv.org/abs/2511.07732v2": {
+      "title": "ViPRA: Video Prediction for Robot Actions",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "http://arxiv.org/abs/2603.28763v1": {
+      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "http://arxiv.org/abs/2603.28762v1": {
+      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough": {
+      "title": "March 31, 2026 Building better AI benchmarks: How many raters are enough? Algorithms & Theory &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
+    },
+    "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly": {
+      "title": "March 31, 2026 Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly Algorithms & Theory &#183; Quantum &#183; Security, Privacy and Abuse Prevention",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-01",
+      "lastSeen": "2026-04-01"
     }
   }
 }
