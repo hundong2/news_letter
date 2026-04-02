@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-01",
+  "updatedAt": "2026-04-02",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3186,6 +3186,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-01",
       "lastSeen": "2026-04-01"
+    },
+    "https://huggingface.co/papers/2603.19835": {
+      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "https://huggingface.co/papers/2603.28032": {
+      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "https://huggingface.co/papers/2603.27538": {
+      "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "https://huggingface.co/papers/2603.25240": {
+      "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "https://huggingface.co/papers/2603.28088": {
+      "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "http://arxiv.org/abs/2603.30045v1": {
+      "title": "OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "http://arxiv.org/abs/2603.30043v1": {
+      "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "http://arxiv.org/abs/2603.22387v2": {
+      "title": "Efficient Universal Perception Encoder",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "http://arxiv.org/abs/2603.30038v1": {
+      "title": "Benchmarking PhD-Level Coding in 3D Geometric Computer Vision",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "http://arxiv.org/abs/2509.10969v2": {
+      "title": "Gaze Authentication: Factors Influencing Authentication Performance",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
+    },
+    "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks": {
+      "title": "ADeLe: Predicting and explaining AI performance across tasks",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-04-02",
+      "lastSeen": "2026-04-02"
     }
   }
 }
