@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-02",
+  "updatedAt": "2026-04-03",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3263,6 +3263,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
       "lastSeen": "2026-04-02"
+    },
+    "https://huggingface.co/papers/2603.24414": {
+      "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "https://huggingface.co/papers/2604.00073": {
+      "title": "Terminal Agents Suffice for Enterprise Automation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "https://huggingface.co/papers/2603.28407": {
+      "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "https://huggingface.co/papers/2603.25823": {
+      "title": "ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "https://huggingface.co/papers/2603.26648": {
+      "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "http://arxiv.org/abs/2604.01221v1": {
+      "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "http://arxiv.org/abs/2604.01216v1": {
+      "title": "LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "http://arxiv.org/abs/2604.01207v1": {
+      "title": "TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "http://arxiv.org/abs/2604.01204v1": {
+      "title": "Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
+    },
+    "http://arxiv.org/abs/2603.17219v2": {
+      "title": "SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-03",
+      "lastSeen": "2026-04-03"
     }
   }
 }
