@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-03",
+  "updatedAt": "2026-04-04",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3333,6 +3333,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-03",
       "lastSeen": "2026-04-03"
+    },
+    "https://huggingface.co/papers/2603.26164": {
+      "title": "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "https://huggingface.co/papers/2604.02029": {
+      "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "https://huggingface.co/papers/2604.02329": {
+      "title": "Generative World Renderer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "https://huggingface.co/papers/2604.02268": {
+      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "https://huggingface.co/papers/2604.01001": {
+      "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "http://arxiv.org/abs/2604.02331v1": {
+      "title": "EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "http://arxiv.org/abs/2604.02330v1": {
+      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "http://arxiv.org/abs/2601.14674v2": {
+      "title": "LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "http://arxiv.org/abs/2604.02329v1": {
+      "title": "Generative World Renderer",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "http://arxiv.org/abs/2604.02328v1": {
+      "title": "Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
+    },
+    "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms": {
+      "title": "April 3, 2026 Evaluating alignment of behavioral dispositions in LLMs Generative AI &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-04",
+      "lastSeen": "2026-04-04"
     }
   }
 }
