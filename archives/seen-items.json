@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-08",
+  "updatedAt": "2026-04-09",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3557,6 +3557,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-08",
       "lastSeen": "2026-04-08"
+    },
+    "https://huggingface.co/papers/2604.05015": {
+      "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "https://huggingface.co/papers/2604.06132": {
+      "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "https://huggingface.co/papers/2604.04949": {
+      "title": "Learning to Retrieve from Agent Trajectories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "https://huggingface.co/papers/2604.03922": {
+      "title": "ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "https://huggingface.co/papers/2604.02648": {
+      "title": "GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "http://arxiv.org/abs/2604.06168v1": {
+      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "http://arxiv.org/abs/2604.06165v1": {
+      "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "http://arxiv.org/abs/2407.14971v3": {
+      "title": "Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "http://arxiv.org/abs/2604.06161v1": {
+      "title": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "http://arxiv.org/abs/2604.06160v1": {
+      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
+    },
+    "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review": {
+      "title": "April 8, 2026 Improving the academic workflow: Introducing two AI agents for better figures and peer review Generative AI &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-09",
+      "lastSeen": "2026-04-09"
     }
   }
 }
