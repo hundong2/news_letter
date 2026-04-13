@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-12",
+  "updatedAt": "2026-04-13",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-03-30"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-03-30"
+      "lastSeen": "2026-04-13"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -2982,14 +2982,14 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-06"
+      "lastSeen": "2026-04-13"
     },
     "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation": {
       "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-30"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2603.25728": {
       "title": "PixelSmile: Toward Fine-Grained Facial Expression Editing",
@@ -3178,14 +3178,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://research.google/blog/safeguarding-cryptocurrency-by-disclosing-quantum-vulnerabilities-responsibly": {
       "title": "March 31, 2026 Safeguarding cryptocurrency by disclosing quantum vulnerabilities responsibly Algorithms & Theory &#183; Quantum &#183; Security, Privacy and Abuse Prevention",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2603.19835": {
       "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
@@ -3262,7 +3262,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2603.24414": {
       "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
@@ -3409,7 +3409,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.02327": {
       "title": "Steerable Visual Representations",
@@ -3633,7 +3633,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.04746": {
       "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
@@ -3710,49 +3710,49 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-10",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits": {
       "title": "New Future of Work: AI is driving rapid change, uneven benefits",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-10",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.06628": {
       "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.08377": {
       "title": "SkillClaw: Let Skills Evolve Collectively with Agentic Evolver",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.07430": {
       "title": "HY-Embodied-0.5: Embodied Foundation Models for Real-World Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.08546": {
       "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "https://huggingface.co/papers/2604.08523": {
       "title": "ClawBench: Can AI Agents Complete Everyday Online Tasks?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
+      "lastSeen": "2026-04-13"
     },
     "http://arxiv.org/abs/2604.08547v1": {
       "title": "GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
