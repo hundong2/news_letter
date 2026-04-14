@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-13",
+  "updatedAt": "2026-04-14",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3788,6 +3788,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-11",
       "lastSeen": "2026-04-12"
+    },
+    "https://huggingface.co/papers/2604.08626": {
+      "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "https://huggingface.co/papers/2604.07413": {
+      "title": "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "https://huggingface.co/papers/2604.06870": {
+      "title": "RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "https://huggingface.co/papers/2604.08644": {
+      "title": "EXAONE 4.5 Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "https://huggingface.co/papers/2604.08995": {
+      "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "http://arxiv.org/abs/2604.09547v1": {
+      "title": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "http://arxiv.org/abs/2604.08538v2": {
+      "title": "ParseBench: A Document Parsing Benchmark for AI Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "http://arxiv.org/abs/2604.09535v1": {
+      "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "http://arxiv.org/abs/2604.09532v1": {
+      "title": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "http://arxiv.org/abs/2604.09531v1": {
+      "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
+    },
+    "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai": {
+      "title": "April 13, 2026 Towards developing future-ready skills with generative AI Education Innovation &#183; Generative AI",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-14",
+      "lastSeen": "2026-04-14"
     }
   }
 }
