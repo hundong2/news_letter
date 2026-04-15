@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-14",
+  "updatedAt": "2026-04-15",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3865,6 +3865,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-14",
       "lastSeen": "2026-04-14"
+    },
+    "https://huggingface.co/papers/2604.08570": {
+      "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "https://huggingface.co/papers/2604.11297": {
+      "title": "The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "https://huggingface.co/papers/2604.11804": {
+      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "https://huggingface.co/papers/2604.10098": {
+      "title": "Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "https://huggingface.co/papers/2604.09132": {
+      "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "http://arxiv.org/abs/2604.11809v1": {
+      "title": "Who Handles Orientation? Investigating Invariance in Feature Matching",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "http://arxiv.org/abs/2604.11808v1": {
+      "title": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "http://arxiv.org/abs/2604.11805v1": {
+      "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "http://arxiv.org/abs/2604.11804v1": {
+      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
+    },
+    "http://arxiv.org/abs/2604.11798v1": {
+      "title": "Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-15",
+      "lastSeen": "2026-04-15"
     }
   }
 }
