@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-16",
+  "updatedAt": "2026-04-17",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -3970,6 +3970,90 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-16",
       "lastSeen": "2026-04-16"
+    },
+    "https://huggingface.co/papers/2604.14148": {
+      "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://huggingface.co/papers/2604.07429": {
+      "title": "GameWorld: Towards Standardized and Verifiable Evaluation of Multimodal Game Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://huggingface.co/papers/2604.11626": {
+      "title": "RationalRewards: Reasoning Rewards Scale Visual Generation Both Training and Test Time",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://huggingface.co/papers/2604.14144": {
+      "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://huggingface.co/papers/2604.10866": {
+      "title": "OccuBench: Evaluating AI Agents on Real-World Professional Tasks via Language World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "http://arxiv.org/abs/2604.14149v1": {
+      "title": "One Token per Highly Selective Frame: Towards Extreme Compression for Long Video Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "http://arxiv.org/abs/2604.14148v1": {
+      "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "http://arxiv.org/abs/2604.14147v1": {
+      "title": "ROSE: Retrieval-Oriented Segmentation Enhancement",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "http://arxiv.org/abs/2604.14144v1": {
+      "title": "SpatialEvo: Self-Evolving Spatial Intelligence via Deterministic Geometric Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "http://arxiv.org/abs/2604.14141v1": {
+      "title": "Geometric Context Transformer for Streaming 3D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles": {
+      "title": "April 16, 2026 Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
+    },
+    "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping": {
+      "title": "April 16, 2026 AI-generated synthetic neurons speed up brain mapping General Science &#183; Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-17",
+      "lastSeen": "2026-04-17"
     }
   }
 }
