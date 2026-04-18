@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17",
+  "updatedAt": "2026-04-18",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4054,6 +4054,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
       "lastSeen": "2026-04-17"
+    },
+    "https://huggingface.co/papers/2604.14268": {
+      "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "https://huggingface.co/papers/2604.15308": {
+      "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "https://huggingface.co/papers/2604.14683": {
+      "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "https://huggingface.co/papers/2604.14164": {
+      "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "https://huggingface.co/papers/2509.25843": {
+      "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "http://arxiv.org/abs/2604.15312v1": {
+      "title": "Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "http://arxiv.org/abs/2604.15311v1": {
+      "title": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "http://arxiv.org/abs/2604.15310v1": {
+      "title": "TokenLight: Precise Lighting Control in Images using Attribute Tokens",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "http://arxiv.org/abs/2604.15309v1": {
+      "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
+    },
+    "http://arxiv.org/abs/2604.15308v1": {
+      "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-18",
+      "lastSeen": "2026-04-18"
     }
   }
 }
