@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-19",
+  "updatedAt": "2026-04-20",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -3262,7 +3262,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2603.24414": {
       "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
@@ -3633,7 +3633,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.04746": {
       "title": "Think in Strokes, Not Pixels: Process-Driven Image Generation via Interleaved Reasoning",
@@ -3710,14 +3710,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-10",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits": {
       "title": "New Future of Work: AI is driving rapid change, uneven benefits",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-10",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.06628": {
       "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
@@ -3864,7 +3864,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.08570": {
       "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
@@ -4046,42 +4046,42 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping": {
       "title": "April 16, 2026 AI-generated synthetic neurons speed up brain mapping General Science &#183; Health & Bioscience &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.14268": {
       "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.15308": {
       "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.14683": {
       "title": "DR^{3}-Eval: Towards Realistic and Reproducible Deep Research Evaluation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.14164": {
       "title": "How to Fine-Tune a Reasoning Model? A Teacher-Student Cooperation Framework to Synthesize Student-Consistent SFT Data",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2509.25843": {
       "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
@@ -4095,42 +4095,42 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "http://arxiv.org/abs/2604.15311v1": {
       "title": "LeapAlign: Post-Training Flow Matching Models at Any Generation Step by Building Two-Step Trajectories",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "http://arxiv.org/abs/2604.15310v1": {
       "title": "TokenLight: Precise Lighting Control in Images using Attribute Tokens",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "http://arxiv.org/abs/2604.15309v1": {
       "title": "MM-WebAgent: A Hierarchical Multimodal Web Agent for Webpage Generation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "http://arxiv.org/abs/2604.15308v1": {
       "title": "RAD-2: Scaling Reinforcement Learning in a Generator-Discriminator Framework",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     },
     "https://huggingface.co/papers/2604.15284": {
       "title": "GlobalSplat: Efficient Feed-Forward 3D Gaussian Splatting via Global Scene Tokens",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-19",
-      "lastSeen": "2026-04-19"
+      "lastSeen": "2026-04-20"
     }
   }
 }
