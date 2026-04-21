@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-20",
+  "updatedAt": "2026-04-21",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4131,6 +4131,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-19",
       "lastSeen": "2026-04-20"
+    },
+    "https://huggingface.co/papers/2604.16044": {
+      "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "https://huggingface.co/papers/2502.07408": {
+      "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "https://huggingface.co/papers/2604.13074": {
+      "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "https://huggingface.co/papers/2604.15804": {
+      "title": "Qwen3.5-Omni Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "https://huggingface.co/papers/2604.04936": {
+      "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "http://arxiv.org/abs/2604.16299v1": {
+      "title": "Repurposing 3D Generative Model for Autoregressive Layout Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "http://arxiv.org/abs/2604.16298v1": {
+      "title": "FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "http://arxiv.org/abs/2603.01098v2": {
+      "title": "Differential privacy representation geometry for medical image analysis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "http://arxiv.org/abs/2601.12193v3": {
+      "title": "VeRVE: Versatile Retrieval for Videos via Unified Embeddings",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
+    },
+    "http://arxiv.org/abs/2604.15237v2": {
+      "title": "StreamCacheVGGT: Streaming Visual Geometry Transformers with Robust Scoring and Hybrid Cache Compression",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-21",
+      "lastSeen": "2026-04-21"
     }
   }
 }
