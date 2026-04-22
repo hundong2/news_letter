@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-21",
+  "updatedAt": "2026-04-22",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4201,6 +4201,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-21",
       "lastSeen": "2026-04-21"
+    },
+    "https://huggingface.co/papers/2604.18168": {
+      "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "https://huggingface.co/papers/2604.18486": {
+      "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "https://huggingface.co/papers/2604.18292": {
+      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "https://huggingface.co/papers/2604.18394": {
+      "title": "OpenGame: Open Agentic Coding for Games",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "https://huggingface.co/papers/2604.18564": {
+      "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "http://arxiv.org/abs/2604.18583v1": {
+      "title": "MUA: Mobile Ultra-detailed Animatable Avatars",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "http://arxiv.org/abs/2411.15115v3": {
+      "title": "Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "http://arxiv.org/abs/2604.18575v1": {
+      "title": "ReCap: Lightweight Referential Grounding for Coherent Story Visualization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "http://arxiv.org/abs/2604.18573v1": {
+      "title": "T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "http://arxiv.org/abs/2411.17690v3": {
+      "title": "Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
+    },
+    "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience": {
+      "title": "April 21, 2026 ReasoningBank: Enabling agents to learn from experience Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-22",
+      "lastSeen": "2026-04-22"
     }
   }
 }
