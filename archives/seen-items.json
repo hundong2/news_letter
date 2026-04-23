@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-22",
+  "updatedAt": "2026-04-23",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4278,6 +4278,90 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-22",
       "lastSeen": "2026-04-22"
+    },
+    "https://huggingface.co/papers/2604.19748": {
+      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://huggingface.co/papers/2604.19636": {
+      "title": "CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://huggingface.co/papers/2604.13346": {
+      "title": "AgentSPEX: An Agent SPecification and EXecution Language",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://huggingface.co/papers/2604.19747": {
+      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://huggingface.co/papers/2604.19295": {
+      "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "http://arxiv.org/abs/2604.19748v1": {
+      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "http://arxiv.org/abs/2604.19747v1": {
+      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "http://arxiv.org/abs/2604.19741v1": {
+      "title": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "http://arxiv.org/abs/2604.19740v1": {
+      "title": "Generalization at the Edge of Stability",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "http://arxiv.org/abs/2604.19736v1": {
+      "title": "Generative Drifting for Conditional Medical Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed": {
+      "title": "April 22, 2026 It's all about the angle: Your photos, re-composed Generative AI &#183; Photography",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
+    },
+    "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models": {
+      "title": "AutoAdapt: Automated domain adaptation for large language models",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-04-23",
+      "lastSeen": "2026-04-23"
     }
   }
 }
