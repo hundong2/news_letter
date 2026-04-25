@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-24",
+  "updatedAt": "2026-04-25",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4432,6 +4432,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-04-24",
       "lastSeen": "2026-04-24"
+    },
+    "https://huggingface.co/papers/2604.17295": {
+      "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "https://huggingface.co/papers/2604.21686": {
+      "title": "WorldMark: A Unified Benchmark Suite for Interactive Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "https://huggingface.co/papers/2604.19734": {
+      "title": "UniT: Toward a Unified Physical Language for Human-to-Humanoid Policy Learning and World Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "https://huggingface.co/papers/2604.21689": {
+      "title": "StyleID: A Perception-Aware Dataset and Metric for Stylization-Agnostic Facial Identity Recognition",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "https://huggingface.co/papers/2604.20987": {
+      "title": "Co-Evolving LLM Decision and Skill Bank Agents for Long-Horizon Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "http://arxiv.org/abs/2604.21931v1": {
+      "title": "Seeing Fast and Slow: Learning the Flow of Time in Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "http://arxiv.org/abs/2604.21926v1": {
+      "title": "Seeing Without Eyes: 4D Human-Scene Understanding from Wearable IMUs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "http://arxiv.org/abs/2604.21921v1": {
+      "title": "Context Unrolling in Omni Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "http://arxiv.org/abs/2604.21915v1": {
+      "title": "Vista4D: Video Reshooting with 4D Point Clouds",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
+    },
+    "http://arxiv.org/abs/2604.21911v1": {
+      "title": "When Prompts Override Vision: Prompt-Induced Hallucinations in LVLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-04-25",
+      "lastSeen": "2026-04-25"
     }
   }
 }
