@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-28",
+  "updatedAt": "2026-04-29",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -2982,7 +2982,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation": {
       "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
@@ -3262,7 +3262,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2603.24414": {
       "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
@@ -3717,7 +3717,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-10",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.06628": {
       "title": "Rethinking Generalization in Reasoning SFT: A Conditional Analysis on Optimization, Data, and Model Capability",
@@ -3864,7 +3864,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.08570": {
       "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
@@ -4046,14 +4046,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping": {
       "title": "April 16, 2026 AI-generated synthetic neurons speed up brain mapping General Science &#183; Health & Bioscience &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.14268": {
       "title": "HY-World 2.0: A Multi-Modal World Model for Reconstructing, Generating, and Simulating 3D Worlds",
@@ -4277,7 +4277,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.19748": {
       "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
@@ -4354,14 +4354,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models": {
       "title": "AutoAdapt: Automated domain adaptation for large language models",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-28"
+      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.20796": {
       "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
@@ -4537,6 +4537,41 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-28",
       "lastSeen": "2026-04-28"
+    },
+    "https://huggingface.co/papers/2604.24764": {
+      "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
+    },
+    "https://huggingface.co/papers/2604.22446": {
+      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
+    },
+    "https://huggingface.co/papers/2604.24300": {
+      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
+    },
+    "https://huggingface.co/papers/2604.24763": {
+      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
+    },
+    "https://huggingface.co/papers/2604.23775": {
+      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-29",
+      "lastSeen": "2026-04-29"
     }
   }
 }
