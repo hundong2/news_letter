@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-29",
+  "updatedAt": "2026-04-30",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4572,6 +4572,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-29",
       "lastSeen": "2026-04-29"
+    },
+    "https://huggingface.co/papers/2604.25917": {
+      "title": "Recursive Multi-Agent Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    "https://huggingface.co/papers/2604.24819": {
+      "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    "https://huggingface.co/papers/2604.25914": {
+      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    "https://huggingface.co/papers/2604.25256": {
+      "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    "https://huggingface.co/papers/2604.24625": {
+      "title": "Meta-CoT: Enhancing Granularity and Generalization in Image Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
+    },
+    "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance": {
+      "title": "April 29, 2026 Four ways Google Research scientists have been using Empirical Research Assistance Data Mining & Modeling &#183; General Science &#183; Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-04-30",
+      "lastSeen": "2026-04-30"
     }
   }
 }
