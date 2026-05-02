@@ -1,0 +1,25 @@
+{
+  "date": "2026-05-02",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 12,
+    "unique": 6,
+    "enriched": 6,
+    "trimmed": 6,
+    "summarized": 6
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "message": "The operation was aborted."
+    },
+    {
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "message": "Fetch error 502 for https://www.microsoft.com/en-us/research/blog/"
+    }
+  ],
+  "geminiError": null
+}

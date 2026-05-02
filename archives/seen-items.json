@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-01",
+  "updatedAt": "2026-05-02",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4656,6 +4656,48 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-01",
       "lastSeen": "2026-05-01"
+    },
+    "https://huggingface.co/papers/2604.27351": {
+      "title": "Heterogeneous Scientific Foundation Model Collaboration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
+    },
+    "https://huggingface.co/papers/2604.28185": {
+      "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
+    },
+    "https://huggingface.co/papers/2604.27083": {
+      "title": "Co-Evolving Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
+    },
+    "https://huggingface.co/papers/2604.27711": {
+      "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
+    },
+    "https://huggingface.co/papers/2604.27085": {
+      "title": "Efficient Training on Multiple Consumer GPUs with RoundPipe",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
+    },
+    "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources": {
+      "title": "May 1, 2026 Catalyzing scientific impact through global partnerships and open resources Data Mining & Modeling &#183; General Science &#183; Health & Bioscience &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-05-02",
+      "lastSeen": "2026-05-02"
     }
   }
 }
