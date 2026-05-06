@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-05",
+  "updatedAt": "2026-05-06",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4740,6 +4740,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-05",
       "lastSeen": "2026-05-05"
+    },
+    "https://huggingface.co/papers/2605.02881": {
+      "title": "MolmoAct2: Action Reasoning Models for Real-world Deployment",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "https://huggingface.co/papers/2604.27660": {
+      "title": "From Context to Skills: Can Language Models Learn from Context Skillfully?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "https://huggingface.co/papers/2604.28075": {
+      "title": "Repetition over Diversity: High-Signal Data Filtering for Sample-Efficient German Language Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "https://huggingface.co/papers/2605.00814": {
+      "title": "Persistent Visual Memory: Sustaining Perception for Deep Generation in LVLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "https://huggingface.co/papers/2605.01428": {
+      "title": "Hallucinations Undermine Trust; Metacognition is a Way Forward",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "http://arxiv.org/abs/2605.02892v1": {
+      "title": "AlbumFill: Album-Guided Reasoning and Retrieval for Personalized Image Completion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "http://arxiv.org/abs/2603.29962v3": {
+      "title": "SurgTEMP: Temporal-Aware Surgical Video Question Answering with Text-guided Visual Memory for Laparoscopic Cholecystectomy",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "http://arxiv.org/abs/2605.02866v1": {
+      "title": "Laplacian Frequency Interaction Network for Rural Thematic Road Extraction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "http://arxiv.org/abs/2605.02863v1": {
+      "title": "Pixel Perfect: Relational Image Quality Assessment with Spatially-Aware Distortions",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "http://arxiv.org/abs/2601.17185v2": {
+      "title": "LGDWT-GS: Local and Global Discrete Wavelet-Regularized 3D Gaussian Splatting for Sparse-View Scene Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
+    },
+    "https://www.microsoft.com/en-us/research/blog/microsoft-at-nsdi-2026-advances-in-large-scale-networked-systems": {
+      "title": "Microsoft at NSDI 2026: Advances in large-scale networked systems",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-05-06",
+      "lastSeen": "2026-05-06"
     }
   }
 }
