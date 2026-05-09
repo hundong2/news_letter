@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-08",
+  "updatedAt": "2026-05-09",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4887,6 +4887,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-08",
       "lastSeen": "2026-05-08"
+    },
+    "https://huggingface.co/papers/2605.06130": {
+      "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
+    },
+    "https://huggingface.co/papers/2605.05242": {
+      "title": "Beyond Semantic Similarity: Rethinking Retrieval for Agentic Search via Direct Corpus Interaction",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
+    },
+    "https://huggingface.co/papers/2605.06548": {
+      "title": "Continuous Latent Diffusion Language Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
+    },
+    "https://huggingface.co/papers/2605.06416": {
+      "title": "MiA-Signature: Approximating Global Activation for Long-Context Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
+    },
+    "https://huggingface.co/papers/2605.04523": {
+      "title": "RaguTeam at SemEval-2026 Task 8: Meno and Friends in a Judge-Orchestrated LLM Ensemble for Faithful Multi-Turn Response Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
+    },
+    "https://www.microsoft.com/en-us/research/blog/building-realistic-electric-transmission-grid-dataset-at-scale-a-pipeline-from-open-dataset": {
+      "title": "Building realistic electric transmission grid dataset at scale: a pipeline from open dataset",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-05-09",
+      "lastSeen": "2026-05-09"
     }
   }
 }
