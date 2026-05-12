@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-11",
+  "updatedAt": "2026-05-12",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -4929,6 +4929,48 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-09",
       "lastSeen": "2026-05-11"
+    },
+    "https://huggingface.co/papers/2605.06169": {
+      "title": "Mean Mode Screaming: Mean--Variance Split Residuals for 1000-Layer Diffusion Transformers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
+    },
+    "https://huggingface.co/papers/2512.18181": {
+      "title": "MACE-Dance: Motion-Appearance Cascaded Experts for Music-Driven Dance Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
+    },
+    "https://huggingface.co/papers/2605.08063": {
+      "title": "Flow-OPD: On-Policy Distillation for Flow Matching Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
+    },
+    "https://huggingface.co/papers/2605.07177": {
+      "title": "HyperEyes: Dual-Grained Efficiency-Aware Reinforcement Learning for Parallel Multimodal Search Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
+    },
+    "https://huggingface.co/papers/2605.06139": {
+      "title": "Listwise Policy Optimization: Group-based RLVR as Target-Projection on the LLM Response Simplex",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
+    },
+    "https://www.microsoft.com/en-us/research/blog/socialreasoning-bench-measuring-whether-ai-agents-act-in-users-best-interests": {
+      "title": "SocialReasoning-Bench: Measuring whether AI agents act in users’ best interests",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-05-12",
+      "lastSeen": "2026-05-12"
     }
   }
 }
