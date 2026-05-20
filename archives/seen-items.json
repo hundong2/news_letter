@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-19",
+  "updatedAt": "2026-05-20",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5174,6 +5174,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-19",
       "lastSeen": "2026-05-19"
+    },
+    "https://huggingface.co/papers/2605.18747": {
+      "title": "Code as Agent Harness",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
+    },
+    "https://huggingface.co/papers/2605.18401": {
+      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
+    },
+    "https://huggingface.co/papers/2605.18739": {
+      "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
+    },
+    "https://huggingface.co/papers/2605.18678": {
+      "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
+    },
+    "https://huggingface.co/papers/2605.18661": {
+      "title": "AI for Auto-Research: Roadmap & User Guide",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
+    },
+    "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery": {
+      "title": "May 19, 2026 Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science &#183; Machine Intelligence &#183; Natural Language Processing &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-05-20",
+      "lastSeen": "2026-05-20"
     }
   }
 }
