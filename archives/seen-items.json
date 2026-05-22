@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-21",
+  "updatedAt": "2026-05-22",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5251,6 +5251,55 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-21",
       "lastSeen": "2026-05-21"
+    },
+    "https://huggingface.co/papers/2605.19833": {
+      "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://huggingface.co/papers/2605.14747": {
+      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://huggingface.co/papers/2605.18233": {
+      "title": "Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://huggingface.co/papers/2605.20682": {
+      "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://huggingface.co/papers/2605.21468": {
+      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models": {
+      "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
+    },
+    "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai": {
+      "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-05-22",
+      "lastSeen": "2026-05-22"
     }
   }
 }
