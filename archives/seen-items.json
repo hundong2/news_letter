@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-23",
+  "updatedAt": "2026-05-24",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -4277,7 +4277,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-22",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2604.19748": {
       "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
@@ -4354,7 +4354,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models": {
       "title": "AutoAdapt: Automated domain adaptation for large language models",
@@ -4613,7 +4613,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-30",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2604.26752": {
       "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
@@ -4697,7 +4697,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2604.28158": {
       "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
@@ -5054,7 +5054,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid": {
       "title": "GridSFM: A new, small foundation model for the electric grid",
@@ -5138,7 +5138,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-16",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.12882": {
       "title": "CiteVQA: Benchmarking Evidence Attribution for Trustworthy Document Intelligence",
@@ -5215,7 +5215,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.16403": {
       "title": "When Vision Speaks for Sound",
@@ -5292,49 +5292,49 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai": {
       "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.22355": {
       "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.22109": {
       "title": "Perception or Prejudice: Can MLLMs Go Beyond First Impressions of Personality?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.21467": {
       "title": "DelTA: Discriminative Token Credit Assignment for Reinforcement Learning from Verifiable Rewards",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.14678": {
       "title": "π-Bench: Evaluating Proactive Personal Assistant Agents in Long-Horizon Workflows",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     },
     "https://huggingface.co/papers/2605.16928": {
       "title": "Full Attention Strikes Back: Transferring Full Attention into Sparse within Hundred Training Steps",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-23",
-      "lastSeen": "2026-05-23"
+      "lastSeen": "2026-05-24"
     }
   }
 }
