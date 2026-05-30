@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-05-29",
+  "updatedAt": "2026-05-30",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -4613,7 +4613,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-30",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/papers/2604.26752": {
       "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
@@ -4697,7 +4697,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/papers/2604.28158": {
       "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
@@ -5215,7 +5215,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/papers/2605.16403": {
       "title": "When Vision Speaks for Sound",
@@ -5292,14 +5292,14 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai": {
       "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-27"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/papers/2605.22355": {
       "title": "TransitLM: A Large-Scale Dataset and Benchmark for Map-Free Transit Route Generation",
@@ -5446,14 +5446,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
+      "lastSeen": "2026-05-30"
     },
     "https://www.microsoft.com/en-us/research/blog/extending-human-intelligence-through-ai": {
       "title": "Extending Human Intelligence Through AI",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
+      "lastSeen": "2026-05-30"
     },
     "https://huggingface.co/papers/2605.28816": {
       "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
@@ -5495,14 +5495,49 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
+      "lastSeen": "2026-05-30"
     },
     "https://www.microsoft.com/en-us/research/blog/data-formulator-0-7-ai-powered-data-analytics-for-enterprise-data": {
       "title": "Data Formulator 0.7: AI-powered data analytics for enterprise data",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
+      "lastSeen": "2026-05-30"
+    },
+    "https://huggingface.co/papers/2605.29801": {
+      "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
+    },
+    "https://huggingface.co/papers/2605.30280": {
+      "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
+    },
+    "https://huggingface.co/papers/2605.29250": {
+      "title": "OmniRetrieval: Unified Retrieval across Heterogeneous Knowledge Sources",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
+    },
+    "https://huggingface.co/papers/2605.25378": {
+      "title": "CollectionLoRA: Collecting 50 Effects in 1 LoRA via Multi-Teacher On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
+    },
+    "https://huggingface.co/papers/2605.30263": {
+      "title": "minWM: A Full-Stack Open-Source Framework for Real-Time Interactive Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-05-30",
+      "lastSeen": "2026-05-30"
     }
   }
 }
