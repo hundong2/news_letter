@@ -1,0 +1,35 @@
+{
+  "date": "2026-06-02",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 11,
+    "unique": 11,
+    "enriched": 11,
+    "trimmed": 11,
+    "summarized": 11
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "message": "Fetch error 429 for https://huggingface.co/papers"
+    },
+    {
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "message": "Fetch error 429 for https://export.arxiv.org/api/query?search_query=cat:cs.CV&sortBy=lastUpdatedDate&sortOrder=descending&max_results=10"
+    },
+    {
+      "sourceId": "paperswithcode",
+      "sourceName": "Papers with Code",
+      "message": "Fetch error 429 for https://paperswithcode.com/"
+    },
+    {
+      "sourceId": "open_vlm_leaderboard",
+      "sourceName": "Open VLM Leaderboard",
+      "message": "Fetch error 429 for https://huggingface.co/spaces/opencompass/open_vlm_leaderboard"
+    }
+  ],
+  "geminiError": null
+}
