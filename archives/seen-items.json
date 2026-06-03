@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-02",
+  "updatedAt": "2026-06-03",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5538,6 +5538,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-05-30",
       "lastSeen": "2026-06-01"
+    },
+    "https://huggingface.co/papers/2605.30611": {
+      "title": "Crafter: A Multi-Agent Harness for Editable Scientific Figure Generation from Diverse Inputs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "https://huggingface.co/papers/2606.02437": {
+      "title": "On the Scaling of PEFT: Towards Million Personal Models of Trillion Parameters",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "https://huggingface.co/papers/2605.28556": {
+      "title": "A Matter of TASTE: Improving Coverage and Difficulty of Agent Benchmarks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "https://huggingface.co/papers/2606.02404": {
+      "title": "K-BrowseComp: A Web Browsing Agent Benchmark Grounded in Korean Contexts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "https://huggingface.co/papers/2606.02373": {
+      "title": "Harness-1: Reinforcement Learning for Search Agents with State-Externalizing Harnesses",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "http://arxiv.org/abs/2606.02580v1": {
+      "title": "Thinking in Blender: Staged Executable Inverse Graphics with Vision-Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "http://arxiv.org/abs/2606.02578v1": {
+      "title": "Mitigating Perceptual Judgment Bias in Multimodal LLM-as-a-Judge via Perceptual Perturbation and Reward Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "http://arxiv.org/abs/2606.02577v1": {
+      "title": "RoboDream: Compositional World Models for Scalable Robot Data Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "http://arxiv.org/abs/2606.02576v1": {
+      "title": "ProtoAda: Prototype-Guided Adaptive Adapter Expansion and Geometric Consolidation for Multimodal Continual Instruction Tuning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
+    },
+    "http://arxiv.org/abs/2606.02575v1": {
+      "title": "From Zero to Hero: Training-Free Custom Concept Spawning in World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-03",
+      "lastSeen": "2026-06-03"
     }
   }
 }
