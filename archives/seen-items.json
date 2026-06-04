@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-03",
+  "updatedAt": "2026-06-04",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5608,6 +5608,48 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-03",
       "lastSeen": "2026-06-03"
+    },
+    "https://huggingface.co/papers/2606.00683": {
+      "title": "OCC-RAG: Optimal Cognitive Core for Faithful Question Answering",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
+    },
+    "https://huggingface.co/papers/2605.23895": {
+      "title": "From Activation to Causality: Discovery of Causal Visual Representations in the Human Brain",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
+    },
+    "https://huggingface.co/papers/2606.01249": {
+      "title": "Trust Region On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
+    },
+    "https://huggingface.co/papers/2606.03985": {
+      "title": "Humanoid-GPT: Scaling Data and Structure for Zero-Shot Motion Tracking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
+    },
+    "https://huggingface.co/papers/2606.03458": {
+      "title": "KVarN: Variance-Normalized KV-Cache Quantization Mitigates Error Accumulation in Reasoning Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
+    },
+    "https://research.google/blog/the-next-chapter-in-flood-resilience-open-sourcing-googles-hydrology-framework": {
+      "title": "June 3, 2026 The next chapter in flood resilience: Open sourcing Google’s hydrology framework Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-04",
+      "lastSeen": "2026-06-04"
     }
   }
 }
