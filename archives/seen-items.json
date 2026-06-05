@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-04",
+  "updatedAt": "2026-06-05",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5650,6 +5650,48 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-04",
       "lastSeen": "2026-06-04"
+    },
+    "https://huggingface.co/papers/2606.05121": {
+      "title": "Audio Interaction Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
+    },
+    "https://huggingface.co/papers/2606.02800": {
+      "title": "Cosmos 3: Omnimodal World Models for Physical AI",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
+    },
+    "https://huggingface.co/papers/2606.02060": {
+      "title": "Where Do Deep-Research Agents Go Wrong? Span-Level Error Localization in Agent Trajectories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
+    },
+    "https://huggingface.co/papers/2606.04923": {
+      "title": "Reproducing, Analyzing, and Detecting Reward Hacking in Rubric-Based Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
+    },
+    "https://huggingface.co/papers/2606.03890": {
+      "title": "OVO-S-Bench: A Hierarchical Benchmark for Streaming Spatial Intelligence in Multimodal LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
+    },
+    "https://research.google/blog/towards-passive-heart-health-monitoring-via-smartphone-camera": {
+      "title": "June 4, 2026 Towards passive heart health monitoring via smartphone camera Health & Bioscience &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-05",
+      "lastSeen": "2026-06-05"
     }
   }
 }
