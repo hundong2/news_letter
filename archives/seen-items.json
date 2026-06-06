@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-05",
+  "updatedAt": "2026-06-06",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5692,6 +5692,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-05",
       "lastSeen": "2026-06-05"
+    },
+    "https://huggingface.co/papers/2606.06492": {
+      "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "https://huggingface.co/papers/2606.05553": {
+      "title": "ArcANE: Do Role-Playing Language Agents Stay in Character at the Right Time?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "https://huggingface.co/papers/2606.04743": {
+      "title": "TIDE: Proactive Multi-Problem Discovery via Template-Guided Iteration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "https://huggingface.co/papers/2606.05622": {
+      "title": "AdaPlanBench: Evaluating Adaptive Planning in Large Language Model Agents under World and User Constraints",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "https://huggingface.co/papers/2606.05259": {
+      "title": "VideoKR: Towards Knowledge- and Reasoning-Intensive Video Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "http://arxiv.org/abs/2606.06485v1": {
+      "title": "PAR3D: A Unified 3D-MLLM with Part-Aware Representation for Scene Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "http://arxiv.org/abs/2606.06477v1": {
+      "title": "Complexity-Balanced Diffusion Splitting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "http://arxiv.org/abs/2606.06476v1": {
+      "title": "Thinking with Imagination: Agentic Visual Spatial Reasoning with World Simulators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "http://arxiv.org/abs/2606.06458v1": {
+      "title": "In-Context Multiple Instance Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "http://arxiv.org/abs/2506.08809v7": {
+      "title": "Training-Free Inference for High-Resolution Sinogram Completion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
+    },
+    "https://research.google/blog/unlocking-dependable-responses-with-gemini-enterprise-agent-platforms-agentic-rag": {
+      "title": "June 5, 2026 Unlocking dependable responses with Gemini Enterprise Agent Platform’s Agentic RAG Data Management &#183; Machine Intelligence &#183; Natural Language Processing &#183; Product",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-06",
+      "lastSeen": "2026-06-06"
     }
   }
 }
