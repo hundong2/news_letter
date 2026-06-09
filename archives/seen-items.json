@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-08",
+  "updatedAt": "2026-06-09",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5804,6 +5804,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-08",
       "lastSeen": "2026-06-08"
+    },
+    "https://huggingface.co/papers/2606.07502": {
+      "title": "Your UnEmbedding Matrix is Secretly a Feature Lens for Text Embeddings",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "https://huggingface.co/papers/2606.05563": {
+      "title": "SoCRATES: Towards Reliable Automated Evaluation of Proactive LLM Mediation across Domains and Socio-cognitive Variations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "https://huggingface.co/papers/2606.04525": {
+      "title": "GENEB: Why Genomic Models Are Hard to Compare",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "https://huggingface.co/papers/2606.07229": {
+      "title": "MMAE: A Massive Multitask Audio Editing Benchmark",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "https://huggingface.co/papers/2606.07326": {
+      "title": "AnchorWorld: Embodied Egocentric World Simulation with View-based Evolution Customization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "http://arxiv.org/abs/2604.23435v2": {
+      "title": "Knee-xRAI: An Explainable AI Framework for Automatic Kellgren-Lawrence Grading of Knee Osteoarthritis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "http://arxiv.org/abs/2505.13225v2": {
+      "title": "CoSeP: Complementary Separability Pruning via Class-Separability Clustering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "http://arxiv.org/abs/2606.08574v1": {
+      "title": "OrderDP: A Theoretically Guaranteed Lossless Dynamic Data Pruning Framework",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "http://arxiv.org/abs/2606.08572v1": {
+      "title": "OmniCap-IF: Benchmarking and Improving Instruction Following Abilities for Omni-Video Captioning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
+    },
+    "http://arxiv.org/abs/2605.27852v3": {
+      "title": "ClothTransformer: Unified Latent-Space Transformers for Scalable Cloth Simulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-09",
+      "lastSeen": "2026-06-09"
     }
   }
 }
