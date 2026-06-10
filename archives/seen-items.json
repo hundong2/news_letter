@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-09",
+  "updatedAt": "2026-06-10",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5874,6 +5874,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-09",
       "lastSeen": "2026-06-09"
+    },
+    "https://huggingface.co/papers/2606.07297": {
+      "title": "SWE-Explore: Benchmarking How Coding Agents Explore Repositories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "https://huggingface.co/papers/2606.05405": {
+      "title": "Agents' Last Exam",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "https://huggingface.co/papers/2606.07082": {
+      "title": "On the Geometry of On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "https://huggingface.co/papers/2606.06087": {
+      "title": "LatentSkill: From In-Context Textual Skills to In-Weight Latent Skills for LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "https://huggingface.co/papers/2606.09828": {
+      "title": "Latent Spatial Memory for Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "http://arxiv.org/abs/2606.10940v1": {
+      "title": "Democratising Camera Trap AI: An Open-Source Model for Detecting UK Mammals",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "http://arxiv.org/abs/2606.10939v1": {
+      "title": "PENet+: A Lightweight Residual Transformer Framework for Efficient Image Steganalysis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "http://arxiv.org/abs/2601.22763v3": {
+      "title": "Is Task-Specific Training Necessary for Anomaly Detection?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "http://arxiv.org/abs/2605.26921v2": {
+      "title": "Similarity-based matrix factorization for revealing interpretable dimensions in representational data",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
+    },
+    "http://arxiv.org/abs/2606.09681v2": {
+      "title": "GenEyePose: Patient-Free, Knowledge-Based Saccadic Eye Movement Modeling for Digital Neurophysiologic Biomarker Development",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-10",
+      "lastSeen": "2026-06-10"
     }
   }
 }
