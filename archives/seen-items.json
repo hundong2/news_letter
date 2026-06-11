@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-10",
+  "updatedAt": "2026-06-11",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -5944,6 +5944,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-10",
       "lastSeen": "2026-06-10"
+    },
+    "https://huggingface.co/papers/2606.09967": {
+      "title": "ABot-Earth 0.5: Generative 3D Earth Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "https://huggingface.co/papers/2606.10651": {
+      "title": "Kwai Keye-VL-2.0 Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "https://huggingface.co/papers/2606.10917": {
+      "title": "Role-Agent: Bootstrapping LLM Agents via Dual-Role Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "https://huggingface.co/papers/2606.05922": {
+      "title": "Retrospective Harness Optimization: Improving LLM Agents via Self-Preference over Trajectory Rollouts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "https://huggingface.co/papers/2606.09730": {
+      "title": "SearchSwarm: Towards Delegation Intelligence in Agentic LLMs for Long-Horizon Deep Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "http://arxiv.org/abs/2606.12153v1": {
+      "title": "TopoCap: Learning Topology-Agnostic Motion Priors for Monocular Video-to-Animation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "http://arxiv.org/abs/2606.12142v1": {
+      "title": "AerialClaw: An Open-Source Framework for LLM-Driven Autonomous Aerial Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "http://arxiv.org/abs/2606.12140v1": {
+      "title": "Time-Conditioned and Multi-Time Survival Prediction from 2D PET/CT Projections in Lung Cancer",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "http://arxiv.org/abs/2606.12126v1": {
+      "title": "AGE-MIL: Anchor-Guided Evidence Learning for Patient-Level Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "http://arxiv.org/abs/2606.12125v1": {
+      "title": "Q-Fold: Query-Aware Focus-Context Spatio-Temporal Folding for Long Video Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
+    },
+    "https://research.google/blog/new-framework-for-auditing-machine-unlearning": {
+      "title": "June 10, 2026 New framework for auditing machine unlearning Algorithms & Theory &#183; Responsible AI &#183; Security, Privacy and Abuse Prevention",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-11",
+      "lastSeen": "2026-06-11"
     }
   }
 }
