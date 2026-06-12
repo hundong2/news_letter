@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-11",
+  "updatedAt": "2026-06-12",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6021,6 +6021,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-11",
       "lastSeen": "2026-06-11"
+    },
+    "https://huggingface.co/papers/2606.12397": {
+      "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "https://huggingface.co/papers/2606.11926": {
+      "title": "Toward Generalist Autonomous Research via Hypothesis-Tree Refinement",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "https://huggingface.co/papers/2606.12191": {
+      "title": "Agentic Environment Engineering for Large Language Models: A Survey of Environment Modeling, Synthesis, Evaluation, and Application",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "https://huggingface.co/papers/2606.12344": {
+      "title": "Claw-SWE-Bench: A Benchmark for Evaluating OpenClaw-style Agent Harnesses on Coding Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "https://huggingface.co/papers/2606.09076": {
+      "title": "Beyond Scalar Rewards by Internalizing Reasoning into Score Distributions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "http://arxiv.org/abs/2606.13496v1": {
+      "title": "Budget-Constrained Step-Level Diffusion Caching",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "http://arxiv.org/abs/2606.13494v1": {
+      "title": "NavWAM: A Navigation World Action Model for Goal-Conditioned Visual Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "http://arxiv.org/abs/2606.13488v1": {
+      "title": "Point-Wise Geometry-Aware Transformer for Partial-to-Full Point Cloud Registration in Computer-Assisted Surgery",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "http://arxiv.org/abs/2606.13461v1": {
+      "title": "Reinforcement Learning for Neural Model Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
+    },
+    "http://arxiv.org/abs/2604.27277v3": {
+      "title": "BrainDINO: A Brain MRI Foundation Model for Generalizable Clinical Representation Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-12",
+      "lastSeen": "2026-06-12"
     }
   }
 }
