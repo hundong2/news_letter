@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-12",
+  "updatedAt": "2026-06-13",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6091,6 +6091,97 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-12",
       "lastSeen": "2026-06-12"
+    },
+    "https://huggingface.co/papers/2606.13681": {
+      "title": "EvoArena: Tracking Memory Evolution for Robust LLM Agents in Dynamic Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://huggingface.co/papers/2606.13392": {
+      "title": "MiniMax Sparse Attention",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://huggingface.co/papers/2606.13673": {
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://huggingface.co/papers/2606.13679": {
+      "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://huggingface.co/papers/2606.12087": {
+      "title": "FORT-Searcher: Synthesizing Shortcut-Resistant Search Tasks for Training Deep Search Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "http://arxiv.org/abs/2606.13679v1": {
+      "title": "InterleaveThinker: Reinforcing Agentic Interleaved Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "http://arxiv.org/abs/2606.13677v1": {
+      "title": "Mana: Dexterous Manipulation of Articulated Tools",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "http://arxiv.org/abs/2606.13676v1": {
+      "title": "Modality Forcing for Scalable Spatial Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "http://arxiv.org/abs/2606.13674v1": {
+      "title": "RepWAM: World Action Modeling with Representation Visual-Action Tokenizers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "http://arxiv.org/abs/2606.13673v1": {
+      "title": "SpatialClaw: Rethinking Action Interface for Agentic Spatial Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://research.google/blog/research-into-how-ai-can-help-users-understand-skin-conditions": {
+      "title": "June 12, 2026 Research into how AI can help users understand skin conditions Health & Bioscience &#183; Human-Computer Interaction and Visualization",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones": {
+      "title": "June 12, 2026 A low-carbon computing platform from your retired phones Climate & Sustainability &#183; Distributed Systems & Parallel Computing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
+    },
+    "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen": {
+      "title": "Ire identifies another LOTUSLITE specimen",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-06-13",
+      "lastSeen": "2026-06-13"
     }
   }
 }
