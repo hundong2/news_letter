@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-15",
+  "updatedAt": "2026-06-16",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-02"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-01"
+      "lastSeen": "2026-06-16"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -5292,7 +5292,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-06-02"
+      "lastSeen": "2026-06-16"
     },
     "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai": {
       "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
@@ -5453,7 +5453,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-28",
-      "lastSeen": "2026-06-08"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/papers/2605.28816": {
       "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
@@ -5502,7 +5502,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-29",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/papers/2605.29801": {
       "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
@@ -5691,7 +5691,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-05",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/papers/2606.06492": {
       "title": "Code2LoRA: Hypernetwork-Generated Adapters for Code Language Models under Software Evolution",
@@ -5768,7 +5768,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-06",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "http://arxiv.org/abs/2606.07503v1": {
       "title": "Differences in Detection: Explainability Where it Matters",
@@ -6020,7 +6020,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-11",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/papers/2606.12397": {
       "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
@@ -6167,21 +6167,21 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones": {
       "title": "June 12, 2026 A low-carbon computing platform from your retired phones Climate & Sustainability &#183; Distributed Systems & Parallel Computing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen": {
       "title": "Ire identifies another LOTUSLITE specimen",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-15"
+      "lastSeen": "2026-06-16"
     },
     "https://huggingface.co/papers/2606.09426": {
       "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
@@ -6224,6 +6224,41 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-15",
       "lastSeen": "2026-06-15"
+    },
+    "https://huggingface.co/papers/2606.13432": {
+      "title": "OmniDirector: General Multi-Shot Camera Cloning without Cross-Paired Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
+    },
+    "https://huggingface.co/papers/2606.12384": {
+      "title": "APPO: Agentic Procedural Policy Optimization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
+    },
+    "https://huggingface.co/papers/2606.06036": {
+      "title": "Memory is Reconstructed, Not Retrieved: Graph Memory for LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
+    },
+    "https://huggingface.co/papers/2606.14502": {
+      "title": "From Chatbot to Digital Colleague: The Paradigm Shift Toward Persistent Autonomous AI",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
+    },
+    "https://huggingface.co/papers/2606.13707": {
+      "title": "Orchestra-o1: Omnimodal Agent Orchestration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-16",
+      "lastSeen": "2026-06-16"
     }
   }
 }
