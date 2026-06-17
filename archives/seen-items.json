@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-16",
+  "updatedAt": "2026-06-17",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6259,6 +6259,48 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-06-16",
       "lastSeen": "2026-06-16"
+    },
+    "https://huggingface.co/papers/2606.14777": {
+      "title": "JoyAI-VL-Interaction: Real-Time Vision-Language Interaction Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    "https://huggingface.co/papers/2606.11176": {
+      "title": "Data Journalist Agent: Transforming Data into Verifiable Multimodal Stories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    "https://huggingface.co/papers/2606.17046": {
+      "title": "Geometric Action Model for Robot Policy Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    "https://huggingface.co/papers/2606.16993": {
+      "title": "DreamX-World 1.0: A General-Purpose Interactive World Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    "https://huggingface.co/papers/2606.14066": {
+      "title": "FastContext: Training Efficient Repository Explorer for Coding Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
+    },
+    "https://research.google/blog/from-pixels-to-planning-earth-ai-for-nature-restoration": {
+      "title": "June 16, 2026 From pixels to planning: Earth AI for nature restoration Climate & Sustainability &#183; Earth AI &#183; Machine Intelligence &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-17",
+      "lastSeen": "2026-06-17"
     }
   }
 }
