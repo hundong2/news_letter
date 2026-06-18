@@ -1,0 +1,30 @@
+{
+  "date": "2026-06-18",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 16,
+    "unique": 16,
+    "enriched": 16,
+    "trimmed": 16,
+    "summarized": 16
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "message": "Fetch error 429 for https://huggingface.co/papers"
+    },
+    {
+      "sourceId": "paperswithcode",
+      "sourceName": "Papers with Code",
+      "message": "Fetch error 429 for https://paperswithcode.com/"
+    },
+    {
+      "sourceId": "open_vlm_leaderboard",
+      "sourceName": "Open VLM Leaderboard",
+      "message": "Fetch error 429 for https://huggingface.co/spaces/opencompass/open_vlm_leaderboard"
+    }
+  ],
+  "geminiError": null
+}

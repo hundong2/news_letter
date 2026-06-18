@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-17",
+  "updatedAt": "2026-06-18",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,7 +245,7 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
@@ -5292,7 +5292,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://www.microsoft.com/en-us/research/blog/vega-zero-knowledge-proofs-for-digital-identity-in-the-age-of-ai": {
       "title": "Vega: Zero-knowledge proofs for digital identity in the age of AI",
@@ -5453,7 +5453,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-28",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://huggingface.co/papers/2605.28816": {
       "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
@@ -5502,7 +5502,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-29",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://huggingface.co/papers/2605.29801": {
       "title": "AgentDoG 1.5: A Lightweight and Scalable Alignment Framework for AI Agent Safety and Security",
@@ -5768,7 +5768,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-06",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "http://arxiv.org/abs/2606.07503v1": {
       "title": "Differences in Detection: Explainability Where it Matters",
@@ -6020,7 +6020,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-11",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://huggingface.co/papers/2606.12397": {
       "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
@@ -6167,21 +6167,21 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones": {
       "title": "June 12, 2026 A low-carbon computing platform from your retired phones Climate & Sustainability &#183; Distributed Systems & Parallel Computing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen": {
       "title": "Ire identifies another LOTUSLITE specimen",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-18"
     },
     "https://huggingface.co/papers/2606.09426": {
       "title": "WeaveBench: A Long-Horizon, Real-World Benchmark for Computer-Use Agents with Hybrid Interfaces",
@@ -6300,7 +6300,42 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-17"
+      "lastSeen": "2026-06-18"
+    },
+    "http://arxiv.org/abs/2606.19156v1": {
+      "title": "Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    "http://arxiv.org/abs/2602.07544v2": {
+      "title": "MUFASA: A Multi-Layer Framework for Slot Attention",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    "http://arxiv.org/abs/2606.19151v1": {
+      "title": "The Market in the Model: Latent Diffusion as Neural Economy",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    "http://arxiv.org/abs/2603.21583v2": {
+      "title": "HACMatch Semi-Supervised Rotation Regression with Hardness-Aware Curriculum Pseudo Labeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
+    },
+    "http://arxiv.org/abs/2504.01527v4": {
+      "title": "Beyond Nearest Neighbor Interpolation in Data Augmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-18",
+      "lastSeen": "2026-06-18"
     }
   }
 }
