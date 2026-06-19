@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-18",
+  "updatedAt": "2026-06-19",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6336,6 +6336,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-18",
       "lastSeen": "2026-06-18"
+    },
+    "https://huggingface.co/papers/2606.19338": {
+      "title": "Beyond the Current Observation: Evaluating Multimodal Large Language Models in Controllable Non-Markov Games",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "https://huggingface.co/papers/2606.18558": {
+      "title": "MolmoMotion: Forecasting Point Trajectories in 3D with Language Instruction",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "https://huggingface.co/papers/2606.16533": {
+      "title": "Kairos: A Native World Model Stack for Physical AI",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "https://huggingface.co/papers/2606.18363": {
+      "title": "Guava: An Effective and Universal Harness for Embodied Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "https://huggingface.co/papers/2606.18967": {
+      "title": "EfficientRollout: System-Aware Self-Speculative Decoding for RL Rollouts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "http://arxiv.org/abs/2604.04917v3": {
+      "title": "Vero: An Open RL Recipe for General Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "http://arxiv.org/abs/2606.14957v2": {
+      "title": "Learning Sparse Latent Predictive Foundation Model for Multimodal Neuroimaging",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "http://arxiv.org/abs/2606.20312v1": {
+      "title": "Reliability-Aware Prototype Calibration for Frozen Pose-Flow Video Anomaly Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "http://arxiv.org/abs/2605.15231v2": {
+      "title": "Mask-Morph Graph U-Net: A Generalisable Mesh-Based Surrogate for Crashworthiness Field Prediction under Large Geometric Variation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
+    },
+    "http://arxiv.org/abs/2606.20310v1": {
+      "title": "Through the PRISM: Preference Representation in Intermediate States of Video Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-19",
+      "lastSeen": "2026-06-19"
     }
   }
 }
