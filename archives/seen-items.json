@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-19",
+  "updatedAt": "2026-06-20",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-16"
+      "lastSeen": "2026-06-20"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -5768,7 +5768,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-06",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "http://arxiv.org/abs/2606.07503v1": {
       "title": "Differences in Detection: Explainability Where it Matters",
@@ -6020,7 +6020,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-11",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "https://huggingface.co/papers/2606.12397": {
       "title": "Redesign Mixture-of-Experts Routers with Manifold Power Iteration",
@@ -6167,14 +6167,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "https://research.google/blog/a-low-carbon-computing-platform-from-your-retired-phones": {
       "title": "June 12, 2026 A low-carbon computing platform from your retired phones Climate & Sustainability &#183; Distributed Systems & Parallel Computing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-13",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "https://www.microsoft.com/en-us/research/blog/ire-identifies-another-lotuslite-specimen": {
       "title": "Ire identifies another LOTUSLITE specimen",
@@ -6300,7 +6300,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-17",
-      "lastSeen": "2026-06-18"
+      "lastSeen": "2026-06-20"
     },
     "http://arxiv.org/abs/2606.19156v1": {
       "title": "Hand-4DGS: Feed-Forward 3D Gaussian Splatting for 4D Hand Reconstruction from Egocentric Videos",
@@ -6406,6 +6406,41 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-06-19",
       "lastSeen": "2026-06-19"
+    },
+    "https://huggingface.co/papers/2606.19195": {
+      "title": "Moebius: 0.2B Lightweight Image Inpainting Framework with 10B-Level Performance",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    "https://huggingface.co/papers/2606.15133": {
+      "title": "DragMesh-2: Physically Plausible Dexterous Hand-Object Interaction with Articulated Objects",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    "https://huggingface.co/papers/2606.19419": {
+      "title": "Playful Agentic Robot Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    "https://huggingface.co/papers/2606.20515": {
+      "title": "S-Agent: Spatial Tool-Use Elicits Reasoning for Spatial Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
+    },
+    "https://huggingface.co/papers/2606.20517": {
+      "title": "Multi-LCB: Extending LiveCodeBench to Multiple Programming Languages",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-20",
+      "lastSeen": "2026-06-20"
     }
   }
 }
