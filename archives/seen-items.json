@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-06-25",
+  "updatedAt": "2026-06-26",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6595,6 +6595,90 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-25",
       "lastSeen": "2026-06-25"
+    },
+    "https://huggingface.co/papers/2606.24775": {
+      "title": "Are We Ready For An Agent-Native Memory System?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://huggingface.co/papers/2606.26058": {
+      "title": "DomainShuttle: Freeform Open Domain Subject-driven Text-to-video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://huggingface.co/papers/2606.25041": {
+      "title": "Wan-Streamer v0.1: End-to-end Real-time Interactive Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://huggingface.co/papers/2606.25763": {
+      "title": "ShutterMuse: Capture-Time Photography Guidance with MLLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://huggingface.co/papers/2606.25331": {
+      "title": "Improved Large Language Diffusion Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "http://arxiv.org/abs/2606.27223v1": {
+      "title": "SatSplatDiff: Geometry-preserving generative refinement for high-fidelity satellite Gaussian Splatting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "http://arxiv.org/abs/2606.27192v1": {
+      "title": "LISA: Likelihood Score Alignment for Visual-condition Controllable Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "http://arxiv.org/abs/2606.27187v1": {
+      "title": "HarmVideoBench: Benchmarking Harmful Video Understanding in Large Multimodal Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "http://arxiv.org/abs/2412.09959v5": {
+      "title": "Towards Consistent and Efficient Dataset Distillation via Diffusion-Driven Selection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "http://arxiv.org/abs/2606.20390v2": {
+      "title": "Geometry-Aware Superpixel Graph Transformer with Metadata for Skin Lesion Classification",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://research.google/blog/optimizing-cloud-economics-with-linear-elastic-caching": {
+      "title": "June 25, 2026 Optimizing cloud economics with linear elastic caching Algorithms & Theory &#183; Data Management",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
+    },
+    "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments": {
+      "title": "Understanding the brain with AI-driven explanations and experiments",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-06-26",
+      "lastSeen": "2026-06-26"
     }
   }
 }
