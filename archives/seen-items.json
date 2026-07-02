@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-01",
+  "updatedAt": "2026-07-02",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -245,14 +245,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
       "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
@@ -6587,14 +6587,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis": {
       "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-25",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://huggingface.co/papers/2606.24775": {
       "title": "Are We Ready For An Agent-Native Memory System?",
@@ -6671,14 +6671,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://www.microsoft.com/en-us/research/blog/understanding-the-brain-with-ai-driven-explanations-and-experiments": {
       "title": "Understanding the brain with AI-driven explanations and experiments",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-26",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://huggingface.co/papers/2606.27377": {
       "title": "DanceOPD: On-Policy Generative Field Distillation",
@@ -6755,7 +6755,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-06-29"
+      "lastSeen": "2026-07-02"
     },
     "https://huggingface.co/papers/2606.26025": {
       "title": "In-Context World Modeling for Robotic Control",
@@ -6804,7 +6804,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-06-30",
-      "lastSeen": "2026-06-30"
+      "lastSeen": "2026-07-02"
     },
     "https://huggingface.co/papers/2606.28733": {
       "title": "Agentic Abstention: Do Agents Know When to Stop Instead of Act?",
@@ -6881,21 +6881,56 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data": {
       "title": "June 30, 2026 Introducing TabFM: A zero-shot foundation model for tabular data Data Management &#183; Machine Intelligence &#183; Product",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
     },
     "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters": {
       "title": "SkillOpt: Agent skills as trainable parameters",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-01"
+      "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.30534": {
+      "title": "Orca: The World is in Your Mind",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.28436": {
+      "title": "Dockerless: Environment-Free Program Verifier for Coding Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.30626": {
+      "title": "DOPD: Dual On-policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.31315": {
+      "title": "BlockPilot: Instance-Adaptive Policy Learning for Diffusion-based Speculative Decoding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.19297": {
+      "title": "Does VLA Even Know the Basics? Measuring Commonsense and World Knowledge Retention in Vision-Language-Action Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-02",
+      "lastSeen": "2026-07-02"
     }
   }
 }
