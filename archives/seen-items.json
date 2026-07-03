@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-02",
+  "updatedAt": "2026-07-03",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -6931,6 +6931,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-02",
       "lastSeen": "2026-07-02"
+    },
+    "https://huggingface.co/papers/2606.28322": {
+      "title": "PerceptionRubrics: Calibrating Multimodal Evaluation to Human Perception",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "https://huggingface.co/papers/2607.00466": {
+      "title": "ELDR: Expert-Locality-Aware Decode Routing for PD-Disaggregated MoE Serving",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "https://huggingface.co/papers/2606.19271": {
+      "title": "TurboServe: Serving Streaming Video Generation Efficiently and Economically",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "https://huggingface.co/papers/2607.01071": {
+      "title": "MemSyco-Bench: Benchmarking Sycophancy in Agent Memory",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "https://huggingface.co/papers/2607.00461": {
+      "title": "Multimodal Continuous Reasoning via Asymmetric Mutual Variational Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "http://arxiv.org/abs/2607.01222v1": {
+      "title": "Ink3D: Sculpting 3D Assets with Extremely Complex Textures via Video Generative Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "http://arxiv.org/abs/2603.26661v2": {
+      "title": "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "http://arxiv.org/abs/2607.01205v1": {
+      "title": "Linkify: Learning from Interface-Augmented Assembly Graphs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "http://arxiv.org/abs/2607.01202v1": {
+      "title": "World from Motion: Generative Dynamic Gaussian Reconstruction from Monocular Video",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
+    },
+    "http://arxiv.org/abs/2606.27537v3": {
+      "title": "MemoBench: Benchmarking World Modeling in Dynamically Changing Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-03",
+      "lastSeen": "2026-07-03"
     }
   }
 }
