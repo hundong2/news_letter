@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-03",
+  "updatedAt": "2026-07-04",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7001,6 +7001,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-03",
       "lastSeen": "2026-07-03"
+    },
+    "https://huggingface.co/papers/2607.02512": {
+      "title": "Program-as-Weights: A Programming Paradigm for Fuzzy Functions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "https://huggingface.co/papers/2607.02440": {
+      "title": "EvoPolicyGym: Evaluating Autonomous Policy Evolution in Interactive Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "https://huggingface.co/papers/2607.02255": {
+      "title": "AgenticSTS: A Bounded-Memory Testbed for Long-Horizon LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "https://huggingface.co/papers/2606.30562": {
+      "title": "Morphing into Hybrid Attention Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "https://huggingface.co/papers/2607.01642": {
+      "title": "Multi-Resolution Flow Matching: Training-Free Diffusion Acceleration via Staged Sampling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "http://arxiv.org/abs/2607.02517v1": {
+      "title": "WorldDirector: Building Controllable World Simulators with Persistent Dynamic Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "http://arxiv.org/abs/2607.02516v1": {
+      "title": "Alignment Is All You Need For X-to-4D Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "http://arxiv.org/abs/2607.02515v1": {
+      "title": "PointDiT: Pixel-Space Diffusion for Monocular Geometry Estimation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "http://arxiv.org/abs/2601.16211v3": {
+      "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
+    },
+    "http://arxiv.org/abs/2603.19226v2": {
+      "title": "Under One Sun: Multi-Object Generative Perception of Materials and Illumination",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-04",
+      "lastSeen": "2026-07-04"
     }
   }
 }
