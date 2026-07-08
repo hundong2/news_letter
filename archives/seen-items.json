@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-07",
+  "updatedAt": "2026-07-08",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7106,6 +7106,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-07",
       "lastSeen": "2026-07-07"
+    },
+    "https://huggingface.co/papers/2607.04033": {
+      "title": "OmniOpt: Taxonomy, Geometry, and Benchmarking of Modern Optimizers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "https://huggingface.co/papers/2607.04425": {
+      "title": "UI-MOPD: Multi-Platform On-Policy Distillation for Continual GUI Agent Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "https://huggingface.co/papers/2607.04438": {
+      "title": "ResearchStudio-Reel: Automate the Last Mile of Research from Paper to Poster, Video, and Blog",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "https://huggingface.co/papers/2607.05373": {
+      "title": "PixWorld: Unifying 3D Scene Generation and Reconstruction in Pixel Space",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "https://huggingface.co/papers/2607.04439": {
+      "title": "ResearchStudio-Idea: An Evidence-Grounded Research-Ideation Skill Suite from ML Conference Outcomes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "http://arxiv.org/abs/2607.05396v1": {
+      "title": "From Fixed to Free Cameras: Calibration-Free View-Robust Vision-Language-Action Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "http://arxiv.org/abs/2607.05392v1": {
+      "title": "SynCity 3000: Bootstrapping Scene-Scale 3D Diffusion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "http://arxiv.org/abs/2607.05390v1": {
+      "title": "Deform360: A Massive Multi-view Visuotactile Dataset for Deformable World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "http://arxiv.org/abs/2607.05389v1": {
+      "title": "InFlux++: Real and Synthetic Data for Estimating Dynamic Camera Intrinsics",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "http://arxiv.org/abs/2607.05382v1": {
+      "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
+    },
+    "https://research.google/blog/the-power-of-collaboration-how-we-can-reduce-traffic-congestion": {
+      "title": "July 7, 2026 The power of collaboration: How we can reduce traffic congestion Algorithms & Theory &#183; Climate & Sustainability &#183; Data Mining & Modeling",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-07-08",
+      "lastSeen": "2026-07-08"
     }
   }
 }
