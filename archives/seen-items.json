@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-08",
+  "updatedAt": "2026-07-09",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7183,6 +7183,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-08",
       "lastSeen": "2026-07-08"
+    },
+    "https://huggingface.co/papers/2607.06559": {
+      "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "https://huggingface.co/papers/2607.06291": {
+      "title": "AlayaWorld: Long-Horizon and Playable Video World Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "https://huggingface.co/papers/2607.06558": {
+      "title": "RynnWorld-Teleop: An Action-Conditioned World Model for Digital Teleoperation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "https://huggingface.co/papers/2607.02980": {
+      "title": "Hierarchical Sparse Attention Done Right: Toward Infinite Context Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "https://huggingface.co/papers/2607.06560": {
+      "title": "Vision as Unified Multimodal Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "http://arxiv.org/abs/2607.06565v1": {
+      "title": "ELSA3D: Elastic Semantic Anchoring for Unified 3D Understanding and Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "http://arxiv.org/abs/2607.06564v1": {
+      "title": "Lift3D-VLA: Lifting VLA Models to 3D Geometry and Dynamics-Aware Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "http://arxiv.org/abs/2510.13808v2": {
+      "title": "VisCoP: Visual Probing for Video Domain Adaptation of Vision Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "http://arxiv.org/abs/2607.04434v2": {
+      "title": "RoboDojo: A Unified Sim-and-Real Benchmark for Comprehensive Evaluation of Generalist Robot Manipulation Policies",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "http://arxiv.org/abs/2607.06560v1": {
+      "title": "Vision as Unified Multimodal Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
+    },
+    "https://www.microsoft.com/en-us/research/blog/flint-a-visualization-language-for-the-ai-era": {
+      "title": "Flint: A visualization language for the AI era",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-07-09",
+      "lastSeen": "2026-07-09"
     }
   }
 }

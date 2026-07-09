@@ -1,0 +1,20 @@
+{
+  "date": "2026-07-09",
+  "model": "gemini-2.5-flash",
+  "forceDate": null,
+  "counts": {
+    "raw": 21,
+    "unique": 11,
+    "enriched": 11,
+    "trimmed": 11,
+    "summarized": 11
+  },
+  "sourceErrors": [
+    {
+      "sourceId": "google_ai_edge",
+      "sourceName": "Google AI Edge",
+      "message": "Invalid response body while trying to fetch https://developers.google.com/edge: Premature close"
+    }
+  ],
+  "geminiError": null
+}
