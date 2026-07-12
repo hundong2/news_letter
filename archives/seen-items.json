@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-11",
+  "updatedAt": "2026-07-12",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-12"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -6755,7 +6755,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-06-27",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2606.26025": {
       "title": "In-Context World Modeling for Robotic Control",
@@ -6881,14 +6881,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-12"
     },
     "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data": {
       "title": "June 30, 2026 Introducing TabFM: A zero-shot foundation model for tabular data Data Management &#183; Machine Intelligence &#183; Product",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-07"
+      "lastSeen": "2026-07-12"
     },
     "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters": {
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -7182,7 +7182,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-08"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2607.06559": {
       "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
@@ -7259,7 +7259,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-09",
-      "lastSeen": "2026-07-09"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2607.07708": {
       "title": "Accurate, Interdisciplinary and Transparent Structure-property Understanding with Deep Native Structural Reasoning",
@@ -7336,35 +7336,35 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-12"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-10"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2607.03118": {
       "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2603.29616": {
       "title": "Video-Oasis: Rethinking Evaluation of Video Understanding",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2601.16211": {
       "title": "Why Can't I Open My Drawer? Mitigating Object-Driven Shortcuts in Zero-Shot Compositional Action Recognition",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "https://huggingface.co/papers/2607.08768": {
       "title": "UniClawBench: A Universal Benchmark for Proactive Agents on Real-World Tasks",
@@ -7378,42 +7378,49 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "http://arxiv.org/abs/2607.08772v1": {
       "title": "Wat3R: Underwater 3D Geometry Learning without Annotations",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "http://arxiv.org/abs/2607.08771v1": {
       "title": "ZipDepth: Bringing Lightweight Zero-Shot Monocular Depth Anywhere, on Any Device",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "http://arxiv.org/abs/2607.08770v1": {
       "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "http://arxiv.org/abs/2607.08769v1": {
       "title": "Geometry and Gradient-based Partitioning for Panoramic Outdoor Reconstruction",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
     },
     "http://arxiv.org/abs/2607.08766v1": {
       "title": "OPSD-V: On-Policy Self-Distillation for Post-Training Few-Step Autoregressive Video Generators",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-11",
-      "lastSeen": "2026-07-11"
+      "lastSeen": "2026-07-12"
+    },
+    "https://huggingface.co/papers/2607.08770": {
+      "title": "LongE2V: Long-Horizon Event-based Video Reconstruction, Prediction, and Frame Interpolation with Video Diffusion Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-12",
+      "lastSeen": "2026-07-12"
     }
   }
 }
