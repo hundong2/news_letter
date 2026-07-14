@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-13",
+  "updatedAt": "2026-07-14",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7421,6 +7421,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-12",
       "lastSeen": "2026-07-13"
+    },
+    "https://huggingface.co/papers/2607.08964": {
+      "title": "Long-Horizon-Terminal-Bench: Testing the Limits of Agents on Long-Horizon Terminal Tasks with Dense Reward-Based Grading",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "https://huggingface.co/papers/2607.09657": {
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "https://huggingface.co/papers/2607.09024": {
+      "title": "Video Generation Models are General-Purpose Vision Learners",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "https://huggingface.co/papers/2607.04751": {
+      "title": "Trust Region Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "https://huggingface.co/papers/2607.07964": {
+      "title": "KronQ: LLM Quantization via Kronecker-Factored Hessian",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "http://arxiv.org/abs/2607.09661v1": {
+      "title": "PanoWorld: Real-World Panoramic Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "http://arxiv.org/abs/2607.09657v1": {
+      "title": "Scalable Visual Pretraining for Language Intelligence",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "http://arxiv.org/abs/2607.09655v1": {
+      "title": "OpenLongTail: Generative Scaling of Long-Tail Driving Data",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "http://arxiv.org/abs/2607.09654v1": {
+      "title": "Evolution of Accuracy and Visual-Cognitive Errors in a Decade of Vision-Language AI Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "http://arxiv.org/abs/2607.09650v1": {
+      "title": "Revisiting Euler-Angle Regression with Kolmogorov-Arnold Networks",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
+    },
+    "https://www.microsoft.com/en-us/research/blog/verifying-rust-cryptography-in-symcrypt-from-standards-to-code": {
+      "title": "Verifying Rust cryptography in SymCrypt, from standards to code",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-07-14",
+      "lastSeen": "2026-07-14"
     }
   }
 }
