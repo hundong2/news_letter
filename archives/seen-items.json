@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-15",
+  "updatedAt": "2026-07-16",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7568,6 +7568,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-15",
       "lastSeen": "2026-07-15"
+    },
+    "https://huggingface.co/papers/2607.10400": {
+      "title": "SynthDocBench: Controlled Benchmark for Long-Context Visual Document Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "https://huggingface.co/papers/2607.11886": {
+      "title": "Read It Back: Pretrained MLLMs Are Zero-Shot Reward Models for Text-to-Image Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "https://huggingface.co/papers/2607.05382": {
+      "title": "Search Beyond What Can Be Taught: Evolving the Knowledge Boundary in Agentic Visual Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "https://huggingface.co/papers/2607.08317": {
+      "title": "Blind-Spots-Bench: Evaluating Blind Spots in Multimodal Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "https://huggingface.co/papers/2607.12463": {
+      "title": "Function-Aware Fill-in-the-Middle as Mid-Training for Coding Agent Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "http://arxiv.org/abs/2607.13031v1": {
+      "title": "The Seriality Gap in Video Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "http://arxiv.org/abs/2607.13017v1": {
+      "title": "FlowWAM: Optical Flow as a Unified Action Representation for World Action Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "http://arxiv.org/abs/2607.13010v1": {
+      "title": "DermDepth: Toward Monocular Metric Scale 3D Reconstruction Models for Dermatology",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "http://arxiv.org/abs/2605.23045v2": {
+      "title": "The TIME Machine: On The Power of Motion for Efficient Perception",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "http://arxiv.org/abs/2606.23604v4": {
+      "title": "Polycepta: Object-Centric Appearance Estimation for Multi-Object Tracking",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
+    },
+    "https://research.google/blog/towards-demystifying-the-creativity-of-diffusion-models": {
+      "title": "July 15, 2026 Towards demystifying the creativity of diffusion models Algorithms & Theory &#183; Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-07-16",
+      "lastSeen": "2026-07-16"
     }
   }
 }
