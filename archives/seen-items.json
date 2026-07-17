@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-16",
+  "updatedAt": "2026-07-17",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7645,6 +7645,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
       "lastSeen": "2026-07-16"
+    },
+    "https://huggingface.co/papers/2607.13285": {
+      "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "https://huggingface.co/papers/2607.13125": {
+      "title": "Boogu-Image-0.1: Boosting Open-Source Unified Multimodal Understanding and Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "https://huggingface.co/papers/2607.12395": {
+      "title": "Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "https://huggingface.co/papers/2607.12625": {
+      "title": "KnowAct-GUIClaw: Know Deeply, Act Perfectly, Personal GUI Assistant with Self-Evolving Memory and Skill",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "https://huggingface.co/papers/2607.13639": {
+      "title": "OvisOCR2 Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "http://arxiv.org/abs/2607.14088v1": {
+      "title": "VideoRAE: Taming Video Foundation Models for Generative Modeling via Representation Autoencoders",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "http://arxiv.org/abs/2607.14076v1": {
+      "title": "From Pixels to States: Rethinking Interactive World Models as Game Engines",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "http://arxiv.org/abs/2512.10948v2": {
+      "title": "ClusIR: Towards Cluster-Guided All-in-One Image Restoration",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "http://arxiv.org/abs/2606.13061v2": {
+      "title": "LaME: Learning to Think in Latent Space for Multimodal Embedding via Information Bottleneck",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
+    },
+    "http://arxiv.org/abs/2607.12993v2": {
+      "title": "X-Lens: Real-Time Metric Depth Estimation with Heterogeneous Cameras",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-17",
+      "lastSeen": "2026-07-17"
     }
   }
 }
