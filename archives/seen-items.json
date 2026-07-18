@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-17",
+  "updatedAt": "2026-07-18",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7715,6 +7715,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-17",
       "lastSeen": "2026-07-17"
+    },
+    "https://huggingface.co/papers/2607.14935": {
+      "title": "VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "https://huggingface.co/papers/2607.14777": {
+      "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "https://huggingface.co/papers/2607.15257": {
+      "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "https://huggingface.co/papers/2607.14952": {
+      "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "https://huggingface.co/papers/2607.15207": {
+      "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "http://arxiv.org/abs/2607.15278v1": {
+      "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "http://arxiv.org/abs/2607.15273v1": {
+      "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "http://arxiv.org/abs/2607.15271v1": {
+      "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "http://arxiv.org/abs/2607.15268v1": {
+      "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
+    },
+    "http://arxiv.org/abs/2607.15265v1": {
+      "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-18",
+      "lastSeen": "2026-07-18"
     }
   }
 }
