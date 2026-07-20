@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-19",
+  "updatedAt": "2026-07-20",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -6881,14 +6881,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://research.google/blog/introducing-tabfm-a-zero-shot-foundation-model-for-tabular-data": {
       "title": "June 30, 2026 Introducing TabFM: A zero-shot foundation model for tabular data Data Management &#183; Machine Intelligence &#183; Product",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-01",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://www.microsoft.com/en-us/research/blog/skillopt-agent-skills-as-trainable-parameters": {
       "title": "SkillOpt: Agent skills as trainable parameters",
@@ -7182,7 +7182,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.06559": {
       "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
@@ -7336,14 +7336,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.03118": {
       "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
@@ -7497,7 +7497,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.05394": {
       "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
@@ -7644,7 +7644,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.13285": {
       "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
@@ -7721,70 +7721,70 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.14777": {
       "title": "SEED: Self-Evolving On-Policy Distillation for Agentic Reinforcement Learning",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.15257": {
       "title": "SearchOS-V1: Towards Robust Open-Domain Information-Seeking Agent Collaboration",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.14952": {
       "title": "LongStraw: Long-Context RL Beyond 2M Tokens under a Fixed GPU Budget",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "https://huggingface.co/papers/2607.15207": {
       "title": "BadWAM: When World-Action Models Dream Right but Act Wrong",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "http://arxiv.org/abs/2607.15278v1": {
       "title": "Hierarchical Denoising For Multi-Step Visual Reasoning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "http://arxiv.org/abs/2607.15273v1": {
       "title": "MeanFlowNFT: Bringing Forward-Process RL to Average-Velocity Generators",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "http://arxiv.org/abs/2607.15271v1": {
       "title": "Online Neural Space Time Memory for Dynamic Novel View Synthesis",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "http://arxiv.org/abs/2607.15268v1": {
       "title": "Motion-Conditioned Multi-View Fusion for Myocardial Infarction Localization from Echocardiography",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     },
     "http://arxiv.org/abs/2607.15265v1": {
       "title": "SceneBind: Binding What and Where Across Vision, Audio and Language",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
-      "lastSeen": "2026-07-19"
+      "lastSeen": "2026-07-20"
     }
   }
 }
