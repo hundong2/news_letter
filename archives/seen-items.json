@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-20",
+  "updatedAt": "2026-07-21",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7785,6 +7785,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-18",
       "lastSeen": "2026-07-20"
+    },
+    "https://huggingface.co/papers/2606.29538": {
+      "title": "RESOURCE2SKILL: Distilling Executable Agent Skills from Human-Created Multimodal Resources",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "https://huggingface.co/papers/2607.11683": {
+      "title": "RAGU: A Multi-Step GraphRAG Engine with a Compact Domain-Adapted LLM",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "https://huggingface.co/papers/2607.16051": {
+      "title": "Loop the Loopies!",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "https://huggingface.co/papers/2607.15330": {
+      "title": "Xiaomi-Robotics-1: Scaling Vision-Language-Action Models with over 100K Hours of Real-World Trajectories",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "https://huggingface.co/papers/2607.14530": {
+      "title": "xHC: Expanded Hyper-Connections",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "http://arxiv.org/abs/2607.16193v1": {
+      "title": "Knowing the Self, Understanding the World: A Dual-Cognition Benchmark for UAV Spatio-temporal Reasoning with MLLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "http://arxiv.org/abs/2607.16192v1": {
+      "title": "MotionForesight: Re-purposing Video Models for Future 3D Scene-Flow Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "http://arxiv.org/abs/2607.16190v1": {
+      "title": "FVAttn: Adaptive Sparse Attention with Runtime Load Balancing for Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "http://arxiv.org/abs/2607.16189v1": {
+      "title": "Searching Videos as Trees: Self-Correcting Agents for Grounded Long Video QA",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
+    },
+    "http://arxiv.org/abs/2607.16181v1": {
+      "title": "Vision-Language Assistant for Emotional Reactions to Risky Driving",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-21",
+      "lastSeen": "2026-07-21"
     }
   }
 }
