@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-22",
+  "updatedAt": "2026-07-23",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7925,6 +7925,55 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-22",
       "lastSeen": "2026-07-22"
+    },
+    "https://huggingface.co/papers/2607.19191": {
+      "title": "ABot-World-0: Infinite Interactive World Rollout on a Single Desktop GPU",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://huggingface.co/papers/2607.16617": {
+      "title": "DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://huggingface.co/papers/2607.19139": {
+      "title": "Text Template Tokens Are Implicit Semantic Registers in Diffusion Transformers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://huggingface.co/papers/2607.18703": {
+      "title": "Generative World Renderer at the Speed of Play",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://huggingface.co/papers/2607.19064": {
+      "title": "Mage-Flow: An Efficient Native-Resolution Foundation Model for Image Generation and Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://research.google/blog/symptomai-towards-a-conversational-ai-agent-for-everyday-symptom-assessment": {
+      "title": "July 22, 2026 SymptomAI: Towards a conversational AI agent for everyday symptom assessment General Science &#183; Health & Bioscience &#183; Natural Language Processing &#183; Responsible AI",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
+    },
+    "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
+      "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence &#183; Quantum",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-07-23",
+      "lastSeen": "2026-07-23"
     }
   }
 }
