@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-07-24 AI 리서치 브리핑</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --accent-2: #ff7a59;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+      position: relative;
+    }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 3vw, 3.4rem);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 640px;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+    }
+
+    .nav-back {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-block {
+      margin-bottom: 42px;
+    }
+
+    .section-header {
+      margin-bottom: 18px;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 6px;
+      font-size: 1.6rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .card-grid.scrollable {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.04);
+      border-radius: 999px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-thumb {
+      background: rgba(0, 128, 143, 0.35);
+      border-radius: 999px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 18px;
+      padding: 20px 20px 18px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .pill {
+      background: rgba(0, 128, 143, 0.12);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .card-summary {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .card-translation {
+      margin: 0;
+      background: rgba(255, 122, 89, 0.12);
+      color: #7a2c17;
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 0.92rem;
+    }
+
+    .card-translation span {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+
+    .card-link {
+      margin-top: auto;
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .sources h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 12px;
+    }
+
+    .sources ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .sources a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 36px 16px 56px;
+      }
+
+      .hero-meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <a class="nav-back" href="../index.html">← 전체 목록</a>
+      <h1>2026-07-24 AI 리서치 브리핑</h1>
+      <p>최신 VLM, sLLM, on-device AI 논문과 연구 블로그를 한눈에 정리합니다. 중복 기사 방지를 위해 URL 기준으로 추적합니다.</p>
+      <div class="hero-meta">
+        <span>총 10건 요약</span>
+        <span>자동 생성</span>
+      </div>
+    </header>
+
+    
+    <section class="section-block">
+      <div class="section-header">
+        <h2>VLM 업데이트</h2>
+        <p>멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2607.20385v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Persian Pixel: A large-scale synthetic OCR dataset for Persian language</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Optical Character Recognition (OCR) for Persian remains substantially less mature than for Latin-script languages despite Persian being spoken by more than 110 million people across multiple countries. This gap arises from two fundamental challenges: the intrinsic complexity of the Perso-Arabic writing system and the limited availability of large-scale, high-quality annotated datasets. Persian script exhibits obligatory cursive connectivity, context-dependent glyph shaping, extensive ligatures, diacritic placement, and stylistic variation across writing forms such as Naskh and Nastaliq, all of which significantly complicate text recognition. At the same time, the high cost and labor-intensive nature of manual annotation have created a persistent data bottleneck, limiting the development of robust OCR systems and slowing progress in Persian document digitization.In this paper, we introduce Persian Pixel, a comprehensive synthetic OCR dataset specifically designed to address these challenges. Comprising over 343,000 high-fidelity image text pairs, the dataset spans sentence, paragraph, and full-page document layouts generated from a carefully curated seven-million-word Persian corpus using the SynthOCR-Gen rendering framework. The generation pipeline faithfully models the typographic characteristics of Persian script, including contextual character joining, positional glyph variants, diacritic placement, and multiple representative Persian typefaces. To bridge the synthetic-to-real domain gap, the rendered images are further enriched with more than twenty-five stochastic degradation models that emulate realistic document acquisition artifacts, including ink bleed, paper aging, blur, illumination variation, scanner imperfections, compression artifacts, and multiple noise processes.By overcoming the long-standing scarcity of annotated Persian OCR data, Persian Pixel provides a scalable and openly available resource for training and fine-tuning modern OCR architectures, including transformer-based models such as TrOCR and Donut. The dataset establishes a strong foundation for research in Persian document analysis, historical manuscript digitization, and end-to-end document understanding, while demonstrating that programmatic synthetic data generation offers a practical, cost-effective, and scalable alternative to manual annotation for advancing OCR in low-resource and typographically complex scripts.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2607.20385v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2607.02402v3" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Show Me Examples: Inferring Visual Concepts from Image Sets</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Vision-language models (VLMs) can follow complex textual instructions, yet they struggle to reason from purely visual context. In particular, current models fail to infer shared concepts from sets of example images and apply them to new inputs. We introduce Visual Concept Inference from Sets (VICIS), a task that evaluates this capability. Given a small context set of images sharing a concept and a query image, the model must generate new images that preserve the context-defined concept while remaining consistent with the query. We show that state-of-the-art VLMs perform poorly on this task, often ignoring the visual context or defaulting to biased generations. To address this gap, we propose a training framework and architecture that learn to infer visual concepts from image sets and extract concept-specific embeddings from queries. Experiments on synthetic data and large-scale ImageNet/WordNet data show that our model generates more accurate and diverse outputs and generalizes to unseen concepts and modalities such as sketches.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2607.02402v3" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>On-Device AI</h2>
+        <p>디바이스 내 추론 및 엣지 최적화 동향</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.19604" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.19604" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2607.20417v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">3D Gaussian Splatting (3DGS) achieves high-quality novel-view synthesis by optimizing freely placed primitives in 3D and adaptively densifying them in under-reconstructed regions. However, this scene-adaptive capacity allocation is largely lost in existing feed-forward 3DGS methods, which commonly regress Gaussians at input pixels and lift them along camera rays. Such pixel-aligned formulations make the number and placement of primitives depend on image resolution and input viewpoints rather than scene complexity, resulting in dense and often redundant Gaussian sets. We present ATSplat, a feed-forward 3DGS framework that restores the adaptive allocation capability of 3DGS optimization through Adaptive 3D Tokens. ATSplat first lifts coarse patch-level depth and camera cues into sparse 3D anchor tokens, forming a compact scaffold of the scene. Each token is then regressed into local Gaussians with learnable 3D offsets, decoupling primitive placement from input image grids. An Adaptive Token Expansion module predicts a token-level uncertainty score, supervised by rendering error maps, and selectively expands high-uncertainty tokens through learnable expansion layers. This sparse-to-adaptive formulation enables ATSplat to concentrate primitives in challenging regions while maintaining a compact representation. Experiments on two representative datasets, RealEstate10K and DL3DV, show that ATSplat achieves state-of-the-art rendering quality while reducing the number of Gaussians by more than $5.7\times$ compared with dense feed-forward 3DGS methods. From 12 input images at $512 \times 960$ resolution, ATSplat completes reconstruction in less than a second using a single commercial GPU, and renders high-quality novel views at 1136 FPS ($512 \times 960$) with only 311K Gaussians.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2607.20417v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2607.20389v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>PercepCap: Video Captioner with Structured Spatio-Temporal Perception</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Video captioning requires fine-grained spatio-temporal understanding of videos, including spatial perception of where objects are located and temporal perception of when events occur. Existing MLLMs usually generate captions directly from video inputs without exposing the perceptual evidence behind descriptions. As a result, mistakes in spatiotemporal perception are only observed in the final caption, making it difficult to identify the underlying perceptual errors directly. To address these issues, we present PercepCap, a perception-aware video captioning framework that makes perceptual evidence explicit before producing the final caption. Specifically, PercepCap follows a perceive-describe generation chain, where the model first produces a spatiotemporal perception trace comprising object trajectories and temporal events, and then generates the final caption conditioned on the perceived evidence. To support this, we design a two-stage training strategy. Perceive-then-Describe Supervised Fine-tuning adapts the model from caption-only generation to the proposed perceive-describe chain, while Perception-Grounded Reinforcement Learning optimizes perception trace and caption quality with joint rewards over perception chain and the final caption. To support our two-stage training, we introduce Caption-Anchored Perception Data Construction. This pipeline builds the SFT and RL training data by first generating a caption-only description, extracting the objects and events it mentions, and grounding them back in the video with boxes and timestamps. This yields caption-aligned perception data that provides solid training ground truth, ensuring that the explicit perception trace and final caption refer to the same objects and events. Across direct caption and caption-to-QA evaluation, PercepCap consistently improves upon the Qwen3-VL baseline and demonstrates leading caption quality.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2607.20389v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2607.20368v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Self Gradient Forcing: Native Long Video Extrapolation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Recent autoregressive video diffusion methods are increasingly built upon Self Forcing, where the student is trained on histories produced by its own rollout rather than ground-truth video contexts. This reduces exposure bias, but the historical key-value cache is still used by future frames only as frozen rollout state. As a result, future losses cannot supervise how earlier generated latents should be written into more useful keys and values for later video-latent generation. We call this the historical context-gradient gap. We propose Self Gradient Forcing (SGF), a two-pass training strategy that restores this missing supervision signal without backpropagating through the full serial rollout. Pass 1 performs a no-gradient autoregressive rollout matching inference and, at a sampled denoising exit step, records both the self-generated context and the noisy latents fed to the model. Pass 2 performs parallel context-gradient reconstruction for the recorded exit step. The generated context is used as stop-gradient clean-latent input, while the model recomputes the context KV representations and future-to-context causal attention. Thus, SGF provides the missing memory-writing supervision within the native autoregressive training objective, using losses on future video latents to train the model to encode context into more effective causal memory. Across extensive long-horizon frame-wise and chunk-wise experiments under different initializations, SGF achieves stronger native long-video extrapolation than Self Forcing, especially in subject identity, background/layout consistency, and temporal stability. Remarkably, using only a 5-second training window, SGF can extrapolate to videos lasting several minutes. Code and models will be released to advance research on autoregressive video generation.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2607.20368v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>AI 뉴스 &amp; 리서치</h2>
+        <p>기업/연구기관의 주요 발표와 블로그 업데이트</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.20145" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.20145" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.20368" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Self Gradient Forcing: Native Long Video Extrapolation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Self Gradient Forcing: Native Long Video Extrapolation에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.20368" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.19747" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.19747" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.16165" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>An Exam for Active Observers</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">An Exam for Active Observers에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.16165" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="sources">
+      <h2>참고한 소스</h2>
+      <ul>
+        <li><a href="https://huggingface.co/papers" target="_blank" rel="noopener noreferrer">Hugging Face Papers</a></li>
+<li><a href="https://export.arxiv.org/api/query?search_query=cat:cs.CV&amp;sortBy=lastUpdatedDate&amp;sortOrder=descending&amp;max_results=10" target="_blank" rel="noopener noreferrer">arXiv cs.CV (recent)</a></li>
+<li><a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a></li>
+<li><a href="https://research.google/blog/" target="_blank" rel="noopener noreferrer">Google Research Blog</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/" target="_blank" rel="noopener noreferrer">Microsoft Research Blog</a></li>
+<li><a href="https://www.qualcomm.com/research/artificial-intelligence" target="_blank" rel="noopener noreferrer">Qualcomm AI Research</a></li>
+<li><a href="https://ai.google.dev/edge" target="_blank" rel="noopener noreferrer">Google AI Edge</a></li>
+<li><a href="https://huggingface.co/spaces/opencompass/open_vlm_leaderboard" target="_blank" rel="noopener noreferrer">Open VLM Leaderboard</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>요약은 Gemini API를 사용하며, 실제 원문은 "원문 보기" 링크를 확인하세요.</div>
+      <div>중복 방지 기준: URL 기준 + 최근 180일 기록 유지</div>
+    </footer>
+  </div>
+</body>
+</html>

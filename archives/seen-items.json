@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-23",
+  "updatedAt": "2026-07-24",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -7974,6 +7974,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
       "lastSeen": "2026-07-23"
+    },
+    "https://huggingface.co/papers/2607.20145": {
+      "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "https://huggingface.co/papers/2607.20368": {
+      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "https://huggingface.co/papers/2607.19747": {
+      "title": "Beyond Relevance-Centric Retrieval: Rubric-Oriented Document Set Selection and Ranking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "https://huggingface.co/papers/2607.16165": {
+      "title": "An Exam for Active Observers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "https://huggingface.co/papers/2607.19604": {
+      "title": "Scaling Laws for Hypernetwork-Based Knowledge Injection in Large Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "http://arxiv.org/abs/2607.20417v1": {
+      "title": "ATSplat: Compact Feed-forward 3D Gaussian Splatting with Adaptive Token Expansion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "http://arxiv.org/abs/2607.20389v1": {
+      "title": "PercepCap: Video Captioner with Structured Spatio-Temporal Perception",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "http://arxiv.org/abs/2607.20385v1": {
+      "title": "Persian Pixel: A large-scale synthetic OCR dataset for Persian language",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "http://arxiv.org/abs/2607.02402v3": {
+      "title": "Show Me Examples: Inferring Visual Concepts from Image Sets",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
+    },
+    "http://arxiv.org/abs/2607.20368v1": {
+      "title": "Self Gradient Forcing: Native Long Video Extrapolation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-24",
+      "lastSeen": "2026-07-24"
     }
   }
 }
