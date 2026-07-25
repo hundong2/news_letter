@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-24",
+  "updatedAt": "2026-07-25",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -8044,6 +8044,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-24",
       "lastSeen": "2026-07-24"
+    },
+    "https://huggingface.co/papers/2607.21461": {
+      "title": "AREX: Towards a Recursively Self-Improving Agent for Deep Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "https://huggingface.co/papers/2607.20061": {
+      "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "https://huggingface.co/papers/2607.21556": {
+      "title": "Visual Contrastive Self-Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "https://huggingface.co/papers/2605.09635": {
+      "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "https://huggingface.co/papers/2607.21072": {
+      "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "http://arxiv.org/abs/2607.21595v1": {
+      "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "http://arxiv.org/abs/2607.21594v1": {
+      "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "http://arxiv.org/abs/2607.21592v1": {
+      "title": "Unified Video Dense Prediction from Disjoint Data",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "http://arxiv.org/abs/2607.21591v1": {
+      "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
+    },
+    "http://arxiv.org/abs/2607.21582v1": {
+      "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-25",
+      "lastSeen": "2026-07-25"
     }
   }
 }
