@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-25",
+  "updatedAt": "2026-07-26",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -112,7 +112,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -7182,7 +7182,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-08",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.06559": {
       "title": "RynnWorld-4D: 4D Embodied World Models for Robotic Manipulation",
@@ -7336,14 +7336,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.03118": {
       "title": "Vidu S1: A Real-Time Interactive Video Generation Model",
@@ -7497,7 +7497,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-14",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.05394": {
       "title": "Weak-to-Strong Generalization via Direct On-Policy Distillation",
@@ -7644,7 +7644,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-07-20"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.13285": {
       "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
@@ -7966,14 +7966,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23"
+      "lastSeen": "2026-07-26"
     },
     "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
       "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence &#183; Quantum",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-07-23"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.20145": {
       "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
@@ -8050,70 +8050,70 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.20061": {
       "title": "ReferTrack: Referring Then Tracking for Embodied Visual Tracking",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.21556": {
       "title": "Visual Contrastive Self-Distillation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2605.09635": {
       "title": "K12-KGraph: A Curriculum-Aligned Knowledge Graph for Benchmarking and Training Educational LLMs",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "https://huggingface.co/papers/2607.21072": {
       "title": "Show, Don't Tell: Evaluating Spatial Cognition in Generative Pixels Rather Than LLM Text",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "http://arxiv.org/abs/2607.21595v1": {
       "title": "3D-Aware VLMs with Implicit and Explicit Geometries",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "http://arxiv.org/abs/2607.21594v1": {
       "title": "Streaming Multi-Agent Autoregressive Diffusion Model with World State Registers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "http://arxiv.org/abs/2607.21592v1": {
       "title": "Unified Video Dense Prediction from Disjoint Data",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "http://arxiv.org/abs/2607.21591v1": {
       "title": "Inference-Time Scaling of Diffusion Models via Progressive Seed Pruning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     },
     "http://arxiv.org/abs/2607.21582v1": {
       "title": "Scale Up Strategically: Learning Compositional Generalization via Bias-Aware Evaluation and Data Collection for Robotic Manipulation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
-      "lastSeen": "2026-07-25"
+      "lastSeen": "2026-07-26"
     }
   }
 }
