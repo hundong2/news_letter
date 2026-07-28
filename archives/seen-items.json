@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-27",
+  "updatedAt": "2026-07-28",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -8114,6 +8114,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-25",
       "lastSeen": "2026-07-27"
+    },
+    "https://huggingface.co/papers/2607.20465": {
+      "title": "DataPrep-Bench: Benchmarking LLMs as Training Data Preparators",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "https://huggingface.co/papers/2607.22529": {
+      "title": "Skill Self-Play: Pushing the Frontier of LLM Capability with Co-Evolving Skills",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "https://huggingface.co/papers/2607.21653": {
+      "title": "Molt: A Scalable PyTorch-Native Training Framework for Agentic Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "https://huggingface.co/papers/2607.21503": {
+      "title": "Agentic Context Management: Solving Agent Memory and Cost by Treating Them as Lifecycle and Architecture Problems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "https://huggingface.co/papers/2607.18314": {
+      "title": "Interactive Training 2: Auditable Control Plane for Live Model Training",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "http://arxiv.org/abs/2607.22535v1": {
+      "title": "Robot-Factored World Models via Robot Rendering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "http://arxiv.org/abs/2607.22534v1": {
+      "title": "SM4RT: Learning Structured Motion Geometry for 4D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "http://arxiv.org/abs/2607.22531v1": {
+      "title": "Twins: Learn to Predict Unified Representations with Focal Loss",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "http://arxiv.org/abs/2508.13899v2": {
+      "title": "CARE: Anti-entanglement Ultrasound Image Segmentation via Channel-Aware Region Extrication",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
+    },
+    "http://arxiv.org/abs/2607.22494v1": {
+      "title": "CARA: Concept-Aware Risk Attention for Interpretable Collision Anticipation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-28",
+      "lastSeen": "2026-07-28"
     }
   }
 }
