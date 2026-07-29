@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-28",
+  "updatedAt": "2026-07-29",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -8184,6 +8184,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-28",
       "lastSeen": "2026-07-28"
+    },
+    "https://huggingface.co/papers/2607.24653": {
+      "title": "Kimi K3: Open Frontier Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "https://huggingface.co/papers/2607.23588": {
+      "title": "JarvisHub: An Open Harness for Canvas-Native Multimodal Creative Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "https://huggingface.co/papers/2607.21655": {
+      "title": "Progress Reward Modeling for Robotic Learning: A Comprehensive Survey",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "https://huggingface.co/papers/2607.24280": {
+      "title": "From Proprietary to Open-Source: Bridging the Distribution Gap via Multi-Agent Protocol Distillation in Agentic Search",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "https://huggingface.co/papers/2607.24731": {
+      "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "http://arxiv.org/abs/2607.24744v1": {
+      "title": "Data Pyramid for Embodied Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "http://arxiv.org/abs/2607.24743v1": {
+      "title": "ClinFusion: A Vision-Centric Multimodal LLM System for Holistic Medical Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "http://arxiv.org/abs/2607.24731v1": {
+      "title": "Rethinking Classifier-Free Guidance in On-Policy Diffusion Distillation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "http://arxiv.org/abs/2607.24730v1": {
+      "title": "KANEx: Translating Kolmogorov-Arnold Networks' Interpretability to Medical Explainability",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
+    },
+    "http://arxiv.org/abs/2607.24729v1": {
+      "title": "MicroZoom: Structure-Preserving Detail Synthesis at Extreme Scale",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-29",
+      "lastSeen": "2026-07-29"
     }
   }
 }
