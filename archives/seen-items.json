@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-07-30",
+  "updatedAt": "2026-07-31",
   "items": {
     "https://huggingface.co/papers/2601.21558": {
       "title": "ASTRA: Automated Synthesis of agentic Trajectories and Reinforcement Arenas",
@@ -8324,6 +8324,97 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-07-30",
       "lastSeen": "2026-07-30"
+    },
+    "https://huggingface.co/papers/2607.27205": {
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://huggingface.co/papers/2607.25659": {
+      "title": "CoRT: Counterfactual Replay for Token-Level Rubric-Guided Policy Optimization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://huggingface.co/papers/2607.27180": {
+      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://huggingface.co/papers/2607.25675": {
+      "title": "DecoEvo: Score-Decoupled Co-Evolution of Solver and Rubric-Generator Skills in Text Space",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://huggingface.co/papers/2607.25294": {
+      "title": "CLBench-V: Evaluating Multimodal Context Learning from Grounding to Knowledge Acquisition",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "http://arxiv.org/abs/2607.27205v1": {
+      "title": "TurboVLA: Real-Time Vision-Language-Action Model at 32 Hz on an RTX 4090 with <1 GB VRAM",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "http://arxiv.org/abs/2607.27194v1": {
+      "title": "VidMap: Exploiting Temporal Structure for Video-Based Structure-from-Motion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "http://arxiv.org/abs/2607.27180v1": {
+      "title": "HumanCLAW: Can Vision-Language Models Act Through a Body?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "http://arxiv.org/abs/2603.21809v2": {
+      "title": "Clinical Graph-Mediated Distillation for Unpaired MRI-to-CFI Hypertension Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "http://arxiv.org/abs/2607.27154v1": {
+      "title": "Anatomy Contextualized Adaption of CT Foundation Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://research.google/blog/science-one-framework-a-verifiable-autonomous-research-framework-via-chain-of-evidence": {
+      "title": "July 30, 2026 Science One Framework: A verifiable autonomous research framework via Chain-of-Evidence General Science &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents": {
+      "title": "Echoverse: Deep, evolving environments for computer-use agents",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
+    },
+    "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge": {
+      "title": "EvoLib: Turning experience into evolving knowledge",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-07-31",
+      "lastSeen": "2026-07-31"
     }
   }
 }
