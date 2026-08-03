@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-02",
+  "updatedAt": "2026-08-03",
   "items": {
     "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
       "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
@@ -14,7 +14,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
       "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
@@ -120,27 +120,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-03",
       "lastSeen": "2026-02-04"
-    },
-    "https://research.google/blog/unlocking-health-insights-estimating-advanced-walking-metrics-with-smartwatches": {
-      "title": "January 15, 2026 Unlocking health insights: Estimating advanced walking metrics with smartwatches Health & Bioscience &#183; Human-Computer Interaction and Visualization",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-02-03",
-      "lastSeen": "2026-02-03"
-    },
-    "https://www.microsoft.com/en-us/research/blog/optimind-a-small-language-model-with-optimization-expertise": {
-      "title": "OptiMind: A small language model with optimization expertise",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-02-03",
-      "lastSeen": "2026-02-03"
-    },
-    "https://www.microsoft.com/en-us/research/blog/agent-lightning-adding-reinforcement-learning-to-ai-agents-without-code-rewrites": {
-      "title": "Agent Lightning: Adding reinforcement learning to AI agents without code rewrites",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-02-03",
-      "lastSeen": "2026-02-03"
     },
     "https://ai.google.dev/edge": {
       "title": "Google AI Edge | Google AI for Developers",
@@ -7238,7 +7217,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
@@ -7546,7 +7525,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.13285": {
       "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
@@ -7868,14 +7847,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
       "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence &#183; Quantum",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.20145": {
       "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
@@ -8302,91 +8281,91 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents": {
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge": {
       "title": "EvoLib: Turning experience into evolving knowledge",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.28618": {
       "title": "AskChem: Claim-Centered Infrastructure for Chemistry Literature Synthesis",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.28227": {
       "title": "Qwen-UI-Agent Technical Report: Toward Next-Generation Real-World Centric Foundation GUI Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.26760": {
       "title": "Metis: Memory Foundation Model",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.28624": {
       "title": "PhiZero: A World Model Built Around Physical Language",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "https://huggingface.co/papers/2607.28568": {
       "title": "Frontis-MA1: Training an AI4AI Model towards Recursive Self-Improvement in Machine Learning Engineering",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "http://arxiv.org/abs/2607.28627v1": {
       "title": "ReToken: One Token to Improve Vision-Language Models for Visual Retrieval",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "http://arxiv.org/abs/2607.28625v1": {
       "title": "ACE-Data-0: Human-Centric Ambient Capture as Embodied Data Engine",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "http://arxiv.org/abs/2607.28624v1": {
       "title": "PhiZero: A World Model Built Around Physical Language",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "http://arxiv.org/abs/2607.28611v1": {
       "title": "Chimera: Designing and Chinchilla-Scaling Hybrid Visual Diffusion Transformers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     },
     "http://arxiv.org/abs/2607.28609v1": {
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-01",
-      "lastSeen": "2026-08-02"
+      "lastSeen": "2026-08-03"
     }
   }
 }
