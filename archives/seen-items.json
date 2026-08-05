@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-04",
+  "updatedAt": "2026-08-05",
   "items": {
     "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
       "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
@@ -57,76 +57,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-04",
       "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.01785": {
-      "title": "CodeOCR: On the Effectiveness of Vision Language Models in Code Understanding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "https://huggingface.co/papers/2602.03786": {
-      "title": "AOrchestra: Automating Sub-Agent Creation for Agentic Orchestration",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "https://huggingface.co/papers/2602.02103": {
-      "title": "No Global Plan in Chain-of-Thought: Uncover the Latent Planning Horizon of LLMs",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "https://huggingface.co/papers/2602.02660": {
-      "title": "MARS: Modular Agent with Reflective Search for Automated AI Research",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "https://huggingface.co/papers/2602.03796": {
-      "title": "3D-Aware Implicit Motion Control for View-Adaptive Human Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "http://arxiv.org/abs/2602.03847v1": {
-      "title": "EventNeuS: 3D Mesh Reconstruction from a Single Event Camera",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "http://arxiv.org/abs/2602.03838v1": {
-      "title": "PrevizWhiz: Combining Rough 3D Scenes and 2D Video to Guide Generative Video Previsualization",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "http://arxiv.org/abs/2507.21802v4": {
-      "title": "MixGRPO: Unlocking Flow-based GRPO Efficiency with Mixed ODE-SDE",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "http://arxiv.org/abs/2602.03828v1": {
-      "title": "AutoFigure: Generating and Refining Publication-Ready Scientific Illustrations",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
-    },
-    "http://arxiv.org/abs/2602.03826v1": {
-      "title": "Continuous Control of Editing Models via Adaptive-Origin Guidance",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-05",
-      "lastSeen": "2026-02-05"
     },
     "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy": {
       "title": "February 4, 2026 ​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy Algorithms & Theory",
@@ -8359,6 +8289,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-04",
       "lastSeen": "2026-08-04"
+    },
+    "https://huggingface.co/papers/2608.02023": {
+      "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "https://huggingface.co/papers/2608.01964": {
+      "title": "LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "https://huggingface.co/papers/2608.01735": {
+      "title": "DAPD: Dual-Anchored Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "https://huggingface.co/papers/2608.01678": {
+      "title": "Progressive Agent Skill Generation via Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "https://huggingface.co/papers/2607.28590": {
+      "title": "VAD: Attributing Visual Evidence for Target Reconstruction in Multimodal On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "http://arxiv.org/abs/2608.02603v1": {
+      "title": "WorldExam: Benchmarking World Models from Apparent Appearance to Inherent Reactivity",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "http://arxiv.org/abs/2608.02598v1": {
+      "title": "VR3D: View-Robust 3D Representation Learning for Aerial-Ground Person Re-Identification",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "http://arxiv.org/abs/2608.02589v1": {
+      "title": "CAPEval: A Decoupled Caption Evaluation across Understanding and Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "http://arxiv.org/abs/2608.02583v1": {
+      "title": "UEmbed: Unified Sparse and Dense Multimodal Embeddings",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
+    },
+    "http://arxiv.org/abs/2608.02561v1": {
+      "title": "ReMiX-MAE: Learning Missing-Channel Cross-Modal Representations from RGB-Only Clinical Facial Videos for Sympathetic-Mediated Pain Assessment",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-05",
+      "lastSeen": "2026-08-05"
     }
   }
 }
