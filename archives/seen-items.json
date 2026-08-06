@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-05",
+  "updatedAt": "2026-08-06",
   "items": {
     "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
       "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-05",
       "lastSeen": "2026-02-16"
-    },
-    "https://huggingface.co/papers/2602.04705": {
-      "title": "ERNIE 5.0 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "https://huggingface.co/papers/2602.03152": {
-      "title": "FASA: Frequency-aware Sparse Attention",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "https://huggingface.co/papers/2602.04634": {
-      "title": "WideSeek-R1: Exploring Width Scaling for Broad Information Seeking via Multi-Agent Reinforcement Learning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "https://huggingface.co/papers/2602.04145": {
-      "title": "Training Data Efficiency in Multimodal Process Reward Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "https://huggingface.co/papers/2602.04804": {
-      "title": "OmniSIFT: Modality-Asymmetric Token Compression for Efficient Omni-modal Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "http://arxiv.org/abs/2602.04884v1": {
-      "title": "Reinforced Attention Learning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "http://arxiv.org/abs/2602.04877v1": {
-      "title": "CoWTracker: Tracking by Warping instead of Correlation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "http://arxiv.org/abs/2602.04876v1": {
-      "title": "PerpetualWonder: Long-Horizon Action-Conditioned 4D Scene Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "http://arxiv.org/abs/2602.04873v1": {
-      "title": "Laminating Representation Autoencoders for Efficient Diffusion",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
-    },
-    "http://arxiv.org/abs/2602.04864v1": {
-      "title": "When LLaVA Meets Objects: Token Composition for Vision-Language-Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-06",
-      "lastSeen": "2026-02-06"
     },
     "https://research.google/blog/how-ai-agents-can-redefine-universal-design-to-increase-accessibility": {
       "title": "February 5, 2026 How AI agents can redefine universal design to increase accessibility Education Innovation &#183; Machine Intelligence &#183; Natural Language Processing &#183; Responsible AI",
@@ -8359,6 +8289,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-05",
       "lastSeen": "2026-08-05"
+    },
+    "https://huggingface.co/papers/2607.28956": {
+      "title": "MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "https://huggingface.co/papers/2608.03974": {
+      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "https://huggingface.co/papers/2608.02602": {
+      "title": "AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "https://huggingface.co/papers/2608.02711": {
+      "title": "Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "https://huggingface.co/papers/2608.03979": {
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "http://arxiv.org/abs/2608.04010v1": {
+      "title": "ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "http://arxiv.org/abs/2608.03991v1": {
+      "title": "Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "http://arxiv.org/abs/2608.03979v1": {
+      "title": "Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "http://arxiv.org/abs/2608.03974v1": {
+      "title": "JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
+    },
+    "http://arxiv.org/abs/2608.03971v1": {
+      "title": "UniWorld-Design: From Pixel Generation to Layer-Native Design",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-06",
+      "lastSeen": "2026-08-06"
     }
   }
 }

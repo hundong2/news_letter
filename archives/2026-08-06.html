@@ -1,0 +1,445 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-08-06 AI 리서치 브리핑</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --accent-2: #ff7a59;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+      position: relative;
+    }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 3vw, 3.4rem);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 640px;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+    }
+
+    .nav-back {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-block {
+      margin-bottom: 42px;
+    }
+
+    .section-header {
+      margin-bottom: 18px;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 6px;
+      font-size: 1.6rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .card-grid.scrollable {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.04);
+      border-radius: 999px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-thumb {
+      background: rgba(0, 128, 143, 0.35);
+      border-radius: 999px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 18px;
+      padding: 20px 20px 18px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .pill {
+      background: rgba(0, 128, 143, 0.12);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .card-summary {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .card-translation {
+      margin: 0;
+      background: rgba(255, 122, 89, 0.12);
+      color: #7a2c17;
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 0.92rem;
+    }
+
+    .card-translation span {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+
+    .card-link {
+      margin-top: auto;
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .sources h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 12px;
+    }
+
+    .sources ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .sources a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 36px 16px 56px;
+      }
+
+      .hero-meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <a class="nav-back" href="../index.html">← 전체 목록</a>
+      <h1>2026-08-06 AI 리서치 브리핑</h1>
+      <p>최신 VLM, sLLM, on-device AI 논문과 연구 블로그를 한눈에 정리합니다. 중복 기사 방지를 위해 URL 기준으로 추적합니다.</p>
+      <div class="hero-meta">
+        <span>총 10건 요약</span>
+        <span>자동 생성</span>
+      </div>
+    </header>
+
+    
+    <section class="section-block">
+      <div class="section-header">
+        <h2>VLM 업데이트</h2>
+        <p>멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2608.02711" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Hunyuan3D-Buffalo 1.0: A Unified Multimodal Model for Scalable 3D Generation, Understanding, and Editing에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2608.02711" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2608.03979" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2608.03979" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2608.04010v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>ParVL: Parallel Scaling and Expandable Compute Allocation for Multimodal LLMs</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Existing scaling strategies for Multimodal Large Language Models (MLLMs) typically expand either model parameters or sequential inference computation, incurring substantial memory or latency overhead. More importantly, most existing methods fail to alter the rigid, fixed computation allocation between the Vision Transformer and the Large Language Model components, limiting task-specific optimization. To address this, we introduce the Parallel Vision-Language (ParVL) scaling framework for MLLMs, which scales parallel computation by reusing the existing ViT and LLM backbone parameters across multiple vision and language branches. This framework raises a central question: given a fixed backbone parameter budget, how should additional shared-backbone computation be allocated between the vision and language modalities? We instantiate each parallel computational stream with branch-specific prefix parameters over a shared backbone, and train the entire model end-to-end via full-parameter supervised fine-tuning on roughly 13B tokens. We systematically study the computation-allocation trade-off between the ViT encoder and LLM decoder. ParVL improves overall multimodal performance over same-recipe single-branch baselines, and the best evaluated vision--language allocation varies across tasks. Code is available at https://github.com/YangYangGirl/ParVL.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2608.04010v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2608.03979v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Video-DeepResearch: Towards the Next-Generation Multimodal Deepresearch Agent</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">We introduce Video-DeepResearch (Video-DR), extending multimodal agents from static images to continuous video streams, a setting that demands dense spatiotemporal grounding coupled with open-web exploration. Preliminary evaluations reveal two critical bottlenecks in current models: (1) modality bias, where agents bypass visual tools in favor of textual search, and (2) parametric knowledge leakage, where models rely on internal memory rather than genuine tool-augmented execution. To address these challenges, we propose Video-DR, featuring a decoupled perception-exploration pipeline with stage-wise tool unlocking that compels exhaustive cross-frame visual grounding prior to web retrieval. Our framework adopts a two-stage training recipe: supervised fine-tuning followed by Group Relative Policy Optimization (GRPO), enabling autonomous exploration that breaks the imitation-learning ceiling. Furthermore, we curate Video-DR-Bench, a human-AI collaborative benchmark comprising 200 complex, multi-hop VQA instances. Empirical results demonstrate that our Video-DeepResearch-35B-A3B establishes a new state-of-the-art of 64.0% average accuracy, surpassing proprietary Claude-4.5-Sonnet (59.0%) by 5.0 points and significantly outperforming GPT-5 (52.5%) and Gemini 2.5 Pro (57.5%). The 30B-A3B variant achieves 59.3%, competitive with Claude-4.5-Sonnet and demonstrating the effectiveness of our training paradigm even at compact scale. Code: https://github.com/Osilly/Vision-DeepResearch.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2608.03979v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2608.03971v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>UniWorld-Design: From Pixel Generation to Layer-Native Design</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">We introduce UniWorld-Design, a framework that redefines image generation from flat pixel synthesis to structured visual composition, with semantic RGBA layers as the atomic units of generation, understanding, and editing. Our key insight is that pixels define how an image is rendered, whereas layers define how an image is created, understood, and edited. Just as human designers create and manipulate visual content through layers rather than raw pixels, UniWorld-Design equips multimodal generative models with a layer-native design space. UniWorld-Design comprises two models. The Text-to-RGBA (T2RGBA) model generates standalone RGBA assets directly from text. The Image-to-Layer (I2L) model conditions on a finished image, a global instruction and per-layer prompts, and jointly produces ordered, complete semantic RGBA layers. Its instruction interface supports top-level decomposition, recursive decomposition and targeted extraction, making layering an instruction-addressable operation for agentic editing. Because I2L learns complete semantic objects rather than visible-pixel partitions, its layers stay usable when moved or removed. On the Crello benchmark, I2L reduces per-layer RGB L1 error by 37% and achieves a 34% relative improvement in Alpha Soft IoU over Qwen-Image-Layered. Separately, T2RGBA achieves the highest CLIP Score, outperforming LayerDiffuse and OmniAlpha.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2608.03971v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>sLLM 트렌드</h2>
+        <p>경량화·효율화를 위한 스몰 LLM 연구</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2608.03974v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Real-time video editing requires low-latency causal generation with bounded computational resources while preserving source fidelity and long-term temporal consistency. We present JoyAI-Video-Edit, a 16B-parameter autoregressive diffusion framework for real-time, open-ended video editing without access to future frames or a predefined video duration. Our method combines chunk-wise autoregressive adaptation, Source-Anchored Distribution Matching Distillation (SA-DMD), and Long-Horizon Autoregressive Distillation to reduce train--inference mismatch, preserve source fidelity during two-step generation, and mitigate accumulated temporal drift. Extensive automatic and human evaluations show that JoyAI-Video-Edit substantially outperforms existing streaming editors and remains competitive with strong offline systems on both short and long videos. The complete system achieves end-to-end 720p video editing at approximately 30 FPS on a single Nvidia B200 GPU. Code is available at https://github.com/jd-opensource/JoyAI-Video-Edit.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2608.03974v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>AI 뉴스 &amp; 리서치</h2>
+        <p>기업/연구기관의 주요 발표와 블로그 업데이트</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2607.28956" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">MerchantBench: Benchmarking LLM Agents for Long-Term Coherence in E-Commerce Operations에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2607.28956" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2608.03974" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">JoyAI-Video-Edit: Real-Time Open-Ended Video Editing with Autoregressive Diffusion에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2608.03974" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2608.02602" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">AURORA-LM: Autoencoding Unified Representation for Continuous-Latent Diffusion Language Modeling에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2608.02602" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2608.03991v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Perceptual Anchoring: Prototype-Guided Text Calibration for Training-free Open-Vocabulary Semantic Segmentation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Training-free open-vocabulary semantic segmentation (OVSS) partitions an image into semantically distinct regions based on arbitrary text descriptions, without learning any additional parameters. However, existing methods typically focus on improving visual representations while treating text embeddings that encode only generic category concepts as fixed classification references. The resulting semantic gap between these generic concepts and the visual representations that capture the specific appearances of target instances often causes incomplete masks and erroneous predictions in non-target regions. Inspired by the symbol-percept correspondence underlying perceptual anchoring, we propose Prototype-Guided Text Calibration (PTC) for training-free OVSS. In the Perceiving stage, PTC selects reliable visual evidence based on initial matching scores to construct category-specific visual prototypes. In the Anchoring stage, PTC uses these prototypes to calibrate their corresponding text embeddings, with the calibration strength adaptively adjusted based on the amount of visual evidence. Consequently, the calibrated text embeddings align more accurately with instance-specific visual representations while preserving generic category semantics and open-vocabulary generalization. Moreover, PTC requires neither additional training nor external models and can serve as a plug-and-play module for existing methods. Extensive experiments across eight benchmarks show that PTC significantly enhances the performance of six representative methods and yields more complete and accurate segmentation results. These results validate PTC as a simple and effective approach to improving visual-text alignment.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2608.03991v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="sources">
+      <h2>참고한 소스</h2>
+      <ul>
+        <li><a href="https://huggingface.co/papers" target="_blank" rel="noopener noreferrer">Hugging Face Papers</a></li>
+<li><a href="https://export.arxiv.org/api/query?search_query=cat:cs.CV&amp;sortBy=lastUpdatedDate&amp;sortOrder=descending&amp;max_results=10" target="_blank" rel="noopener noreferrer">arXiv cs.CV (recent)</a></li>
+<li><a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a></li>
+<li><a href="https://research.google/blog/" target="_blank" rel="noopener noreferrer">Google Research Blog</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/" target="_blank" rel="noopener noreferrer">Microsoft Research Blog</a></li>
+<li><a href="https://www.qualcomm.com/research/artificial-intelligence" target="_blank" rel="noopener noreferrer">Qualcomm AI Research</a></li>
+<li><a href="https://ai.google.dev/edge" target="_blank" rel="noopener noreferrer">Google AI Edge</a></li>
+<li><a href="https://huggingface.co/spaces/opencompass/open_vlm_leaderboard" target="_blank" rel="noopener noreferrer">Open VLM Leaderboard</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>요약은 Gemini API를 사용하며, 실제 원문은 "원문 보기" 링크를 확인하세요.</div>
+      <div>중복 방지 기준: URL 기준 + 최근 180일 기록 유지</div>
+    </footer>
+  </div>
+</body>
+</html>
