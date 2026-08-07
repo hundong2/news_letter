@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-06",
+  "updatedAt": "2026-08-07",
   "items": {
     "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
       "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
@@ -15,20 +15,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
       "lastSeen": "2026-08-03"
-    },
-    "https://www.microsoft.com/en-us/research/blog/unirg-scaling-medical-imaging-report-generation-with-multimodal-reinforcement-learning": {
-      "title": "UniRG: Scaling medical imaging report generation with multimodal reinforcement learning",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-02-02",
-      "lastSeen": "2026-02-07"
-    },
-    "https://www.microsoft.com/en-us/research/blog/multimodal-reinforcement-learning-with-agentic-verifier-for-ai-agents": {
-      "title": "Multimodal reinforcement learning with agentic verifier for AI agents",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-02-02",
-      "lastSeen": "2026-02-07"
     },
     "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models": {
       "title": "January 27, 2026 ATLAS: Practical scaling laws for multilingual models Generative AI &#183; Global &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -106,20 +92,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-07",
       "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.06028": {
-      "title": "Context Forcing: Consistent Autoregressive Video Generation with Long Context",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-07",
-      "lastSeen": "2026-02-07"
-    },
-    "https://huggingface.co/papers/2602.05986": {
-      "title": "RISE-Video: Can Video Generators Decode Implicit World Rules?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-07",
-      "lastSeen": "2026-02-07"
     },
     "https://huggingface.co/papers/2602.02474": {
       "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
@@ -8359,6 +8331,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-06",
       "lastSeen": "2026-08-06"
+    },
+    "https://huggingface.co/papers/2608.05102": {
+      "title": "ABSeeker: Training Long-Horizon Search Agents via Answer-Backtracked Credit Assignment",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "https://huggingface.co/papers/2608.04436": {
+      "title": "ToolArtist: Tool-Using Unified Multimodal Models for Agentic Image Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "https://huggingface.co/papers/2608.05000": {
+      "title": "Towards Physics of Multimodal Pretraining: Knowledge Flow, Modality Synergy, Early Unification, and Recipes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "https://huggingface.co/papers/2608.04570": {
+      "title": "The Personalization Mirage: How LLMs Fabricate User Profiles, and Why Self-Monitoring Misleads",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "https://huggingface.co/papers/2608.05013": {
+      "title": "OneDayAgent: Towards a Long-Horizon Harness for Autonomous Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "http://arxiv.org/abs/2608.06275v1": {
+      "title": "TLNM: Externally Validated Tooth Detection, Numbering and Segmentation from Smartphone Photographs Using Mask R-CNN",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "http://arxiv.org/abs/2608.06264v1": {
+      "title": "OTLesMix: Wasserstein Barycenter and Optimal Transport Map for Synthetic Lesion Generation with Diverse Shapes and Locations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "http://arxiv.org/abs/2608.06257v1": {
+      "title": "MASS: Multiplayer World Models with Authoritative Shared State",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "http://arxiv.org/abs/2608.06252v1": {
+      "title": "Toward Deployable Bangla Sign Language Recognition with Expert-Validated Data and a Lightweight Attention-Based Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
+    },
+    "http://arxiv.org/abs/2506.14243v4": {
+      "title": "Multi-Representation Geometric Hierarchy Fusion: An Implicit-Submap Driven Framework for Resilient 3D Place Recognition",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-07",
+      "lastSeen": "2026-08-07"
     }
   }
 }
