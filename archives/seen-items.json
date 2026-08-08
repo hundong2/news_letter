@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-07",
+  "updatedAt": "2026-08-08",
   "items": {
     "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
       "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
@@ -8401,6 +8401,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-07",
       "lastSeen": "2026-08-07"
+    },
+    "https://huggingface.co/papers/2608.05987": {
+      "title": "AgentOPSD: Recursive Self-Distillation for Agentic Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "https://huggingface.co/papers/2607.28609": {
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "https://huggingface.co/papers/2608.05248": {
+      "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "https://huggingface.co/papers/2608.01481": {
+      "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "https://huggingface.co/papers/2608.05747": {
+      "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "http://arxiv.org/abs/2607.28609v2": {
+      "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "http://arxiv.org/abs/2607.18540v2": {
+      "title": "Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "http://arxiv.org/abs/2606.14299v2": {
+      "title": "What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "http://arxiv.org/abs/2608.05122v2": {
+      "title": "IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
+    },
+    "http://arxiv.org/abs/2508.11183v2": {
+      "title": "Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-08",
+      "lastSeen": "2026-08-08"
     }
   }
 }
