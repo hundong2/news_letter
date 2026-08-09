@@ -1,27 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-08",
+  "updatedAt": "2026-08-09",
   "items": {
-    "https://research.google/blog/towards-a-science-of-scaling-agent-systems-when-and-why-agent-systems-work": {
-      "title": "January 28, 2026 Towards a science of scaling agent systems: When and why agent systems work Generative AI &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-02-02",
-      "lastSeen": "2026-02-09"
-    },
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-08-03"
-    },
-    "https://research.google/blog/atlas-practical-scaling-laws-for-multilingual-models": {
-      "title": "January 27, 2026 ATLAS: Practical scaling laws for multilingual models Generative AI &#183; Global &#183; Machine Intelligence &#183; Natural Language Processing",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-02-03",
-      "lastSeen": "2026-02-09"
+      "lastSeen": "2026-08-09"
     },
     "https://ai.google.dev/edge": {
       "title": "Google AI Edge | Google AI for Developers",
@@ -36,13 +22,6 @@
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
       "lastSeen": "2026-07-02"
-    },
-    "https://research.google/blog/collaborating-on-a-nationwide-randomized-study-of-ai-in-real-world-virtual-care": {
-      "title": "February 3, 2026 Collaborating on a nationwide randomized study of AI in real-world virtual care Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-02-04",
-      "lastSeen": "2026-02-09"
     },
     "https://research.google/blog/sequential-attention-making-ai-models-leaner-and-faster-without-sacrificing-accuracy": {
       "title": "February 4, 2026 ​Sequential Attention: Making AI models leaner and faster without sacrificing accuracy Algorithms & Theory",
@@ -71,76 +50,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-06",
       "lastSeen": "2026-02-16"
-    },
-    "https://huggingface.co/papers/2601.22027": {
-      "title": "CAR-bench: Evaluating the Consistency and Limit-Awareness of LLM Agents under Real-World Uncertainty",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-07",
-      "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.05386": {
-      "title": "Spider-Sense: Intrinsic Risk Sensing for Efficient Agent Defense with Hierarchical Adaptive Screening",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-07",
-      "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.05261": {
-      "title": "Length-Unbiased Sequence Policy Optimization: Revealing and Controlling Response Length Variation in RLVR",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-07",
-      "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.02474": {
-      "title": "MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "http://arxiv.org/abs/2602.06043v1": {
-      "title": "Shared LoRA Subspaces for almost Strict Continual Learning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "http://arxiv.org/abs/2602.06042v1": {
-      "title": "Pseudo-Invertible Neural Networks",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "http://arxiv.org/abs/2602.06041v1": {
-      "title": "Predicting Camera Pose from Perspective Descriptions for Spatial Reasoning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "http://arxiv.org/abs/2602.06040v1": {
-      "title": "SwimBird: Eliciting Switchable Reasoning Mode in Hybrid Autoregressive MLLMs",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "http://arxiv.org/abs/2602.06038v1": {
-      "title": "CommCP: Efficient Multi-Agent Coordination via LLM-Based Communication with Conformal Prediction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-08",
-      "lastSeen": "2026-02-09"
-    },
-    "https://huggingface.co/papers/2602.06036": {
-      "title": "DFlash: Block Diffusion for Flash Speculative Decoding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-09",
-      "lastSeen": "2026-02-09"
     },
     "https://huggingface.co/papers/2602.06717": {
       "title": "F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare",
@@ -6965,7 +6874,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
@@ -7273,7 +7182,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2607.13285": {
       "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
@@ -7595,14 +7504,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
       "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence &#183; Quantum",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2607.20145": {
       "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
@@ -8029,14 +7938,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents": {
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-03"
+      "lastSeen": "2026-08-09"
     },
     "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge": {
       "title": "EvoLib: Turning experience into evolving knowledge",
@@ -8190,7 +8099,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-04"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2608.02023": {
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
@@ -8407,70 +8316,70 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2607.28609": {
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2608.05248": {
       "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2608.01481": {
       "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "https://huggingface.co/papers/2608.05747": {
       "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "http://arxiv.org/abs/2607.28609v2": {
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "http://arxiv.org/abs/2607.18540v2": {
       "title": "Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "http://arxiv.org/abs/2606.14299v2": {
       "title": "What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "http://arxiv.org/abs/2608.05122v2": {
       "title": "IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     },
     "http://arxiv.org/abs/2508.11183v2": {
       "title": "Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-08"
+      "lastSeen": "2026-08-09"
     }
   }
 }
