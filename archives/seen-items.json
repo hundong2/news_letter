@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-09",
+  "updatedAt": "2026-08-10",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://ai.google.dev/edge": {
       "title": "Google AI Edge | Google AI for Developers",
@@ -50,41 +50,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-06",
       "lastSeen": "2026-02-16"
-    },
-    "https://huggingface.co/papers/2602.06717": {
-      "title": "F-GRPO: Don't Let Your Policy Learn the Obvious and Forget the Rare",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-10"
-    },
-    "https://huggingface.co/papers/2602.06570": {
-      "title": "Baichuan-M3: Modeling Clinical Inquiry for Reliable Medical Decision-Making",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-10"
-    },
-    "https://huggingface.co/papers/2602.05843": {
-      "title": "OdysseyArena: Benchmarking Large Language Models For Long-Horizon, Active and Inductive Interactions",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-10"
-    },
-    "https://huggingface.co/papers/2602.05027": {
-      "title": "AudioSAE: Towards Understanding of Audio-Processing Models with Sparse AutoEncoders",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-10"
-    },
-    "https://huggingface.co/papers/2602.03392": {
-      "title": "On the Entropy Dynamics in Reinforcement Fine-Tuning of Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-10",
-      "lastSeen": "2026-02-10"
     },
     "https://research.google/blog/how-ai-trained-on-birds-is-surfacing-underwater-mysteries": {
       "title": "February 9, 2026 How AI trained on birds is surfacing underwater mysteries Climate & Sustainability &#183; Open Source Models & Datasets &#183; Sound & Accoustics",
@@ -6874,7 +6839,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-10",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://www.microsoft.com/en-us/research/blog/aurora-1-5-extending-open-foundation-models-for-weather-and-earth-system-applications": {
       "title": "Aurora 1.5: Extending open foundation models for weather and Earth-system applications",
@@ -7182,7 +7147,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-16",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2607.13285": {
       "title": "Harness Handbook: Making Evolving Agent Harnesses Readable,Navigable, and Editable",
@@ -7504,14 +7469,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://research.google/blog/towards-a-quantum-computer-that-learns-from-its-errors": {
       "title": "July 22, 2026 Towards a quantum computer that learns from its errors Machine Intelligence &#183; Quantum",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-23",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2607.20145": {
       "title": "SLAI T-Rex: Full-Parameter Post-training of the DeepSeek-V4 Family on Ascend SuperPOD",
@@ -7938,14 +7903,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://www.microsoft.com/en-us/research/blog/echoverse-deep-evolving-environments-for-computer-use-agents": {
       "title": "Echoverse: Deep, evolving environments for computer-use agents",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-07-31",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://www.microsoft.com/en-us/research/blog/evolib-turning-experience-into-evolving-knowledge": {
       "title": "EvoLib: Turning experience into evolving knowledge",
@@ -8099,7 +8064,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2608.02023": {
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
@@ -8316,70 +8281,70 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2607.28609": {
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2608.05248": {
       "title": "WorldClaw: Agentic 3D Open-World Generation at Scale",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2608.01481": {
       "title": "Interpretable MEG Decoding of Perceived Speech: Cortical Sources and the Stimulus Features That Drive Retrieval",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "https://huggingface.co/papers/2608.05747": {
       "title": "GST-Bench: Can VLMs Develop Global Spatial Awareness from Video?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "http://arxiv.org/abs/2607.28609v2": {
       "title": "OSReward: Instituting Standardized Evaluation for Cross-Platform Computer-Use Reward Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "http://arxiv.org/abs/2607.18540v2": {
       "title": "Recti-Q: Feature-Space Rectification for Out-of-Distribution-Robust Quantized Perception in Edge Robotics",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "http://arxiv.org/abs/2606.14299v2": {
       "title": "What Drives Test-Time Adaptation for CLIP? A Controlled Empirical Study from an Update Perspective",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "http://arxiv.org/abs/2608.05122v2": {
       "title": "IRIS: A Visual Cortex-Inspired Framework for Analyzing Orientation Selectivity in Vision Transformers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     },
     "http://arxiv.org/abs/2508.11183v2": {
       "title": "Versatile Video Representation via Feed-Forward 2D Gaussian Splatting Tokenization",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-08",
-      "lastSeen": "2026-08-09"
+      "lastSeen": "2026-08-10"
     }
   }
 }
