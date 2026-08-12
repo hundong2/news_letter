@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-11",
+  "updatedAt": "2026-08-12",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-11",
       "lastSeen": "2026-03-02"
-    },
-    "https://huggingface.co/papers/2602.05400": {
-      "title": "OPUS: Towards Efficient and Principled Data Selection in Large Language Model Pre-training in Every Iteration",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "https://huggingface.co/papers/2602.09856": {
-      "title": "Code2World: A GUI World Model via Renderable Code Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "https://huggingface.co/papers/2602.09082": {
-      "title": "UI-Venus-1.5 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "https://huggingface.co/papers/2602.10063": {
-      "title": "Chain of Mindset: Reasoning with Adaptive Cognitive Modes",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "https://huggingface.co/papers/2602.08234": {
-      "title": "SkillRL: Evolving Agents via Recursive Skill-Augmented Reinforcement Learning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "http://arxiv.org/abs/2602.10116v1": {
-      "title": "SAGE: Scalable Agentic 3D Scene Generation for Embodied AI",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "http://arxiv.org/abs/2602.10115v1": {
-      "title": "Quantum Multiple Rotation Averaging",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "http://arxiv.org/abs/2602.10113v1": {
-      "title": "ConsID-Gen: View-Consistent and Identity-Preserving Image-to-Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "http://arxiv.org/abs/2602.10104v1": {
-      "title": "Olaf-World: Orienting Latent Actions for Video World Modeling",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
-    },
-    "http://arxiv.org/abs/2602.10102v1": {
-      "title": "VideoWorld 2: Learning Transferable Knowledge from Real-world Videos",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-12",
-      "lastSeen": "2026-02-12"
     },
     "https://research.google/blog/scheduling-in-a-changing-world-maximizing-throughput-with-time-varying-capacity": {
       "title": "February 11, 2026 Scheduling in a changing world: Maximizing throughput with time-varying capacity Algorithms & Theory",
@@ -8380,6 +8310,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-11",
       "lastSeen": "2026-08-11"
+    },
+    "https://huggingface.co/papers/2608.09888": {
+      "title": "BDH-CQ: In-Context Learning with Recurrent Latent Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://huggingface.co/papers/2608.09819": {
+      "title": "Macaron-V1: Towards Open Continual Learning with Self-Improvement and Mixture-of-LoRA",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://huggingface.co/papers/2608.09802": {
+      "title": "SWE-Bench ProMax: Benchmarking Agents on Large-Scale Multilingual Code Refactoring",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://huggingface.co/papers/2608.08311": {
+      "title": "Ouroboros: A Self-Developing Frontier Coding Agent with Reviewed Core Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://huggingface.co/papers/2608.06296": {
+      "title": "On-Policy Self-Distillation without Any Supervision",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "http://arxiv.org/abs/2608.09931v1": {
+      "title": "Perception Before Supervision: Self-Contained Visual Distillation from Counterfactual Blind Spots",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "http://arxiv.org/abs/2608.09928v1": {
+      "title": "Multimodal Model Diffing for Feature Discovery and Control",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "http://arxiv.org/abs/2608.09926v1": {
+      "title": "Learning How the World Evolves: Extrapolative Video World Models via Latent Dynamics Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "http://arxiv.org/abs/2608.09914v1": {
+      "title": "Overcoming Data Scarcity and Confidentiality in Hardware Assurance via Synthetic Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "http://arxiv.org/abs/2608.09908v1": {
+      "title": "Beyond Hazard Resemblance: Contrastive Event Adjudication for Training-Free Video Anomaly Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://research.google/blog/advancing-amie-towards-expert-level-audio-visual-clinical-consultations": {
+      "title": "August 11, 2026 Advancing AMIE towards expert-level audio-visual clinical consultations Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
+    },
+    "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement": {
+      "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-08-12",
+      "lastSeen": "2026-08-12"
     }
   }
 }
