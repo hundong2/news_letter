@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-12",
+  "updatedAt": "2026-08-13",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,76 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-12",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2602.10604": {
-      "title": "Step 3.5 Flash: Open Frontier-Level Intelligence with 11B Active Parameters",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "https://huggingface.co/papers/2602.11124": {
-      "title": "PhyCritic: Multimodal Critic Models for Physical AI",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "https://huggingface.co/papers/2602.11144": {
-      "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "https://huggingface.co/papers/2602.04935": {
-      "title": "ASA: Training-Free Representation Engineering for Tool-Calling Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "https://huggingface.co/papers/2602.10177": {
-      "title": "Towards Autonomous Mathematics Research",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "http://arxiv.org/abs/2602.11154v1": {
-      "title": "SurfPhase: 3D Interfacial Dynamics in Two-Phase Flows from Sparse Videos",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "http://arxiv.org/abs/2602.11146v1": {
-      "title": "Beyond VLM-Based Rewards: Diffusion-Native Latent Reward Modeling",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "http://arxiv.org/abs/2602.11144v1": {
-      "title": "GENIUS: Generative Fluid Intelligence Evaluation Suite",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "http://arxiv.org/abs/2512.04890v5": {
-      "title": "Equivariant symmetry-aware head pose estimation for fetal MRI",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
-    },
-    "http://arxiv.org/abs/2602.08025v2": {
-      "title": "MIND: Benchmarking Memory Consistency and Action Control in World Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-13",
-      "lastSeen": "2026-02-13"
     },
     "https://huggingface.co/papers/2602.09877": {
       "title": "The Devil Behind Moltbook: Anthropic Safety is Always Vanishing in Self-Evolving AI Societies",
@@ -8394,6 +8324,90 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-12",
       "lastSeen": "2026-08-12"
+    },
+    "https://huggingface.co/papers/2608.10915": {
+      "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://huggingface.co/papers/2608.10299": {
+      "title": "Co-Evolution in Agentic Systems: Toward Self-Directed Evolution Beyond Human Design",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://huggingface.co/papers/2608.10744": {
+      "title": "Beyond Pixels: From Video Priors to 4D Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://huggingface.co/papers/2607.27749": {
+      "title": "Articulated Object Reconstruction from Rest-State Observation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://huggingface.co/papers/2608.11205": {
+      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "http://arxiv.org/abs/2608.11205v1": {
+      "title": "AdvFD: Boosting Visual Generation via Adversarial Fr'echet Distance Loss",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "http://arxiv.org/abs/2608.11204v1": {
+      "title": "Surgical WAM: A World-Action Model for Data-Efficient Surgical Robot Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "http://arxiv.org/abs/2608.11203v1": {
+      "title": "Capturing Uncertainty in Human Motion for Representation Learning in Soccer",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "http://arxiv.org/abs/2608.11201v1": {
+      "title": "VidForensics-M1: Meta-Detection Reinforcement Learning with Verifiable Temporal Grounding for AI-Generated Video Forensics",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "http://arxiv.org/abs/2608.08557v2": {
+      "title": "OpenVisTool: An Open Recipe for Synthesizing Instructive Visual Tool-Use Trajectories",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://research.google/blog/empty-shelves-or-lost-keys-recall-is-the-bottleneck-for-parametric-factuality": {
+      "title": "August 12, 2026 Empty shelves or lost keys? Recall is the bottleneck for parametric factuality Generative AI &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
+    },
+    "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities": {
+      "title": "MindTopo reveals VLMs&#8217; spatial reasoning abilities",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-08-13",
+      "lastSeen": "2026-08-13"
     }
   }
 }
