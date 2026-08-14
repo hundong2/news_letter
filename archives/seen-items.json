@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-13",
+  "updatedAt": "2026-08-14",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8408,6 +8408,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
       "lastSeen": "2026-08-13"
+    },
+    "https://huggingface.co/papers/2608.00677": {
+      "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "https://huggingface.co/papers/2608.11924": {
+      "title": "Spark-to-Paper: End-to-End Research Paper Generation as a Composable Skill",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "https://huggingface.co/papers/2608.12307": {
+      "title": "AI4AI at Test-Time: Strong-to-Weak Capability Transfer via Harnesses",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "https://huggingface.co/papers/2608.12036": {
+      "title": "Mechanist: AI as a Scientific Instrument for Discovering the Mechanisms of Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "https://huggingface.co/papers/2608.05604": {
+      "title": "SkillZip: Contract-Preserving Graph Compression for Scalable Agent Skill Libraries",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "http://arxiv.org/abs/2505.05474v2": {
+      "title": "3D Scene Generation: A Survey",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "http://arxiv.org/abs/2608.12314v1": {
+      "title": "StateFlow: Building, Evolving, and Accessing 3D World States for Previsualization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "http://arxiv.org/abs/2608.12313v1": {
+      "title": "AVA-Encoder: Towards Agent-Native Video Representation Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "http://arxiv.org/abs/2608.12308v1": {
+      "title": "DreamFly: Causal Memory and Receding-Horizon Diffusion Planning for Aerial Vision-Language Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
+    },
+    "http://arxiv.org/abs/2608.12299v1": {
+      "title": "Class Activation Mapping in Explainable Computer Vision: A Method-Centered Review of CNN, Transformer, and Foundation-Model-Era Visual Explanations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-14",
+      "lastSeen": "2026-08-14"
     }
   }
 }
