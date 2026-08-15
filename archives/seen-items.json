@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-14",
+  "updatedAt": "2026-08-15",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -99,13 +99,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-14",
       "lastSeen": "2026-02-16"
-    },
-    "https://huggingface.co/papers/2602.10934": {
-      "title": "MOSS-Audio-Tokenizer: Scaling Audio Tokenizers for Future Audio Foundation Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-14",
-      "lastSeen": "2026-02-15"
     },
     "http://arxiv.org/abs/2602.12280v1": {
       "title": "Stroke of Surprise: Progressive Semantic Illusions in Vector Sketching",
@@ -8478,6 +8471,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-14",
       "lastSeen": "2026-08-14"
+    },
+    "https://huggingface.co/papers/2608.06867": {
+      "title": "LLMRouter: Unified Infrastructure for Developing, Evaluating, and Deploying LLM Routers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "https://huggingface.co/papers/2608.13546": {
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "https://huggingface.co/papers/2608.13489": {
+      "title": "DreamX-Phi 1.0: Action-Conditioned Video World Model for Robotic Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "https://huggingface.co/papers/2608.07545": {
+      "title": "DarwinX: Evolving Agent Harnesses Through Natural Selection",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "https://huggingface.co/papers/2608.13505": {
+      "title": "Intern-S2-Preview: Scientific Agentic Foundation Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "http://arxiv.org/abs/2608.13560v1": {
+      "title": "AutoDesign: Meta-Harness Optimization for Long-Horizon Agentic Design",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "http://arxiv.org/abs/2608.13556v1": {
+      "title": "V-RAE: Rethinking Video Latent Spaces for Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "http://arxiv.org/abs/2608.13555v1": {
+      "title": "HumanTracker: Towards Comprehensive and Human-Aligned Motion Tracking Benchmark",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "http://arxiv.org/abs/2608.13552v1": {
+      "title": "PlayWorld: Benchmarking World Models with Agent Players over Long-Horizon Objectives",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
+    },
+    "http://arxiv.org/abs/2608.13546v1": {
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-15",
+      "lastSeen": "2026-08-15"
     }
   }
 }
