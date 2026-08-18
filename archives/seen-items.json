@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-17",
+  "updatedAt": "2026-08-18",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -50,76 +50,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-12",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2602.10809": {
-      "title": "DeepImageSearch: Benchmarking Multimodal Agents for Context-Aware Image Retrieval in Visual Histories",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "https://huggingface.co/papers/2602.13949": {
-      "title": "Experiential Reinforcement Learning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "https://huggingface.co/papers/2602.14234": {
-      "title": "REDSearcher: A Scalable and Cost-Efficient Framework for Long-Horizon Search Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "https://huggingface.co/papers/2602.14265": {
-      "title": "STATe-of-Thoughts: Structured Action Templates for Tree-of-Thoughts",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "https://huggingface.co/papers/2602.14492": {
-      "title": "Query as Anchor: Scenario-Adaptive User Representation via Large Language Model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "http://arxiv.org/abs/2602.15031v1": {
-      "title": "EditCtrl: Disentangled Local and Global Control for Real-Time Generative Video Editing",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "http://arxiv.org/abs/2602.15030v1": {
-      "title": "Image Generation with a Sphere Encoder",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "http://arxiv.org/abs/2503.04641v3": {
-      "title": "Simulating the Real World: A Unified Survey of Multimodal Generative Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "http://arxiv.org/abs/2602.15018v1": {
-      "title": "Neurosim: A Fast Simulator for Neuromorphic Robot Perception",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
-    },
-    "http://arxiv.org/abs/2506.17040v3": {
-      "title": "Stretching Beyond the Obvious: A Gradient-Free Framework to Unveil the Hidden Landscape of Visual Invariance",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-18",
-      "lastSeen": "2026-02-18"
     },
     "https://research.google/blog/teaching-ai-to-read-a-map": {
       "title": "February 17, 2026 Teaching AI to read a map Machine Perception &#183; Open Source Models & Datasets",
@@ -8380,6 +8310,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-15",
       "lastSeen": "2026-08-17"
+    },
+    "https://huggingface.co/papers/2608.14391": {
+      "title": "Can We Defend Against AI-Generated Video Attacks on Real-World Crisis Events? A Systematic Evaluation of Detectors, Generators and Social Dissemination",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "https://huggingface.co/papers/2608.14144": {
+      "title": "Self-Supervised Visual On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "https://huggingface.co/papers/2608.13417": {
+      "title": "Beyond Final Scores: A Systematic Evaluation of Agents for Long-Horizon AI Research and Development",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "https://huggingface.co/papers/2608.14290": {
+      "title": "Intern-S2-Mobius: Foundation Model with Decoupled Knowledge and Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "https://huggingface.co/papers/2608.11341": {
+      "title": "Apodex Discovery: Reality Benchmarks and Environments for Evaluating and Building Discoverative Artificial Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "http://arxiv.org/abs/2608.14546v1": {
+      "title": "CPI-Bench: A Comprehensive,Practical and Intelligent Benchmark for Real-World Image Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "http://arxiv.org/abs/2608.14543v1": {
+      "title": "MagnifiQ: Patch-aware Text Guided Progressive Upscaling for High-Resolution Image Restoration",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "http://arxiv.org/abs/2504.21307v3": {
+      "title": "The Linear Geometry of Interpretable Tokens: Jailbreaking Attacks and Defenses for Unlearned Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "http://arxiv.org/abs/2608.14539v1": {
+      "title": "Decoding the Past: An Uncertainty-Aware Deep Learning Framework for Sex Attribution in Prehistoric Hand Stencils",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "http://arxiv.org/abs/2608.14530v1": {
+      "title": "Marionette: Predicting World States, Rendering Geometry, Painting Appearance",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
+    },
+    "https://research.google/blog/seeing-beyond-bmi-estimating-cardiometabolic-risk-with-smartphone-imagery": {
+      "title": "August 17, 2026 Seeing beyond BMI: Estimating cardiometabolic risk with smartphone imagery General Science &#183; Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-18",
+      "lastSeen": "2026-08-18"
     }
   }
 }
