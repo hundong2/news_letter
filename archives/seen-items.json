@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-18",
+  "updatedAt": "2026-08-19",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -57,76 +57,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-02-18",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2602.14111": {
-      "title": "Sanity Checks for Sparse Autoencoders: Do SAEs Beat Random Baselines?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "https://huggingface.co/papers/2602.12670": {
-      "title": "SkillsBench: Benchmarking How Well Agent Skills Work Across Diverse Tasks",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "https://huggingface.co/papers/2602.15763": {
-      "title": "GLM-5: from Vibe Coding to Agentic Engineering",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "https://huggingface.co/papers/2602.14299": {
-      "title": "Does Socialization Emerge in AI Agent Society? A Case Study of Moltbook",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "https://huggingface.co/papers/2602.15112": {
-      "title": "ResearchGym: Evaluating Language Model Agents on Real-World AI Research",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "http://arxiv.org/abs/2602.15828v1": {
-      "title": "Dex4D: Task-Agnostic Point Track Policy for Sim-to-Real Dexterous Manipulation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "http://arxiv.org/abs/2602.15819v1": {
-      "title": "VideoSketcher: Video Models Prior Enable Versatile Sequential Sketch Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "http://arxiv.org/abs/2602.15811v1": {
-      "title": "Task-Agnostic Continual Learning for Chest Radiograph Classification",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "http://arxiv.org/abs/2602.15783v1": {
-      "title": "Context-aware Skin Cancer Epithelial Cell Classification with Scalable Graph Transformers",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
-    },
-    "http://arxiv.org/abs/2602.15782v1": {
-      "title": "Meteorological data and Sky Images meets Neural Models for Photovoltaic Power Forecasting",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-19",
-      "lastSeen": "2026-02-19"
     },
     "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology": {
       "title": "Project Silica’s advances in glass storage technology",
@@ -8387,6 +8317,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-18",
       "lastSeen": "2026-08-18"
+    },
+    "https://huggingface.co/papers/2608.15089": {
+      "title": "StateM: Reaching 95.3% Raw Accuracy, or a \\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "https://huggingface.co/papers/2608.16859": {
+      "title": "HarnessEval-W: Agentifying the Evaluation of Visual Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "https://huggingface.co/papers/2608.15265": {
+      "title": "VibeWorlding: Can Multimodal Agents Construct 3D Open Worlds End-to-End?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "https://huggingface.co/papers/2608.15669": {
+      "title": "Large Discovery Models: Empirically-grounded Model-Based Open-Ended Search",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "https://huggingface.co/papers/2608.16072": {
+      "title": "Learn What's Left, Not What's Mastered: Saturation Aware Advantage Reweighting for Multi-Reward Policy Optimization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "http://arxiv.org/abs/2608.16889v1": {
+      "title": "Don't Drop the BATON: Long-Horizon Robot Manipulation via Agentic Subtask Exploration and Transition-aware Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "http://arxiv.org/abs/2608.16887v1": {
+      "title": "An Empirical Study of Training Pixel-Space Text-to-Image Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "http://arxiv.org/abs/2607.18237v2": {
+      "title": "The Many Senses of Visual Similarity: A Text-Prompted Image Perceptual Metric",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "http://arxiv.org/abs/2608.16863v1": {
+      "title": "SplatGuide: Geometric Priors from 3D Gaussians for Pose-Free Novel View Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
+    },
+    "http://arxiv.org/abs/2601.08024v2": {
+      "title": "A Highly Efficient Diversity-based Input Selection for DNN Improvement Using VLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-19",
+      "lastSeen": "2026-08-19"
     }
   }
 }
