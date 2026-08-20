@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-19",
+  "updatedAt": "2026-08-20",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-19",
       "lastSeen": "2026-02-23"
-    },
-    "https://huggingface.co/papers/2602.12675": {
-      "title": "SLA2: Sparse-Linear Attention with Learnable Routing and QAT",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "https://huggingface.co/papers/2602.14979": {
-      "title": "RynnBrain: Open Embodied Foundation Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "https://huggingface.co/papers/2602.16705": {
-      "title": "Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "https://huggingface.co/papers/2602.16317": {
-      "title": "CADEvolve: Creating Realistic CAD via Program Evolution",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "https://huggingface.co/papers/2602.14080": {
-      "title": "Empty Shelves or Lost Keys? Recall Is the Bottleneck for Parametric Factuality",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "http://arxiv.org/abs/2602.16711v1": {
-      "title": "TeCoNeRV: Leveraging Temporal Coherence for Compressible Neural Representations for Videos",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "http://arxiv.org/abs/2602.16705v1": {
-      "title": "Learning Humanoid End-Effector Control for Open-Vocabulary Visual Loco-Manipulation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "http://arxiv.org/abs/2602.16702v1": {
-      "title": "Saliency-Aware Multi-Route Thinking: Revisiting Vision-Language Reasoning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "http://arxiv.org/abs/2602.16689v1": {
-      "title": "Are Object-Centric Representations Better At Compositional Generalization?",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
-    },
-    "http://arxiv.org/abs/2411.11706v4": {
-      "title": "MC-LLaVA: Multi-Concept Personalized Vision-Language Model",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-20",
-      "lastSeen": "2026-02-20"
     },
     "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions": {
       "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
@@ -8387,6 +8317,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-19",
       "lastSeen": "2026-08-19"
+    },
+    "https://huggingface.co/papers/2608.14036": {
+      "title": "Demystifying Agent Skills: Why They Work-Until They Don't",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "https://huggingface.co/papers/2608.17310": {
+      "title": "Agentic ESOpt: Fine-Tuning Long-Horizon LLM Agents with Minimal GPU Requirements",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "https://huggingface.co/papers/2608.16157": {
+      "title": "FreeToken: Efficient Edge-Native MoE Serving with Bandwidth-Adaptive Execution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "https://huggingface.co/papers/2608.17271": {
+      "title": "ASI-Bench: At the Dawn of Artificial Superintelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "https://huggingface.co/papers/2608.17512": {
+      "title": "Embodied-Navigator: Point, Think, Memorize, and Align for Efficient Navigation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "http://arxiv.org/abs/2608.18076v1": {
+      "title": "From Corpora to Co-Evolving Capabilities: Capability-Centric Data Design for Generalist Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "http://arxiv.org/abs/2608.18063v1": {
+      "title": "EDITBRIDGE: Towards Faithful and Efficient Ultra-High-Resolution Image Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "http://arxiv.org/abs/2608.18055v1": {
+      "title": "Primitive Representation Learning for Unsupervised Dynamic Contrast Enhanced MRI Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "http://arxiv.org/abs/2608.13546v2": {
+      "title": "Alaya-EVOKE: From Linear-Scaling Supervision to Endless World",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
+    },
+    "http://arxiv.org/abs/2608.18040v1": {
+      "title": "Optimize Your Sampling: Tuned Diffusion Sampling with Bayesian Optimization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-20",
+      "lastSeen": "2026-08-20"
     }
   }
 }
