@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-20",
+  "updatedAt": "2026-08-21",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -92,20 +92,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-02-21",
       "lastSeen": "2026-02-23"
-    },
-    "https://huggingface.co/papers/2602.15569": {
-      "title": "\"What Are You Doing?\": Effects of Intermediate Feedback from Agentic LLM In-Car Assistants During Multi-Step Processing",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-21"
-    },
-    "https://huggingface.co/papers/2602.16699": {
-      "title": "Calibrate-Then-Act: Cost-Aware Exploration in LLM Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-21",
-      "lastSeen": "2026-02-21"
     },
     "http://arxiv.org/abs/2602.17665v1": {
       "title": "OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents",
@@ -8387,6 +8373,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-20",
       "lastSeen": "2026-08-20"
+    },
+    "https://huggingface.co/papers/2608.17426": {
+      "title": "SemComp-Bench: Benchmarking Semantic Task Completion in Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "https://huggingface.co/papers/2608.16590": {
+      "title": "Zetta ζ: An Efficient Closed-Loop Embodied Harness for Self-Evolving Physical Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "https://huggingface.co/papers/2608.18565": {
+      "title": "SemaPLC: A Project-Grounded, Verification-Gated Agent Harness for PLC Code Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "https://huggingface.co/papers/2608.17253": {
+      "title": "Co-RL: Unsupervised Reasoning Emerges from Diverse Cohort in Multi-agent RL",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "https://huggingface.co/papers/2608.13558": {
+      "title": "OmniScientist: An Omni-Modal Omni-Discipline AI Scientist",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "http://arxiv.org/abs/2608.19177v1": {
+      "title": "Image-Guided Pavement Defect Recognition in GPR Data with novel 3D Deep Learning Architecture",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "http://arxiv.org/abs/2608.14778v2": {
+      "title": "AMPLIFAI: A Multiphase CT Dataset for Benchmarking Clinical Reasoning in LI-RADS Assessment of Liver Lesions",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "http://arxiv.org/abs/2603.04448v2": {
+      "title": "SkillNet: Create, Evaluate, and Connect AI Skills",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "http://arxiv.org/abs/2512.03449v4": {
+      "title": "LM-CartSeg: Automated Segmentation of Lateral and Medial Cartilage and Subchondral Bone for Radiomics Analysis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "http://arxiv.org/abs/2502.16445v4": {
+      "title": "Iterative Flow Matching: Path Correction and Gradual Refinement for Enhanced Generative Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
+    },
+    "https://www.microsoft.com/en-us/research/blog/broadening-access-to-skala-creates-a-faster-path-to-predictive-dft": {
+      "title": "Broadening access to Skala creates a faster path to predictive DFT",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-08-21",
+      "lastSeen": "2026-08-21"
     }
   }
 }
