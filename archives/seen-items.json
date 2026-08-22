@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-21",
+  "updatedAt": "2026-08-22",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8450,6 +8450,90 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
       "lastSeen": "2026-08-21"
+    },
+    "https://huggingface.co/papers/2608.19880": {
+      "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://huggingface.co/papers/2608.18580": {
+      "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://huggingface.co/papers/2608.20335": {
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://huggingface.co/papers/2608.19799": {
+      "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://huggingface.co/papers/2608.20336": {
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "http://arxiv.org/abs/2608.20335v1": {
+      "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "http://arxiv.org/abs/2608.20336v1": {
+      "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "http://arxiv.org/abs/2608.20334v1": {
+      "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "http://arxiv.org/abs/2608.20331v1": {
+      "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "http://arxiv.org/abs/2501.14728v2": {
+      "title": "Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data": {
+      "title": "August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI &#183; Health & Bioscience",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
+    },
+    "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place": {
+      "title": "August 21, 2026 How mobility gives language models a deeper understanding of place Algorithms & Theory &#183; Earth AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-22",
+      "lastSeen": "2026-08-22"
     }
   }
 }
