@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-23",
+  "updatedAt": "2026-08-24",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://ai.google.dev/edge": {
       "title": "Google AI Edge | Google AI for Developers",
@@ -64,76 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-20",
       "lastSeen": "2026-03-02"
-    },
-    "https://huggingface.co/papers/2602.10693": {
-      "title": "VESPO: Variational Sequence-Level Soft Policy Optimization for Stable Off-Policy LLM Training",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "https://huggingface.co/papers/2602.08354": {
-      "title": "Does Your Reasoning Model Implicitly Know When to Stop Thinking?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "https://huggingface.co/papers/2602.18422": {
-      "title": "Generated Reality: Human-centric World Simulation using Interactive Video Generation with Hand and Camera Control",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "https://huggingface.co/papers/2602.18292": {
-      "title": "Decoding as Optimisation on the Probability Simplex: From Top-K to Top-P (Nucleus) to Best-of-K Samplers",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "https://huggingface.co/papers/2602.15727": {
-      "title": "Spanning the Visual Analogy Space with a Weight Basis of LoRAs",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "http://arxiv.org/abs/2602.18434v1": {
-      "title": "Going Down Memory Lane: Scaling Tokens for Video Stream Understanding with Dynamic KV-Cache Memory",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "http://arxiv.org/abs/2602.18432v1": {
-      "title": "SARAH: Spatially Aware Real-time Agentic Humans",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "http://arxiv.org/abs/2602.18428v1": {
-      "title": "The Geometry of Noise: Why Diffusion Models Don't Need Noise Conditioning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "http://arxiv.org/abs/2602.18426v1": {
-      "title": "Spatio-Spectroscopic Representation Learning using Unsupervised Convolutional Long-Short Term Memory Networks",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
-    },
-    "http://arxiv.org/abs/2602.18424v1": {
-      "title": "CapNav: Benchmarking Vision Language Models on Capability-conditioned Indoor Navigation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-24",
-      "lastSeen": "2026-02-24"
     },
     "https://huggingface.co/papers/2602.20159": {
       "title": "A Very Big Video Reasoning Suite",
@@ -7847,7 +7777,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-12",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://www.microsoft.com/en-us/research/blog/introducing-care-x-towards-clinically-useful-radiology-vlms-with-auxiliary-supervision-reward-aligned-learning-and-tool-augmented-measurement": {
       "title": "Introducing CARE-X: Towards Clinically Useful Radiology VLMs with Auxiliary Supervision, Reward-Aligned Learning, and Tool-Augmented Measurement",
@@ -7931,14 +7861,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://www.microsoft.com/en-us/research/blog/mindtopo-reveals-vlms-spatial-reasoning-abilities": {
       "title": "MindTopo reveals VLMs&#8217; spatial reasoning abilities",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.00677": {
       "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
@@ -8155,7 +8085,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-18",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.15089": {
       "title": "StateM: Reaching 95.3% Raw Accuracy, or a \\$15 Frontier Run, on Terminal-Bench 2.1 via Harness Scaling",
@@ -8372,91 +8302,91 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.19880": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.18580": {
       "title": "FACET: Preserving Source Intent and Executable State in Terminal Task Synthesis",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.20335": {
       "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.19799": {
       "title": "SWE-bench Science: Can Coding Agents Resolve Engineering Tasks in Science?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://huggingface.co/papers/2608.20336": {
       "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "http://arxiv.org/abs/2608.20335v1": {
       "title": "4DAnyone: Create Anyone in 4D from a Casual Monocular Video",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "http://arxiv.org/abs/2608.20336v1": {
       "title": "WithEveryone: Unified Planning and Identity Grounding for Group Image Generation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "http://arxiv.org/abs/2608.20334v1": {
       "title": "Swift-Image: Exploring the Performance Frontier of Compact Unified Image Generation Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "http://arxiv.org/abs/2608.20331v1": {
       "title": "G-CARL: Grounded Checklist-Aligned Reward Learning for Patient-Oriented Medical Report Interpretation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "http://arxiv.org/abs/2501.14728v2": {
       "title": "Mitigating GenAI-Powered Evidence Pollution for Out-Of-Context Misinformation Detection",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://research.google/blog/an-ai-tool-for-prioritizing-candidate-biomarkers-from-wearable-sensor-data": {
       "title": "August 21, 2026 An AI tool for prioritizing candidate biomarkers from wearable sensor data Generative AI &#183; Health & Bioscience",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     },
     "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place": {
       "title": "August 21, 2026 How mobility gives language models a deeper understanding of place Algorithms & Theory &#183; Earth AI &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-23"
+      "lastSeen": "2026-08-24"
     }
   }
 }
