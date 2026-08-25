@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-24",
+  "updatedAt": "2026-08-25",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-20",
       "lastSeen": "2026-03-02"
-    },
-    "https://huggingface.co/papers/2602.20159": {
-      "title": "A Very Big Video Reasoning Suite",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "https://huggingface.co/papers/2602.18532": {
-      "title": "VLANeXt: Recipes for Building Strong VLA Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "https://huggingface.co/papers/2602.19672": {
-      "title": "SkillOrchestra: Learning to Route Agents via Skill Transfer",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "https://huggingface.co/papers/2602.19313": {
-      "title": "TOPReward: Token Probabilities as Hidden Zero-Shot Rewards for Robotics",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "https://huggingface.co/papers/2602.20161": {
-      "title": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "http://arxiv.org/abs/2602.20161v1": {
-      "title": "Mobile-O: Unified Multimodal Understanding and Generation on Mobile Device",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "http://arxiv.org/abs/2602.17665v2": {
-      "title": "OpenEarthAgent: A Unified Framework for Tool-Augmented Geospatial Agents",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "http://arxiv.org/abs/2602.20160v1": {
-      "title": "tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "http://arxiv.org/abs/2602.20159v1": {
-      "title": "A Very Big Video Reasoning Suite",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
-    },
-    "http://arxiv.org/abs/2602.20157v1": {
-      "title": "Flow3r: Factored Flow Prediction for Scalable Visual Geometry Learning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-25",
-      "lastSeen": "2026-02-25"
     },
     "https://huggingface.co/papers/2602.21193": {
       "title": "On Data Engineering for Scaling LLM Terminal Capabilities",
@@ -8387,6 +8317,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-22",
       "lastSeen": "2026-08-24"
+    },
+    "https://huggingface.co/papers/2608.20061": {
+      "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "https://huggingface.co/papers/2608.21156": {
+      "title": "Graph Engineering in the Era of LLM Agents: From Individual Intelligence to System Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "https://huggingface.co/papers/2608.20910": {
+      "title": "InfinityEdit: Infinite Video Editing with a Lightweight Edit-Ignition Adapter",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "https://huggingface.co/papers/2608.21360": {
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "https://huggingface.co/papers/2608.16425": {
+      "title": "ParaTempo: Efficient Parallel Reasoning via Temporal Confidence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "http://arxiv.org/abs/2608.21360v1": {
+      "title": "OmniAssistBench: Assistant-style Interaction Benchmark for Omni-LLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "http://arxiv.org/abs/2608.21332v1": {
+      "title": "Anatomy-Informed Neural Networks: Encoding Anatomic Priors in Loss and Architecture, with an SE(3) Formulation of Guidewire-Induced Aortoiliac Deformation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "http://arxiv.org/abs/2606.11381v3": {
+      "title": "From Simulation to the Real-World: An In-Field 6D Pose Dataset and Baseline for Robotic Strawberry Harvesting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "http://arxiv.org/abs/2608.21305v1": {
+      "title": "Re$^3$Cap: Retrieval-Guided Refinement for Image Captioning Enhancement via Reinforcement Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
+    },
+    "http://arxiv.org/abs/2608.21300v1": {
+      "title": "When Adaptation Hurts: Connecting Representational Drift to OOD Failures in MedSAM Fine-Tuning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-25",
+      "lastSeen": "2026-08-25"
     }
   }
 }
