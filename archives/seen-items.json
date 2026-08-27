@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-26",
+  "updatedAt": "2026-08-27",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-20",
       "lastSeen": "2026-03-02"
-    },
-    "https://huggingface.co/papers/2602.18283": {
-      "title": "HyTRec: A Hybrid Temporal-Aware Attention Architecture for Long Behavior Sequential Recommendation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "https://huggingface.co/papers/2602.17602": {
-      "title": "MolHIT: Advancing Molecular-Graph Generation with Hierarchical Discrete Diffusion Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "https://huggingface.co/papers/2602.12160": {
-      "title": "DreamID-Omni: Unified Framework for Controllable Human-Centric Audio-Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "https://huggingface.co/papers/2602.21818": {
-      "title": "SkyReels-V4: Multi-modal Video-Audio Generation, Inpainting and Editing model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "https://huggingface.co/papers/2602.21534": {
-      "title": "ARLArena: A Unified Framework for Stable Agentic Reinforcement Learning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "http://arxiv.org/abs/2602.22212v1": {
-      "title": "Neu-PiG: Neural Preconditioned Grids for Fast Dynamic Surface Reconstruction on Long Sequences",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "http://arxiv.org/abs/2602.22209v1": {
-      "title": "WHOLE: World-Grounded Hand-Object Lifted from Egocentric Videos",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "http://arxiv.org/abs/2602.22208v1": {
-      "title": "Solaris: Building a Multiplayer Video World Model in Minecraft",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "http://arxiv.org/abs/2602.00288v3": {
-      "title": "TimeBlind: A Spatio-Temporal Compositionality Benchmark for Video LLMs",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
-    },
-    "http://arxiv.org/abs/2602.22197v1": {
-      "title": "Off-The-Shelf Image-to-Image Models Are All You Need To Defeat Image Protection Schemes",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-02-27",
-      "lastSeen": "2026-02-27"
     },
     "https://www.microsoft.com/en-us/research/blog/corpgen-advances-ai-agents-for-real-work": {
       "title": "CORPGEN advances AI agents for real work",
@@ -8394,6 +8324,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-26",
       "lastSeen": "2026-08-26"
+    },
+    "https://huggingface.co/papers/2608.15875": {
+      "title": "GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "https://huggingface.co/papers/2608.20492": {
+      "title": "Annotations as Rollouts: Efficient and Scalable Reinforcement Learning for Video MLLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "https://huggingface.co/papers/2608.24053": {
+      "title": "WeMM-Embedding: WeChat Multi-Modal Embedding Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "https://huggingface.co/papers/2608.23041": {
+      "title": "AutoSaddler: Automatic Harness Optimization with Durable Updates from Agent Execution Traces",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "https://huggingface.co/papers/2608.24646": {
+      "title": "On-Policy Self-Distillation in Diffusion Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "http://arxiv.org/abs/2608.25948v1": {
+      "title": "Auditable CT Phenotyping Through Report-derived Radiological Observations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "http://arxiv.org/abs/2511.21256v3": {
+      "title": "LaGen: Towards Autoregressive LiDAR Scene Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "http://arxiv.org/abs/2608.25935v1": {
+      "title": "TAU-Agent: An Agentic Retrieval-Augmented Framework for Traffic Anomaly Understanding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "http://arxiv.org/abs/2602.15355v6": {
+      "title": "DAV-GSWT: Diffusion-Active-View Sampling for Data-Efficient Gaussian Splatting Wang Tiles",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "http://arxiv.org/abs/2608.25933v1": {
+      "title": "When Composition Doesn't Add Up: Humans Identifying Defects in AI-Generated Images",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
+    },
+    "https://research.google/blog/glucofm-foundation-model-for-continuous-glucose-monitoring": {
+      "title": "August 26, 2026 GlucoFM: Foundation model for continuous glucose monitoring Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-27",
+      "lastSeen": "2026-08-27"
     }
   }
 }
