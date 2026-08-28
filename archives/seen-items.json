@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-27",
+  "updatedAt": "2026-08-28",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8401,6 +8401,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-27",
       "lastSeen": "2026-08-27"
+    },
+    "https://huggingface.co/papers/2608.15763": {
+      "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "https://huggingface.co/papers/2608.27260": {
+      "title": "What Makes Good Agentic Data? An ACE Lens on Data Generation for LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "https://huggingface.co/papers/2608.27345": {
+      "title": "PAWBench: How Far Are We from Probabilistically Aligned World Modeling?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "https://huggingface.co/papers/2608.27456": {
+      "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "https://huggingface.co/papers/2608.26103": {
+      "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "http://arxiv.org/abs/2608.27456v1": {
+      "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "http://arxiv.org/abs/2608.23730v2": {
+      "title": "More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "http://arxiv.org/abs/2608.27417v1": {
+      "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "http://arxiv.org/abs/2608.27407v1": {
+      "title": "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "http://arxiv.org/abs/2608.27406v1": {
+      "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
+    },
+    "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai": {
+      "title": "August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI &#183; Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-08-28",
+      "lastSeen": "2026-08-28"
     }
   }
 }
