@@ -1,13 +1,13 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-30",
+  "updatedAt": "2026-08-31",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-02",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://ai.google.dev/edge": {
       "title": "Google AI Edge | Google AI for Developers",
@@ -43,76 +43,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-27",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2602.22661": {
-      "title": "dLLM: Simple Diffusion Language Modeling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "https://huggingface.co/papers/2602.24233": {
-      "title": "Enhancing Spatial Understanding in Image Generation via Reward Modeling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "https://huggingface.co/papers/2602.22207": {
-      "title": "Recovered in Translation: Efficient Pipeline for Automated Translation of Benchmarks and Datasets",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "https://huggingface.co/papers/2602.24286": {
-      "title": "CUDA Agent: Large-Scale Agentic RL for High-Performance CUDA Kernel Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "https://huggingface.co/papers/2602.24289": {
-      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "http://arxiv.org/abs/2602.24290v1": {
-      "title": "UFO-4D: Unposed Feedforward 4D Reconstruction from Two Images",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "http://arxiv.org/abs/2602.24289v1": {
-      "title": "Mode Seeking meets Mean Seeking for Fast Long Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "http://arxiv.org/abs/2602.24275v1": {
-      "title": "Hierarchical Action Learning for Weakly-Supervised Action Segmentation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "http://arxiv.org/abs/2509.25094v3": {
-      "title": "Unsupervised Representation Learning for 3D Mesh Parameterization with Semantic and Visibility Objectives",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
-    },
-    "http://arxiv.org/abs/2602.24264v1": {
-      "title": "Compositional Generalization Requires Linear, Orthogonal Representations in Vision Embedding Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-03",
-      "lastSeen": "2026-03-03"
     },
     "https://huggingface.co/papers/2603.00141": {
       "title": "From Scale to Speed: Adaptive Test-Time Scaling for Image Editing",
@@ -7560,7 +7490,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.00677": {
       "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
@@ -7994,7 +7924,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.19880": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
@@ -8071,14 +8001,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://research.google/blog/how-mobility-gives-language-models-a-deeper-understanding-of-place": {
       "title": "August 21, 2026 How mobility gives language models a deeper understanding of place Algorithms & Theory &#183; Earth AI &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-22",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.20061": {
       "title": "Let's Scale Step by Step: Compute-Efficient Hyperparameter Transfer for Large-Scale Mixture-of-Experts",
@@ -8225,7 +8155,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-26",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.15875": {
       "title": "GigaBrain-0.7: Scaling Embodied Foundation Models to Emergent Capabilities with a Three-System Architecture",
@@ -8302,7 +8232,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-27",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.15763": {
       "title": "Training Agents to Evolve with Their Harness: TaoLive Digital Avatar Agent Technical Report",
@@ -8323,14 +8253,14 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.27456": {
       "title": "UrbanGround: From Local Perception to Spatial Agency in a Real-Scale City",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.26103": {
       "title": "Zero-WAM: In-Context World-Action Modeling from Human Videos for Open-Ended Task Generalization",
@@ -8344,63 +8274,63 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     "http://arxiv.org/abs/2608.23730v2": {
       "title": "More Motion Is Not Always Better Motion: Corpus Composition Governs Whether Augmentation Helps SMPL-Based Parkinsonian Gait Severity Estimation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     "http://arxiv.org/abs/2608.27417v1": {
       "title": "Retrieval Heads Meet Vision: Uncovering How VLMs Locate and Extract Visual Information",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     "http://arxiv.org/abs/2608.27407v1": {
       "title": "Reconstructing Humans and Objects in Interaction using Large Reconstruction Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     "http://arxiv.org/abs/2608.27406v1": {
       "title": "CLAP: Cross-Embodiment Video World Models are Zero-Shot Physical Simulators",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-29"
+      "lastSeen": "2026-08-31"
     },
     "https://research.google/blog/planetary-prediction-engine-automating-global-models-via-earth-ai": {
       "title": "August 27, 2026 Planetary prediction engine: Automating global models via Earth AI Earth AI &#183; Generative AI &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-08-28",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.25518": {
       "title": "Agentic Game Development as a Verifiable Trajectory Data Engine for Scaling World Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.27448": {
       "title": "TTPO: Test-Time Policy Optimization",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     },
     "https://huggingface.co/papers/2608.26872": {
       "title": "Self-OPD: On-Policy Distillation for Flow Matching Models without Teacher",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-29",
-      "lastSeen": "2026-08-30"
+      "lastSeen": "2026-08-31"
     }
   }
 }
