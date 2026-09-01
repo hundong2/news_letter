@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-08-31",
+  "updatedAt": "2026-09-01",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -43,76 +43,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-27",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2603.00141": {
-      "title": "From Scale to Speed: Adaptive Test-Time Scaling for Image Editing",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "https://huggingface.co/papers/2603.02138": {
-      "title": "OmniLottie: Generating Vector Animations via Parameterized Lottie Tokens",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "https://huggingface.co/papers/2602.23866": {
-      "title": "SWE-rebench V2: Language-Agnostic SWE Task Collection at Scale",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "https://huggingface.co/papers/2603.01562": {
-      "title": "RubricBench: Aligning Model-Generated Rubrics with Human Standards",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "https://huggingface.co/papers/2603.01824": {
-      "title": "OpenAutoNLU: Open Source AutoML Library for NLU",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "http://arxiv.org/abs/2603.02210v1": {
-      "title": "HiFi-Inpaint: Towards High-Fidelity Reference-Based Inpainting for Generating Detail-Preserving Human-Product Images",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "http://arxiv.org/abs/2602.19385v2": {
-      "title": "Adaptive Data Augmentation with Multi-armed Bandit: Sample-Efficient Embedding Calibration for Implicit Pattern Recognition",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "http://arxiv.org/abs/2602.20160v2": {
-      "title": "tttLRM: Test-Time Training for Long Context and Autoregressive 3D Reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "http://arxiv.org/abs/2603.02200v1": {
-      "title": "Adaptive Confidence Regularization for Multimodal Failure Detection",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
-    },
-    "http://arxiv.org/abs/2603.02194v1": {
-      "title": "From Leaderboard to Deployment: Code Quality Challenges in AV Perception Repositories",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-04",
-      "lastSeen": "2026-03-04"
     },
     "https://huggingface.co/papers/2603.03283": {
       "title": "Utonia: Toward One Encoder for All Point Clouds",
@@ -8331,6 +8261,55 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-08-29",
       "lastSeen": "2026-08-31"
+    },
+    "https://huggingface.co/papers/2608.28281": {
+      "title": "LoopArena: Benchmarking Models as Runtime Controllers for Loop Engineering",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://huggingface.co/papers/2608.27550": {
+      "title": "Beyond Data Scaling: Representation-Centric Continued Pre-training for Vision-Language-Action Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://huggingface.co/papers/2608.18524": {
+      "title": "DART-SD: Diamond-topology Aware Retrieval and Tuning for Self-Distillation of Multi-Turn Tool-Calling Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://huggingface.co/papers/2608.28122": {
+      "title": "Agentic Artifact Creation: Systems, Evaluation, Principles, and Opportunities",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://huggingface.co/papers/2608.27549": {
+      "title": "Code as Worlds: Agentic Discovery of Executable World Representations for Physical Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://research.google/blog/timesfm-3-a-zero-shot-foundation-model-for-multivariate-forecasting": {
+      "title": "August 31, 2026 TimesFM-3: A zero-shot foundation model for multivariate forecasting Data Management &#183; Machine Intelligence &#183; Product",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
+    },
+    "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models": {
+      "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-09-01",
+      "lastSeen": "2026-09-01"
     }
   }
 }
