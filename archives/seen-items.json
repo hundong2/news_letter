@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-01",
+  "updatedAt": "2026-09-02",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -43,76 +43,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-02-27",
       "lastSeen": "2026-03-09"
-    },
-    "https://huggingface.co/papers/2603.03283": {
-      "title": "Utonia: Toward One Encoder for All Point Clouds",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "https://huggingface.co/papers/2603.03241": {
-      "title": "UniG2U-Bench: Do Unified Models Advance Multimodal Understanding?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "https://huggingface.co/papers/2603.03276": {
-      "title": "Beyond Language Modeling: An Exploration of Multimodal Pretraining",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "https://huggingface.co/papers/2603.03194": {
-      "title": "BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "https://huggingface.co/papers/2603.01571": {
-      "title": "Beyond Length Scaling: Synergizing Breadth and Depth for Generative Reward Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "http://arxiv.org/abs/2603.03283v1": {
-      "title": "Utonia: Toward One Encoder for All Point Clouds",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "http://arxiv.org/abs/2603.03282v1": {
-      "title": "MIBURI: Towards Expressive Interactive Gesture Synthesis",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "http://arxiv.org/abs/2603.03281v1": {
-      "title": "CFG-Ctrl: Control-Based Classifier-Free Diffusion Guidance",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "http://arxiv.org/abs/2603.03280v1": {
-      "title": "How to Peel with a Knife: Aligning Fine-Grained Manipulation with Human Preference",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
-    },
-    "http://arxiv.org/abs/2603.03279v1": {
-      "title": "ULTRA: Unified Multimodal Control for Autonomous Humanoid Whole-Body Loco-Manipulation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-05",
-      "lastSeen": "2026-03-05"
     },
     "https://research.google/blog/teaching-llms-to-reason-like-bayesians": {
       "title": "March 4, 2026 Teaching LLMs to reason like Bayesians Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -8310,6 +8240,83 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-01",
       "lastSeen": "2026-09-01"
+    },
+    "https://huggingface.co/papers/2608.31046": {
+      "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "https://huggingface.co/papers/2608.31106": {
+      "title": "DreamX-Creator: Democratizing Native Audio-Video Generation at 2K Resolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "https://huggingface.co/papers/2608.30821": {
+      "title": "Lucida: Parse, Generate, and Place for Composable Real-to-Sim Scene Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "https://huggingface.co/papers/2608.29335": {
+      "title": "GenFirst: Generation Before Reconstruction for Stable End-to-End Latent Generative Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "https://huggingface.co/papers/2608.31036": {
+      "title": "Normalized Low-Rank Adaptation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "http://arxiv.org/abs/2608.31159v1": {
+      "title": "BRF-GS: Hyperspectral Bidirectional Reflectance Factor Modeling and Image Generation Based on 3D Gaussian Splatting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "http://arxiv.org/abs/2512.23709v3": {
+      "title": "Stream-DiffVSR: Low-Latency Streamable Video Super-Resolution via Auto-Regressive Diffusion",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "http://arxiv.org/abs/2608.26083v2": {
+      "title": "ICON Decomposition: Auditing Deep Neural Networks with Multivariate Variance-based Concept-level Explanations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "http://arxiv.org/abs/2608.20308v2": {
+      "title": "ACE-Ego-Hand: Repurposing Video Diffusion Models for Occlusion-Robust Egocentric 3D Hand Motion Recovery",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "http://arxiv.org/abs/2505.11454v8": {
+      "title": "HumaniBench: A Human-Centric Framework for Large Multimodal Models Evaluation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
+    },
+    "https://research.google/blog/mapping-global-methane-emissions-from-space-with-deep-learning": {
+      "title": "September 1, 2026 Mapping global methane emissions from space with deep learning Climate & Sustainability &#183; Earth AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-02",
+      "lastSeen": "2026-09-02"
     }
   }
 }
