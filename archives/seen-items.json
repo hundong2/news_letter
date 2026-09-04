@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-03",
+  "updatedAt": "2026-09-04",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8282,6 +8282,55 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-03",
       "lastSeen": "2026-09-03"
+    },
+    "https://huggingface.co/papers/2609.02749": {
+      "title": "Repo-To-Skill: Distilling GitHub Repositories Into AI4AI Skills",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://huggingface.co/papers/2609.01437": {
+      "title": "HarnessDev: Can LLMs Create and Evolve Their Own Agent Harness?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://huggingface.co/papers/2608.31111": {
+      "title": "Aspire: Can Models Self-Evolve from Vague Goals?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://huggingface.co/papers/2609.02886": {
+      "title": "SolarWM: Open Data and Scalable Training for Long-Horizon Video World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://huggingface.co/papers/2609.02783": {
+      "title": "EarlyEval: Cheaper Agent Evaluation via Early Outcome Prediction",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://research.google/blog/transfer-learning-for-genomic-prediction-in-underrepresented-populations": {
+      "title": "September 3, 2026 Transfer learning for genomic prediction in underrepresented populations General Science &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
+    },
+    "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
+      "title": "September 3, 2026 A connectomics milestone: Mapping the complete male fruit fly brain General Science &#183; Health & Bioscience &#183; Machine Intelligence &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-04",
+      "lastSeen": "2026-09-04"
     }
   }
 }
