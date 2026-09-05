@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-04",
+  "updatedAt": "2026-09-05",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8331,6 +8331,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
       "lastSeen": "2026-09-04"
+    },
+    "https://huggingface.co/papers/2609.04199": {
+      "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "https://huggingface.co/papers/2609.04148": {
+      "title": "Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "https://huggingface.co/papers/2609.03796": {
+      "title": "LLaDA-Image: Building Strong Image Generators with Fully Open Training Recipes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "https://huggingface.co/papers/2608.26730": {
+      "title": "Knowing When Not to Reuse: Conditional Experience Transfer in Autonomous LLM Post-Training",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "https://huggingface.co/papers/2609.03430": {
+      "title": "Random Attention: Rethinking KV Cache Eviction for Efficient Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "http://arxiv.org/abs/2609.04203v1": {
+      "title": "Temporal Self-Distillation: Learning Visual State Tracking in Videos Without Supervision",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "http://arxiv.org/abs/2609.04202v1": {
+      "title": "TokenMatch: 3D Mesh Correspondence Transformer with Curvature-Guided Tokenisation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "http://arxiv.org/abs/2609.04201v1": {
+      "title": "Scal3R: Learning Efficient Multi-Relative Pose Query for Scalable Online 3D Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "http://arxiv.org/abs/2609.04200v1": {
+      "title": "Principia: Relational Physics Tests for Video Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
+    },
+    "http://arxiv.org/abs/2603.28763v2": {
+      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-05",
+      "lastSeen": "2026-09-05"
     }
   }
 }
