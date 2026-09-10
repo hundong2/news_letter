@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-09",
+  "updatedAt": "2026-09-10",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -50,76 +50,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-12",
       "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.10165": {
-      "title": "OpenClaw-RL: Train Any Agent Simply by Talking",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "https://huggingface.co/papers/2603.09229": {
-      "title": "Flash-KMeans: Fast and Memory-Efficient Exact K-Means",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "https://huggingface.co/papers/2603.09827": {
-      "title": "MA-EgoQA: Question Answering over Egocentric Videos from Multiple Embodied Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "https://huggingface.co/papers/2603.10913": {
-      "title": "LLM2Vec-Gen: Generative Embeddings from Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "https://huggingface.co/papers/2603.10160": {
-      "title": "ReMix: Reinforcement routing for mixtures of LoRAs in LLM finetuning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "http://arxiv.org/abs/2603.11048v1": {
-      "title": "COMIC: Agentic Sketch Comedy Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "http://arxiv.org/abs/2603.11047v1": {
-      "title": "LiTo: Surface Light Field Tokenization",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "http://arxiv.org/abs/2603.11045v1": {
-      "title": "Neural Field Thermal Tomography: A Differentiable Physics Framework for Non-Destructive Evaluation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "http://arxiv.org/abs/2603.11044v1": {
-      "title": "Agentar-Fin-OCR",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
-    },
-    "http://arxiv.org/abs/2603.11042v1": {
-      "title": "V2M-Zero: Zero-Pair Time-Aligned Video-to-Music Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-13"
     },
     "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting": {
       "title": "March 12, 2026 Protecting cities with AI-driven flash flood forecasting Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
@@ -8191,6 +8121,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-09",
       "lastSeen": "2026-09-09"
+    },
+    "https://huggingface.co/papers/2609.08183": {
+      "title": "NeoHorse-1: Towards Recursive Self-Improvement via Agentic Post-Training with Routing Harness",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "https://huggingface.co/papers/2609.08936": {
+      "title": "AuK Technical Report: An Open-Source Foundational Model for Speech Generation and Editing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "https://huggingface.co/papers/2609.08977": {
+      "title": "Omni Interaction Agent Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "https://huggingface.co/papers/2609.08798": {
+      "title": "Eliciting Weak-to-Strong Generalization with On-Policy Reverse Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "https://huggingface.co/papers/2609.06055": {
+      "title": "DriveZero: End-to-End Driving Beyond Human Demonstrations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "http://arxiv.org/abs/2609.09155v1": {
+      "title": "SyncWorld: Visual Calibration Enables World Models as Zero-Shot Simulators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "http://arxiv.org/abs/2609.09145v1": {
+      "title": "Point4D: Long-range 4D Motion Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "http://arxiv.org/abs/2609.09143v1": {
+      "title": "Studying Image Tokenizers as Visual Languages in Unified Multimodal Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "http://arxiv.org/abs/2609.09124v1": {
+      "title": "Canonical Color as a Lens into Concept Decodability in Vision Encoders and VLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
+    },
+    "http://arxiv.org/abs/2609.09123v1": {
+      "title": "Mask Forcing: Improving Autoregressive Video Diffusion Distillation via Dual-Noise Masking Rollout",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-10",
+      "lastSeen": "2026-09-10"
     }
   }
 }
