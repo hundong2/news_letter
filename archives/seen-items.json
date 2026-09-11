@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-10",
+  "updatedAt": "2026-09-11",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -99,13 +99,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-14",
       "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.12257": {
-      "title": "DreamVideo-Omni: Omni-Motion Controlled Multi-Subject Video Customization with Latent Identity Reinforcement Learning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-14"
     },
     "http://arxiv.org/abs/2603.12267v1": {
       "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
@@ -8191,6 +8184,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-10",
       "lastSeen": "2026-09-10"
+    },
+    "https://huggingface.co/papers/2609.10522": {
+      "title": "Show-Harness: Just a VLM Agent Can Play Robots",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "https://huggingface.co/papers/2609.08572": {
+      "title": "AgentGrad: Intervention-guided Prompt Optimization for Multi Agent Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "https://huggingface.co/papers/2609.10540": {
+      "title": "Programmable World Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "https://huggingface.co/papers/2609.05405": {
+      "title": "WearableQA: A Benchmark for Health Reasoning over Real-World Wearable Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "https://huggingface.co/papers/2609.08149": {
+      "title": "SWE-Bench Pro Verified: A Reliable Benchmark for Software Engineering Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "http://arxiv.org/abs/2604.04925v3": {
+      "title": "SimpleProc: Fully Procedural Synthetic Data from Simple Rules for Multi-View Stereo",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "http://arxiv.org/abs/2609.10540v1": {
+      "title": "Programmable World Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "http://arxiv.org/abs/2605.01234v2": {
+      "title": "TT4D: A Pipeline and Dataset for Table Tennis 4D Reconstruction From Monocular Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "http://arxiv.org/abs/2609.10531v1": {
+      "title": "Guiding Image-to-3D Generation with Test-Time Partial Observations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "http://arxiv.org/abs/2609.10524v1": {
+      "title": "Precision in Rice Variety Classification using Stacking-Based Ensemble Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
+    },
+    "https://research.google/blog/toolgrad-efficient-tool-use-dataset-generation-with-textual-gradients": {
+      "title": "September 10, 2026 ToolGrad: Efficient tool-use dataset generation with textual \"gradients\" Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-11",
+      "lastSeen": "2026-09-11"
     }
   }
 }
