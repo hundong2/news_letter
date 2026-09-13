@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-12",
+  "updatedAt": "2026-09-13",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -14,28 +14,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-12"
-    },
-    "https://research.google/blog/where-wild-things-roam-identifying-wildlife-with-speciesnet": {
-      "title": "March 6, 2026 Where wild things roam: Identifying wildlife with SpeciesNet Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-07",
-      "lastSeen": "2026-03-16"
-    },
-    "https://research.google/blog/waxal-a-large-scale-open-resource-for-african-language-speech-technology": {
-      "title": "March 6, 2026 WAXAL: A large-scale open resource for African language speech technology Natural Language Processing &#183; Open Source Models & Datasets",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-07",
-      "lastSeen": "2026-03-16"
+      "lastSeen": "2026-09-13"
     },
     "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents": {
       "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
@@ -43,13 +29,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-11",
       "lastSeen": "2026-03-30"
-    },
-    "https://research.google/blog/exploring-the-feasibility-of-conversational-diagnostic-ai-in-a-real-world-clinical-study": {
-      "title": "March 11, 2026 Exploring the feasibility of conversational diagnostic AI in a real-world clinical study Generative AI &#183; Health & Bioscience &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-12",
-      "lastSeen": "2026-03-16"
     },
     "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting": {
       "title": "March 12, 2026 Protecting cities with AI-driven flash flood forecasting Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
@@ -71,76 +50,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-13",
       "lastSeen": "2026-03-30"
-    },
-    "https://huggingface.co/papers/2603.12255": {
-      "title": "Spatial-TTT: Streaming Visual-based Spatial Intelligence with Test-Time Training",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.12180": {
-      "title": "Strategic Navigation or Stochastic Search? How Agents and Humans Reason Over Document Collections",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.12201": {
-      "title": "IndexCache: Accelerating Sparse Attention via Cross-Layer Index Reuse",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.10178": {
-      "title": "Video-Based Reward Modeling for Computer-Use Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "http://arxiv.org/abs/2603.12267v1": {
-      "title": "EVATok: Adaptive Length Video Tokenization for Efficient Visual Autoregressive Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "http://arxiv.org/abs/2603.12266v1": {
-      "title": "MM-CondChain: A Programmatically Verified Benchmark for Visually Grounded Deep Compositional Reasoning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "http://arxiv.org/abs/2603.12265v1": {
-      "title": "OmniStream: Mastering Perception, Reconstruction and Action in Continuous Streams",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "http://arxiv.org/abs/2603.12264v1": {
-      "title": "GRADE: Benchmarking Discipline-Informed Reasoning in Image Editing",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "http://arxiv.org/abs/2603.12262v1": {
-      "title": "Video Streaming Thinking: VideoLLMs Can Watch and Think Simultaneously",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-14",
-      "lastSeen": "2026-03-16"
-    },
-    "https://huggingface.co/papers/2603.11421": {
-      "title": "ShotVerse: Advancing Cinematic Camera Control for Text-Driven Multi-Shot Video Creation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-15",
-      "lastSeen": "2026-03-16"
     },
     "https://huggingface.co/papers/2603.12572": {
       "title": "LMEB: Long-horizon Memory Embedding Benchmark",
@@ -6370,7 +6279,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2608.02023": {
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
@@ -6804,7 +6713,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-12",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2608.10915": {
       "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
@@ -6888,7 +6797,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2608.00677": {
       "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
@@ -7322,7 +7231,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2608.19880": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
@@ -7770,14 +7679,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models": {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2608.31046": {
       "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
@@ -7854,7 +7763,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2609.01591": {
       "title": "StudentSim: Training LLM-based Student Simulators",
@@ -7931,14 +7840,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
       "title": "September 3, 2026 A connectomics milestone: Mapping the complete male fruit fly brain General Science &#183; Health & Bioscience &#183; Machine Intelligence &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2609.04199": {
       "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
@@ -8260,7 +8169,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-12"
+      "lastSeen": "2026-09-13"
     },
     "https://huggingface.co/papers/2609.10715": {
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
