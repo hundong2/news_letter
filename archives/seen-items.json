@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-14",
+  "updatedAt": "2026-09-15",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -14,14 +14,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://www.microsoft.com/en-us/research/blog/from-raw-interaction-to-reusable-knowledge-rethinking-memory-for-ai-agents": {
       "title": "From raw interaction to reusable knowledge: Rethinking memory for AI agents",
@@ -57,76 +57,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-17",
       "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.14473": {
-      "title": "AI Can Learn Scientific Taste",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "https://huggingface.co/papers/2603.15594": {
-      "title": "OpenSeeker: Democratizing Frontier Search Agents by Fully Open-Sourcing Training Data",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "https://huggingface.co/papers/2603.13594": {
-      "title": "EnterpriseOps-Gym: Environments and Evaluations for Stateful Agentic Planning and Tool Use in Enterprise Settings",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "https://huggingface.co/papers/2603.15583": {
-      "title": "Grounding World Simulation Models in a Real-World Metropolis",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "https://huggingface.co/papers/2603.15612": {
-      "title": "HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "http://arxiv.org/abs/2603.15620v1": {
-      "title": "Towards Generalizable Robotic Manipulation in Dynamic Environments",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "http://arxiv.org/abs/2603.15618v1": {
-      "title": "Look Before Acting: Enhancing Vision Foundation Representations for Vision-Language-Action Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "http://arxiv.org/abs/2603.15616v1": {
-      "title": "GlyphPrinter: Region-Grouped Direct Preference Optimization for Glyph-Accurate Visual Text Rendering",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "http://arxiv.org/abs/2603.15614v1": {
-      "title": "Tri-Prompting: Video Diffusion with Unified Control over Scene, Subject, and Motion",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
-    },
-    "http://arxiv.org/abs/2603.15612v1": {
-      "title": "HSImul3R: Physics-in-the-Loop Reconstruction of Simulation-Ready Human-Scene Interactions",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-18",
-      "lastSeen": "2026-03-18"
     },
     "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings": {
       "title": "March 17, 2026 Google Research at The Check Up: from healthcare innovation to real-world care settings Health & Bioscience &#183; Machine Intelligence",
@@ -6209,7 +6139,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-04",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2608.02023": {
       "title": "SwanTale: Unified Multi-Speaker Speech and Audio Generation for Instruct and Zero-Shot Tasks",
@@ -6643,7 +6573,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-12",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2608.10915": {
       "title": "ComBodied Agents: a New Paradigm of Human-Centric Agentic AI",
@@ -6727,7 +6657,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2608.00677": {
       "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
@@ -7161,7 +7091,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2608.19880": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
@@ -7609,14 +7539,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://www.microsoft.com/en-us/research/blog/gigapath-flash-and-gigatime-flash-toward-population-scale-discovery-with-efficient-pathology-foundation-models": {
       "title": "GigaPath-Flash and GigaTIME-Flash: Toward population-scale discovery with efficient pathology foundation models",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2608.31046": {
       "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
@@ -7693,7 +7623,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-02",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2609.01591": {
       "title": "StudentSim: Training LLM-based Student Simulators",
@@ -7770,14 +7700,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
       "title": "September 3, 2026 A connectomics milestone: Mapping the complete male fruit fly brain General Science &#183; Health & Bioscience &#183; Machine Intelligence &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2609.04199": {
       "title": "Compile by Training: Turning Natural-Language Specifications into Local Neural Functions",
@@ -8099,7 +8029,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-14"
+      "lastSeen": "2026-09-15"
     },
     "https://huggingface.co/papers/2609.10715": {
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
@@ -8135,6 +8065,41 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-12",
       "lastSeen": "2026-09-14"
+    },
+    "https://huggingface.co/papers/2609.06107": {
+      "title": "DataFlex-RL: An Evaluation Platform for RLVR Data Policies",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
+    },
+    "https://huggingface.co/papers/2609.11115": {
+      "title": "Benchmark Radar: A Living Database and Search Engine for AI Benchmarks and Evaluation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
+    },
+    "https://huggingface.co/papers/2609.08418": {
+      "title": "Feyospace-v1: How the Cyber Mercury Seven Trained Frontier Cyber Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
+    },
+    "https://huggingface.co/papers/2609.12641": {
+      "title": "Breaking the Vision-Action Shortcut: Latent Interface Training for Generalizable Robotics Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
+    },
+    "https://huggingface.co/papers/2609.13141": {
+      "title": "SAS: Simple Attention Sparsification via End-to-End Optimization of Context Ranking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-15",
+      "lastSeen": "2026-09-15"
     }
   }
 }
