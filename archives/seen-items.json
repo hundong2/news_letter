@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-15",
+  "updatedAt": "2026-09-16",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,76 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-03-30"
-    },
-    "https://huggingface.co/papers/2603.16790": {
-      "title": "InCoder-32B: Code Foundation Model for Industrial Scenarios",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "https://huggingface.co/papers/2603.15726": {
-      "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "https://huggingface.co/papers/2603.13398": {
-      "title": "Qianfan-OCR: A Unified End-to-End Model for Document Intelligence",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "https://huggingface.co/papers/2603.13366": {
-      "title": "Thinking in Uncertainty: Mitigating Hallucinations in MLRMs with Latent Entropy-Aware Decoding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "https://huggingface.co/papers/2603.16669": {
-      "title": "Kinema4D: Kinematic 4D World Modeling for Spatiotemporal Embodied Simulation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "http://arxiv.org/abs/2603.16871v1": {
-      "title": "WorldCam: Interactive Autoregressive 3D Gaming Worlds with Camera Pose as a Unifying Geometric Representation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "http://arxiv.org/abs/2603.16870v1": {
-      "title": "Demystifing Video Reasoning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "http://arxiv.org/abs/2603.16869v1": {
-      "title": "SegviGen: Repurposing 3D Generative Model for Part Segmentation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "http://arxiv.org/abs/2603.16868v1": {
-      "title": "MessyKitchens: Contact-rich object-level 3D scene reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
-    },
-    "http://arxiv.org/abs/2603.16864v1": {
-      "title": "SparkVSR: Interactive Video Super-Resolution via Sparse Keyframe Propagation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-19",
-      "lastSeen": "2026-03-19"
     },
     "https://huggingface.co/papers/2603.17187": {
       "title": "MetaClaw: Just Talk -- An Agent That Meta-Learns and Evolves in the Wild",
@@ -8100,6 +8030,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-15",
       "lastSeen": "2026-09-15"
+    },
+    "https://huggingface.co/papers/2609.11638": {
+      "title": "Vidu S2: Real-Time Interactive, Editable, and Spatial Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "https://huggingface.co/papers/2609.15818": {
+      "title": "Atria Dawn: The Dawn of Agentic Superintelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "https://huggingface.co/papers/2609.13356": {
+      "title": "ZGCM-1: A Fully Open and Extremely Efficient Foundation Model for Math and Agentic Search",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "https://huggingface.co/papers/2609.14858": {
+      "title": "Dream-RSI: Recursive Self-Improvement through Evolving Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "https://huggingface.co/papers/2609.14973": {
+      "title": "PhysBrain 1.5: From Vision-Language Models to Physical Foundation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "http://arxiv.org/abs/2609.15980v1": {
+      "title": "A Chosen Future Can Still Be Rewritten: Causal Writability in Video Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "http://arxiv.org/abs/2512.10956v2": {
+      "title": "Stereo4DWalker: Learning 4D-aware Embodied Urban Navigation from Internet Stereo Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "http://arxiv.org/abs/2410.14083v2": {
+      "title": "SAMReg: SAM-enabled Image Registration with ROI-based Correspondence",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "http://arxiv.org/abs/2609.15888v1": {
+      "title": "Anatomical Grounding and Leakage-Aware Multimodal Contrastive Learning for Alzheimer's Disease Classification from Structural MRI",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "http://arxiv.org/abs/2507.19738v2": {
+      "title": "Preserving Guidance in Cost-Volume Retrieval under Extreme LiDAR Sparsity in Iterative Stereo",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
+    },
+    "https://research.google/blog/bypassing-inference-bottlenecks-accelerating-complex-ai-search-with-retrieve-for-train": {
+      "title": "September 15, 2026 Bypassing inference bottlenecks: Accelerating complex AI search with Retrieve-for-Train Algorithms & Theory &#183; Data Mining & Modeling &#183; Generative AI",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-16",
+      "lastSeen": "2026-09-16"
     }
   }
 }
