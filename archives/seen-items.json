@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-17",
+  "updatedAt": "2026-09-18",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -99,13 +99,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-21",
       "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.19227": {
-      "title": "Bridging Semantic and Kinematic Conditions with Diffusion-based Discrete Motion Tokenizer",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-21"
     },
     "http://arxiv.org/abs/2603.19235v1": {
       "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
@@ -8107,6 +8100,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-17",
       "lastSeen": "2026-09-17"
+    },
+    "https://huggingface.co/papers/2609.17488": {
+      "title": "LimiX-2: A Contextual Mechanism Network Towards General Structured-Data Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "https://huggingface.co/papers/2609.19134": {
+      "title": "ScienceIDE: Turning World's Scientific Codebase into Agent Learnable Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "https://huggingface.co/papers/2609.18708": {
+      "title": "Rethinking Critic Learning in PPO: Understanding and Mitigating Value Flattening",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "https://huggingface.co/papers/2609.17708": {
+      "title": "Confidence Comes from Experience: Experiential Confidence Estimation from Reasoning to Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "https://huggingface.co/papers/2609.18805": {
+      "title": "ProgramDistill: From Interactive Web Apps to Verifiable Reference-Guided SWE Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "http://arxiv.org/abs/2609.19143v1": {
+      "title": "PANORAMA: Panoptic Grounded Captioning via Mask Proposal Selection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "http://arxiv.org/abs/2609.19142v1": {
+      "title": "PointZero: 3D Point Track Completion for Learning Transferable 3D Dynamics",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "http://arxiv.org/abs/2609.19138v1": {
+      "title": "In-Context Robot Learning with VLM Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "http://arxiv.org/abs/2609.19122v1": {
+      "title": "Adaptive Convolutional Sparse Coding via Information Bottleneck for Robust Visual Signal Representation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "http://arxiv.org/abs/2609.19119v1": {
+      "title": "Track, Articulate, Act: Generating Articulation from Casual Human Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
+    },
+    "https://research.google/blog/the-future-of-practice-enabling-teachers-to-create-learning-interactives-with-generative-ui": {
+      "title": "September 17, 2026 The future of practice: Enabling teachers to create learning interactives with generative UI Education Innovation &#183; Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-18",
+      "lastSeen": "2026-09-18"
     }
   }
 }
