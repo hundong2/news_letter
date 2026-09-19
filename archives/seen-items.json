@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-18",
+  "updatedAt": "2026-09-19",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8177,6 +8177,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-18",
       "lastSeen": "2026-09-18"
+    },
+    "https://huggingface.co/papers/2609.19969": {
+      "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "https://huggingface.co/papers/2609.20519": {
+      "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "https://huggingface.co/papers/2609.20804": {
+      "title": "An Empirical Study of Harness Design for Coding Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "https://huggingface.co/papers/2609.20511": {
+      "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "https://huggingface.co/papers/2609.20800": {
+      "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "http://arxiv.org/abs/2609.20822v1": {
+      "title": "Coding Agents with an Obstacle-Aware Harness for Safe Robot Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "http://arxiv.org/abs/2609.20819v1": {
+      "title": "Can 4D Foundation Models Remember?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "http://arxiv.org/abs/2609.20818v1": {
+      "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "http://arxiv.org/abs/2609.20817v1": {
+      "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "http://arxiv.org/abs/2609.20816v1": {
+      "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
+    },
+    "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics": {
+      "title": "September 18, 2026 MilleMiglia: A realistic instance generator for middle-mile logistics Algorithms & Theory",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-19",
+      "lastSeen": "2026-09-19"
     }
   }
 }
