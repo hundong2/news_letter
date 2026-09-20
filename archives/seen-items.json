@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-19",
+  "updatedAt": "2026-09-20",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -30,33 +30,12 @@
       "firstSeen": "2026-03-11",
       "lastSeen": "2026-03-30"
     },
-    "https://research.google/blog/protecting-cities-with-ai-driven-flash-flood-forecasting": {
-      "title": "March 12, 2026 Protecting cities with AI-driven flash flood forecasting Climate & Sustainability &#183; Earth AI &#183; Generative AI &#183; Open Source Models & Datasets",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-23"
-    },
-    "https://research.google/blog/introducing-groundsource-turning-news-reports-into-data-with-gemini": {
-      "title": "March 12, 2026 Introducing Groundsource: Turning news reports into data with Gemini Climate & Sustainability &#183; Generative AI &#183; Natural Language Processing &#183; Open Source Models & Datasets",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-13",
-      "lastSeen": "2026-03-23"
-    },
     "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework": {
       "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-13",
       "lastSeen": "2026-03-30"
-    },
-    "https://research.google/blog/testing-llms-on-superconductivity-research-questions": {
-      "title": "March 16, 2026 Testing LLMs on superconductivity research questions Education Innovation &#183; General Science &#183; Machine Intelligence &#183; Natural Language Processing",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-17",
-      "lastSeen": "2026-03-23"
     },
     "https://research.google/blog/google-research-at-the-check-up-from-healthcare-innovation-to-real-world-care-settings": {
       "title": "March 17, 2026 Google Research at The Check Up: from healthcare innovation to real-world care settings Health & Bioscience &#183; Machine Intelligence",
@@ -71,76 +50,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-18",
       "lastSeen": "2026-03-30"
-    },
-    "https://huggingface.co/papers/2603.19235": {
-      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.19228": {
-      "title": "SAMA: Factorized Semantic Anchoring and Motion Alignment for Instruction-Guided Video Editing",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.19199": {
-      "title": "FASTER: Rethinking Real-Time Flow VLAs",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.18524": {
-      "title": "3DreamBooth: High-Fidelity 3D Subject-Driven Video Generation Model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "http://arxiv.org/abs/2603.19235v1": {
-      "title": "Generation Models Know Space: Unleashing Implicit 3D Priors for Scene Understanding",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "http://arxiv.org/abs/2603.19234v1": {
-      "title": "Matryoshka Gaussian Splatting",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "http://arxiv.org/abs/2603.19232v1": {
-      "title": "Cubic Discrete Diffusion: Discrete Visual Generation on High-Dimensional Representation Tokens",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "http://arxiv.org/abs/2603.19231v1": {
-      "title": "MonoArt: Progressive Structural Reasoning for Monocular Articulated 3D Reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "http://arxiv.org/abs/2603.19229v1": {
-      "title": "NavTrust: Benchmarking Trustworthiness for Embodied Navigation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-21",
-      "lastSeen": "2026-03-23"
-    },
-    "https://huggingface.co/papers/2603.19220": {
-      "title": "Nemotron-Cascade 2: Post-Training LLMs with Cascade RL and Multi-Domain On-Policy Distillation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-22",
-      "lastSeen": "2026-03-23"
     },
     "https://huggingface.co/papers/2603.17024": {
       "title": "HopChain: Multi-Hop Data Synthesis for Generalizable Vision-Language Reasoning",
@@ -6510,7 +6419,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-13",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2608.00677": {
       "title": "OpenART: Scaling Agent Red Teaming via Open-Ended Environment Evolution",
@@ -6944,7 +6853,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-08-21",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2608.19880": {
       "title": "EnvHarness: Awakening Static Worlds for Agent Learning",
@@ -7399,7 +7308,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2608.31046": {
       "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
@@ -7553,7 +7462,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-04",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-20"
     },
     "https://research.google/blog/a-connectomics-milestone-mapping-the-complete-male-fruit-fly-brain": {
       "title": "September 3, 2026 A connectomics milestone: Mapping the complete male fruit fly brain General Science &#183; Health & Bioscience &#183; Machine Intelligence &#183; Open Source Models & Datasets",
@@ -7882,7 +7791,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.10715": {
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
@@ -8029,7 +7938,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-16",
-      "lastSeen": "2026-09-16"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.06986": {
       "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
@@ -8176,35 +8085,35 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-18"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.19969": {
       "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.20519": {
       "title": "SoL-Pi: Recursively Scaling Auto-Research Loops for Efficient Agent Harness",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.20804": {
       "title": "An Empirical Study of Harness Design for Coding Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.20511": {
       "title": "When EOS Tokens Disagree: Understanding Length Inflation in On-Policy Distillation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "https://huggingface.co/papers/2609.20800": {
       "title": "JEPA-Anything: Learning Predictive Models across Different Worlds",
@@ -8218,42 +8127,49 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "http://arxiv.org/abs/2609.20819v1": {
       "title": "Can 4D Foundation Models Remember?",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "http://arxiv.org/abs/2609.20818v1": {
       "title": "SplashSplat: Reconstructing Splashing Liquids from Real-World Multi-View Videos",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "http://arxiv.org/abs/2609.20817v1": {
       "title": "FAMOS: Feed-Forward 3D Articulation Modeling from Sparse Observations",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "http://arxiv.org/abs/2609.20816v1": {
       "title": "Paint-Anything: Unified Any-Color Control for Image Generation and Editing",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
     },
     "https://research.google/blog/millemiglia-a-realistic-instance-generator-for-middle-mile-logistics": {
       "title": "September 18, 2026 MilleMiglia: A realistic instance generator for middle-mile logistics Algorithms & Theory",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-19"
+      "lastSeen": "2026-09-20"
+    },
+    "https://huggingface.co/papers/2609.18323": {
+      "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-20",
+      "lastSeen": "2026-09-20"
     }
   }
 }
