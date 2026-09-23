@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-22",
+  "updatedAt": "2026-09-23",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-25",
       "lastSeen": "2026-03-30"
-    },
-    "https://huggingface.co/papers/2603.22458": {
-      "title": "MinerU-Diffusion: Rethinking Document OCR as Inverse Rendering via Diffusion Decoding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "https://huggingface.co/papers/2603.23497": {
-      "title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "https://huggingface.co/papers/2603.23483": {
-      "title": "SpecEyes: Accelerating Agentic Multimodal LLMs via Speculative Perception and Planning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "https://huggingface.co/papers/2603.22386": {
-      "title": "From Static Templates to Dynamic Runtime Graphs: A Survey of Workflow Optimization for LLM Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "https://huggingface.co/papers/2603.20422": {
-      "title": "PEARL: Personalized Streaming Video Understanding Model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "http://arxiv.org/abs/2603.23502v1": {
-      "title": "OccAny: Generalized Unconstrained Urban 3D Occupancy",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "http://arxiv.org/abs/2603.23501v1": {
-      "title": "MedObvious: Exposing the Medical Moravec's Paradox in VLMs via Clinical Triage",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "http://arxiv.org/abs/2603.23500v1": {
-      "title": "UniGRPO: Unified Policy Optimization for Reasoning-Driven Visual Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "http://arxiv.org/abs/2603.23499v1": {
-      "title": "DA-Flow: Degradation-Aware Optical Flow Estimation with Diffusion Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
-    },
-    "http://arxiv.org/abs/2603.23497v1": {
-      "title": "WildWorld: A Large-Scale Dataset for Dynamic World Modeling with Actions and Explicit State toward Generative ARPG",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-03-26"
     },
     "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini": {
       "title": "March 25, 2026 Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini Human-Computer Interaction and Visualization &#183; Machine Intelligence",
@@ -8107,6 +8037,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-22",
       "lastSeen": "2026-09-22"
+    },
+    "https://huggingface.co/papers/2609.24972": {
+      "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "https://huggingface.co/papers/2609.24984": {
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "https://huggingface.co/papers/2609.25001": {
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "https://huggingface.co/papers/2609.22966": {
+      "title": "Transferring the Intelligence of VLMs to Robotic Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "https://huggingface.co/papers/2609.23088": {
+      "title": "OmniEdu: Open Foundation Models for Learning and Teaching",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "http://arxiv.org/abs/2609.25001v1": {
+      "title": "GameHorizon Suite: Multi-Horizon Data and Evaluation in Gameplay",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "http://arxiv.org/abs/2609.24997v1": {
+      "title": "VideoGen-Agent: Reinforcing Video Generation Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "http://arxiv.org/abs/2512.18046v3": {
+      "title": "YolovN-CBi: A Lightweight and Efficient Architecture for Real-Time Detection of Small UAVs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "http://arxiv.org/abs/2609.24984v1": {
+      "title": "WorldCrafter: Consistent Video World Model with Implicit 3D-aware Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
+    },
+    "http://arxiv.org/abs/2609.24981v1": {
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-23",
+      "lastSeen": "2026-09-23"
     }
   }
 }
