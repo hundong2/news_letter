@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-23",
+  "updatedAt": "2026-09-24",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,41 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-03-26",
       "lastSeen": "2026-04-06"
-    },
-    "https://huggingface.co/papers/2603.24440": {
-      "title": "CUA-Suite: Massive Human-annotated Video Demonstrations for Computer-Use Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-27"
-    },
-    "https://huggingface.co/papers/2603.22918": {
-      "title": "EVA: Efficient Reinforcement Learning for End-to-End Video Agent",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-27"
-    },
-    "https://huggingface.co/papers/2603.22341": {
-      "title": "T-MAP: Red-Teaming LLM Agents with Trajectory-aware Evolutionary Search",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-27"
-    },
-    "https://huggingface.co/papers/2603.24533": {
-      "title": "UI-Voyager: A Self-Evolving GUI Agent Learning via Failed Experience",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-27"
-    },
-    "https://huggingface.co/papers/2603.24472": {
-      "title": "Why Does Self-Distillation (Sometimes) Degrade the Reasoning Capability of LLMs?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-03-27"
     },
     "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
       "title": "AsgardBench: A benchmark for visually grounded interactive planning",
@@ -8107,6 +8072,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-23",
       "lastSeen": "2026-09-23"
+    },
+    "https://huggingface.co/papers/2609.25804": {
+      "title": "The Tasteful Agent: Measuring and Improving Taste in Long-Horizon Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "https://huggingface.co/papers/2609.25270": {
+      "title": "RULER: Instance-aware Rubric Rewards for SVG Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "https://huggingface.co/papers/2609.24981": {
+      "title": "GAE: Learning a Geometry-Native Latent Space for 3D-Consistent World Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "https://huggingface.co/papers/2609.24058": {
+      "title": "All-in-One Multilingual Scene Text Recognition with Script-aware Mixture-of-Experts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "https://huggingface.co/papers/2609.24657": {
+      "title": "Circuit Hypernetworks for Quantum-Augmented Diffusion Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "http://arxiv.org/abs/2609.26795v1": {
+      "title": "φ-RIE: From Photorealistic Reconstruction to Interactive Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "http://arxiv.org/abs/2609.26793v1": {
+      "title": "HARMONY: Hierarchical Agentic Reasoning for MONocular Image-to-Scene Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "http://arxiv.org/abs/2609.26792v1": {
+      "title": "DreamStream: Towards Policy-Oriented Generative Simulation for End-to-End Driving",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "http://arxiv.org/abs/2607.18227v3": {
+      "title": "FlowMimic: Mask-free Visual Editing and Generation with Pixel-pair Warped Flow Field for Online Video Editing Data Generation and Modality Mimicry",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "http://arxiv.org/abs/2505.01583v2": {
+      "title": "TEMPURA: Temporal Event Masked Prediction and Understanding for Reasoning in Action",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
+    },
+    "https://www.microsoft.com/en-us/research/blog/offloaded-inference-for-real-world-physical-ai-robotics": {
+      "title": "Offloaded inference for real-world physical AI robotics",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-09-24",
+      "lastSeen": "2026-09-24"
     }
   }
 }
