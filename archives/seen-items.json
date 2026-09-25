@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-24",
+  "updatedAt": "2026-09-25",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -113,13 +113,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-03-28",
       "lastSeen": "2026-03-30"
-    },
-    "https://huggingface.co/papers/2603.25319": {
-      "title": "MACRO: Advancing Multi-Reference Image Generation with Structured Long-Context Data",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-28",
-      "lastSeen": "2026-03-28"
     },
     "https://huggingface.co/papers/2603.25551": {
       "title": "Voxtral TTS",
@@ -8149,6 +8142,83 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-24",
       "lastSeen": "2026-09-24"
+    },
+    "https://huggingface.co/papers/2609.26780": {
+      "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "https://huggingface.co/papers/2609.23038": {
+      "title": "Spatial-Interactor: Learning Spatial Reasoning through Interaction with the Observable Physical World",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "https://huggingface.co/papers/2609.24308": {
+      "title": "HappyWorld-Bench",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "https://huggingface.co/papers/2609.28466": {
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "https://huggingface.co/papers/2609.27334": {
+      "title": "Just-in-Time Memory: Learning to Curate Task-Adaptive Memory for LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "http://arxiv.org/abs/2609.28473v1": {
+      "title": "On the Diffusibility of High-Dimensional Latents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "http://arxiv.org/abs/2609.25803v2": {
+      "title": "LiFR v2: Completion-Augmented Event Propagation for High-Rate Dense Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "http://arxiv.org/abs/2609.28466v1": {
+      "title": "The Past Frames the Future: Memory for Autoregressive Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "http://arxiv.org/abs/2609.28439v1": {
+      "title": "HaRP: High Dynamic Range Photosequencing through Dual Reversed Shutter Scanning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "http://arxiv.org/abs/2609.28437v1": {
+      "title": "MultiVENT-Raw: A Benchmark for Retrieval and Reasoning over Raw Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
+    },
+    "https://research.google/blog/coherent-long-form-video-generation": {
+      "title": "September 24, 2026 Automating coherent long-form video generation Generative AI &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-25",
+      "lastSeen": "2026-09-25"
     }
   }
 }
