@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-25",
+  "updatedAt": "2026-09-26",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8219,6 +8219,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-25",
       "lastSeen": "2026-09-25"
+    },
+    "https://huggingface.co/papers/2609.28654": {
+      "title": "Training Object Permanence in World Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "https://huggingface.co/papers/2609.29845": {
+      "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "https://huggingface.co/papers/2609.30221": {
+      "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "https://huggingface.co/papers/2609.23407": {
+      "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "https://huggingface.co/papers/2609.28416": {
+      "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "http://arxiv.org/abs/2609.30249v1": {
+      "title": "RAPID: Robot Agentic Programming from Demonstrations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "http://arxiv.org/abs/2609.30247v1": {
+      "title": "Rolling-WAM: World Action Models with Rolling Imagination",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "http://arxiv.org/abs/2609.30245v1": {
+      "title": "Towards Practical Compression of 3D Gaussian Splatting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "http://arxiv.org/abs/2609.30238v1": {
+      "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
+    },
+    "http://arxiv.org/abs/2609.30234v1": {
+      "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-26",
+      "lastSeen": "2026-09-26"
     }
   }
 }
