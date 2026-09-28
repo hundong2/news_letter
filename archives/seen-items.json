@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-27",
+  "updatedAt": "2026-09-28",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -50,76 +50,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-27",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2603.25716": {
-      "title": "Out of Sight but Not Out of Mind: Hybrid Memory for Dynamic Video World Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "https://huggingface.co/papers/2603.25746": {
-      "title": "ShotStream: Streaming Multi-Shot Video Generation for Interactive Storytelling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "https://huggingface.co/papers/2603.25730": {
-      "title": "PackForcing: Short Video Training Suffices for Long Video Sampling and Long Context Inference",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "https://huggingface.co/papers/2603.25158": {
-      "title": "Trace2Skill: Distill Trajectory-Local Lessons into Transferable Agent Skills",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "https://huggingface.co/papers/2603.24649": {
-      "title": "MedOpenClaw: Auditable Medical Imaging Agents Reasoning over Uncurated Full Studies",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "http://arxiv.org/abs/2603.26665v1": {
-      "title": "Detailed Geometry and Appearance from Opportunistic Motion",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "http://arxiv.org/abs/2603.26661v1": {
-      "title": "GaussianGPT: Towards Autoregressive 3D Gaussian Scene Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "http://arxiv.org/abs/2603.26658v1": {
-      "title": "Zero-Shot Depth from Defocus",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "http://arxiv.org/abs/2603.26657v1": {
-      "title": "Tunable Soft Equivariance with Guarantees",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
-    },
-    "http://arxiv.org/abs/2603.26653v1": {
-      "title": "PerceptionComp: A Video Benchmark for Complex Perception-Centric Reasoning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-03-31",
-      "lastSeen": "2026-03-31"
     },
     "https://huggingface.co/papers/2603.27027": {
       "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
@@ -6986,7 +6916,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-01",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2608.31046": {
       "title": "Does On-Policy Distillation Really Distill? From Noisy Teacher to Self-Improvement",
@@ -7469,7 +7399,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-11",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.10715": {
       "title": "NCP-ArchPreview Technical Report: Moving towards Latent Space Language Models through Next Concept Prediction",
@@ -7616,7 +7546,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-16",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.06986": {
       "title": "Continual Learning Mechanisms Compose for Long-Horizon Memorization",
@@ -7763,7 +7693,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.19969": {
       "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
@@ -7840,7 +7770,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.18323": {
       "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
@@ -7924,7 +7854,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.24972": {
       "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
@@ -8071,7 +8001,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.26780": {
       "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
@@ -8148,77 +8078,77 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.28654": {
       "title": "Training Object Permanence in World Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.29845": {
       "title": "Your Transformer Can Hold Two Thoughts at Once: Evidence of Linear Superposition in LLMs",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.30221": {
       "title": "WanPE: Towards Cinematic Prompt Enhancement for Modern Text-to-Video Generation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.23407": {
       "title": "OmniEcho: Spatial Audio Understanding for Embodied Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "https://huggingface.co/papers/2609.28416": {
       "title": "Agent-Editing World Model: Rethinking World Modeling for LLM Agents",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "http://arxiv.org/abs/2609.30249v1": {
       "title": "RAPID: Robot Agentic Programming from Demonstrations",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "http://arxiv.org/abs/2609.30247v1": {
       "title": "Rolling-WAM: World Action Models with Rolling Imagination",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "http://arxiv.org/abs/2609.30245v1": {
       "title": "Towards Practical Compression of 3D Gaussian Splatting",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "http://arxiv.org/abs/2609.30238v1": {
       "title": "SemMSA: Latent Semantic-Aided Robust Multimodal Sentiment Analysis with Incomplete Data",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     },
     "http://arxiv.org/abs/2609.30234v1": {
       "title": "OmniFabric: Coherent UV Space Texture Synthesis for 3D Garment Reconstruction",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
-      "lastSeen": "2026-09-27"
+      "lastSeen": "2026-09-28"
     }
   }
 }
