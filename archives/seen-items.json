@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-28",
+  "updatedAt": "2026-09-29",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -50,76 +50,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-03-27",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2603.27027": {
-      "title": "TAPS: Task Aware Proposal Distributions for Speculative Sampling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "https://huggingface.co/papers/2603.28589": {
-      "title": "Towards a Medical AI Scientist",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "https://huggingface.co/papers/2603.28767": {
-      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "https://huggingface.co/papers/2603.27771": {
-      "title": "Emergent Social Intelligence Risks in Generative Multi-Agent Systems",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "https://huggingface.co/papers/2603.27304": {
-      "title": "EpochX: Building the Infrastructure for an Emergent Agent Civilization",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "http://arxiv.org/abs/2603.28767v1": {
-      "title": "Gen-Searcher: Reinforcing Agentic Search for Image Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "http://arxiv.org/abs/2603.28766v1": {
-      "title": "HandX: Scaling Bimanual Motion and Interaction Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "http://arxiv.org/abs/2511.07732v2": {
-      "title": "ViPRA: Video Prediction for Robot Actions",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "http://arxiv.org/abs/2603.28763v1": {
-      "title": "PoseDreamer: Scalable and Photorealistic Human Data Generation Pipeline with Diffusion Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
-    },
-    "http://arxiv.org/abs/2603.28762v1": {
-      "title": "On-the-fly Repulsion in the Contextual Space for Rich Diversity in Diffusion Transformers",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-01"
     },
     "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough": {
       "title": "March 31, 2026 Building better AI benchmarks: How many raters are enough? Algorithms & Theory &#183; Machine Intelligence",
@@ -8149,6 +8079,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-09-26",
       "lastSeen": "2026-09-28"
+    },
+    "https://huggingface.co/papers/2609.31620": {
+      "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "https://huggingface.co/papers/2609.26333": {
+      "title": "Disaggregated Quantization: Specializing LLM Prefill and Decode",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "https://huggingface.co/papers/2609.18703": {
+      "title": "RayOrch: Programming and Executing Lineage-Controlled Multi-Grain Dataflows for Foundation-Model Data Preparation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "https://huggingface.co/papers/2609.31093": {
+      "title": "Block Sparse Attention with Log-Linear Complexity",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "https://huggingface.co/papers/2609.31394": {
+      "title": "InternW0-Δ: A World Action Model Bridging Predictive Dynamics and Actions with 20K+ Hours of Open Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "http://arxiv.org/abs/2609.31620v1": {
+      "title": "FuseReg: Regularizing Layer Fusion Mitigates the Reconstruction-Generation Gap in Representation Autoencoders",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "http://arxiv.org/abs/2609.31595v1": {
+      "title": "GraphWrit3R: End-to-End 3D Scene Graph Writing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "http://arxiv.org/abs/2602.06042v2": {
+      "title": "Pseudo-Invertible Neural Networks",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "http://arxiv.org/abs/2609.31573v1": {
+      "title": "How Far Can INRs Go? Cross-Domain Parameter-efficient INR-Based Semantic Segmentation for Brain MRI",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "http://arxiv.org/abs/2609.31572v1": {
+      "title": "OC-GS: Gaussian Splatting for Irregular Turntable Capture",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
+    },
+    "https://www.microsoft.com/en-us/research/blog/one-year-in-how-microsoft-research-asia-singapore-is-advancing-research-partnership-and-talent-for-real-world-impact": {
+      "title": "One year in: How Microsoft Research Asia – Singapore is advancing research, partnership and talent for real-world impact",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-09-29",
+      "lastSeen": "2026-09-29"
     }
   }
 }
