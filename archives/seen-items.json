@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-29",
+  "updatedAt": "2026-09-30",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-01",
       "lastSeen": "2026-04-13"
-    },
-    "https://huggingface.co/papers/2603.19835": {
-      "title": "FIPO: Eliciting Deep Reasoning with Future-KL Influenced Policy Optimization",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "https://huggingface.co/papers/2603.28032": {
-      "title": "CARLA-Air: Fly Drones Inside a CARLA World -- A Unified Infrastructure for Air-Ground Embodied Intelligence",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "https://huggingface.co/papers/2603.27538": {
-      "title": "LongCat-Next: Lexicalizing Modalities as Discrete Tokens",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "https://huggingface.co/papers/2603.25240": {
-      "title": "Lingshu-Cell: A generative cellular world model for transcriptome modeling toward virtual cells",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "https://huggingface.co/papers/2603.28088": {
-      "title": "GEMS: Agent-Native Multimodal Generation with Memory and Skills",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "http://arxiv.org/abs/2603.30045v1": {
-      "title": "OmniRoam: World Wandering via Long-Horizon Panoramic Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "http://arxiv.org/abs/2603.30043v1": {
-      "title": "Video Models Reason Early: Exploiting Plan Commitment for Maze Solving",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "http://arxiv.org/abs/2603.22387v2": {
-      "title": "Efficient Universal Perception Encoder",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "http://arxiv.org/abs/2603.30038v1": {
-      "title": "Benchmarking PhD-Level Coding in 3D Geometric Computer Vision",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
-    },
-    "http://arxiv.org/abs/2509.10969v2": {
-      "title": "Gaze Authentication: Factors Influencing Authentication Performance",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-02",
-      "lastSeen": "2026-04-02"
     },
     "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks": {
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
@@ -8156,6 +8086,90 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-29",
       "lastSeen": "2026-09-29"
+    },
+    "https://huggingface.co/papers/2609.29233": {
+      "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://huggingface.co/papers/2609.33757": {
+      "title": "YuE2: Unifying Symbolic and Audio Music Generation at Frontier Quality",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://huggingface.co/papers/2609.35347": {
+      "title": "Beyond Teacher Assignment: Domain-Normalized Multi-Teacher On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://huggingface.co/papers/2609.32577": {
+      "title": "Groupwise Agentic Grading and Advantage Redistribution for Code Agent RL",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://huggingface.co/papers/2609.35432": {
+      "title": "Self-Evolving Coding Agents: From Digital Programs to Physical-World Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "http://arxiv.org/abs/2609.35770v1": {
+      "title": "FurE: Efficient Instance-Specific 3D Fur Reconstruction without Animal-Fur Datasets",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "http://arxiv.org/abs/2609.35768v1": {
+      "title": "PDMD: Projected Distribution Matching Distillation for Video Diffusion Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "http://arxiv.org/abs/2609.35767v1": {
+      "title": "Learning Native Reflection in Unified Models with Interleaved Reinforcement Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "http://arxiv.org/abs/2609.35764v1": {
+      "title": "Reliability-Gated Fusion of Consumer Head and Foot IMUs for Lower-Body 3D Pose",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "http://arxiv.org/abs/2608.23943v2": {
+      "title": "Luce: Relightable Gaussians for 3D Asset Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://research.google/blog/how-diffusion-controller-unifies-and-simplifies-ai-image-generation": {
+      "title": "September 29, 2026 How Diffusion Controller unifies and simplifies AI image generation Algorithms & Theory &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
+    },
+    "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
+      "title": "Introducing Quine: An AI research system designed for the complexity of biology",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-09-30",
+      "lastSeen": "2026-09-30"
     }
   }
 }
