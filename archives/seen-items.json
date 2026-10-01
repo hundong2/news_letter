@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-09-30",
+  "updatedAt": "2026-10-01",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,76 +71,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
       "lastSeen": "2026-05-05"
-    },
-    "https://huggingface.co/papers/2603.24414": {
-      "title": "ClawKeeper: Comprehensive Safety Protection for OpenClaw Agents Through Skills, Plugins, and Watchers",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "https://huggingface.co/papers/2604.00073": {
-      "title": "Terminal Agents Suffice for Enterprise Automation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "https://huggingface.co/papers/2603.28407": {
-      "title": "MiroEval: Benchmarking Multimodal Deep Research Agents in Process and Outcome",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "https://huggingface.co/papers/2603.25823": {
-      "title": "ViGoR-Bench: How Far Are Visual Generative Models From Zero-Shot Visual Reasoners?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "https://huggingface.co/papers/2603.26648": {
-      "title": "Vision2Web: A Hierarchical Benchmark for Visual Website Development with Agent Verification",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "http://arxiv.org/abs/2604.01221v1": {
-      "title": "HippoCamp: Benchmarking Contextual Agents on Personal Computers",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "http://arxiv.org/abs/2604.01216v1": {
-      "title": "LAtent Phase Inference from Short time sequences using SHallow REcurrent Decoders (LAPIS-SHRED)",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "http://arxiv.org/abs/2604.01207v1": {
-      "title": "TRACE: High-Fidelity 3D Scene Editing via Tangible Reconstruction and Geometry-Aligned Contextual Video Masking",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "http://arxiv.org/abs/2604.01204v1": {
-      "title": "Neural Harmonic Textures for High-Quality Primitive Based Neural Reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
-    },
-    "http://arxiv.org/abs/2603.17219v2": {
-      "title": "SA-CycleGAN-2.5D: Self-Attention CycleGAN with Tri-Planar Context for Multi-Site MRI Harmonization",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-03",
-      "lastSeen": "2026-04-03"
     },
     "https://huggingface.co/papers/2603.26164": {
       "title": "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models",
@@ -8170,6 +8100,83 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-30",
       "lastSeen": "2026-09-30"
+    },
+    "https://huggingface.co/papers/2609.33439": {
+      "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "https://huggingface.co/papers/2609.36012": {
+      "title": "In-Context Learning for Robots: Methods and Applications",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "https://huggingface.co/papers/2609.34309": {
+      "title": "MaLiang-Harness: A Programmable Path to Image and Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "https://huggingface.co/papers/2609.32722": {
+      "title": "Scaling Properties of Same-Family On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "https://huggingface.co/papers/2609.31847": {
+      "title": "Omni-IO Skills: Harnessing Your Agent Omni-Native",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "http://arxiv.org/abs/1806.11314v3": {
+      "title": "Hyperspectral Image Dataset for Benchmarking on Salient Object Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "http://arxiv.org/abs/2606.09028v2": {
+      "title": "ATM: Why Latent World Models Can Fail to Plan",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "http://arxiv.org/abs/2609.39195v1": {
+      "title": "Uruqi: Learning Spatial Cognition from Visual Experience",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "http://arxiv.org/abs/2609.39184v1": {
+      "title": "Fiber-Resolved Microstructure Quantification from Multi-Shell Diffusion MRI using Detection Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "http://arxiv.org/abs/2609.39183v1": {
+      "title": "Aligning Thoughts with Answers: Probability Rewards to Tame Thinking Drift",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
+    },
+    "https://www.microsoft.com/en-us/research/blog/forecasting-space-weather-risks-on-power-grids": {
+      "title": "Forecasting space weather risks on power grids",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-10-01",
+      "lastSeen": "2026-10-01"
     }
   }
 }
