@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-01",
+  "updatedAt": "2026-10-02",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -99,13 +99,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-04",
       "lastSeen": "2026-04-06"
-    },
-    "https://huggingface.co/papers/2604.01001": {
-      "title": "EgoSim: Egocentric World Simulator for Embodied Interaction Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-04"
     },
     "http://arxiv.org/abs/2604.02331v1": {
       "title": "EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors",
@@ -8177,6 +8170,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-01",
       "lastSeen": "2026-10-01"
+    },
+    "https://huggingface.co/papers/2609.36484": {
+      "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "https://huggingface.co/papers/2609.34563": {
+      "title": "Rethinking Latent Visual Reasoning: Grounding Latent Reasoning in Visual Evidence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "https://huggingface.co/papers/2609.38721": {
+      "title": "UniEvo-VL: An On-policy Self-Distillation Training Recipe for Multimodal Model Self-improvement",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "https://huggingface.co/papers/2609.39102": {
+      "title": "False Frontiers: Diagnosing and Mitigating Co-Cheating in Self-Evolving Search Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "https://huggingface.co/papers/2609.38288": {
+      "title": "AREX-2: Advancing Self-Improving Agents through Long-Horizon Reflective Tasks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "http://arxiv.org/abs/2609.40362v1": {
+      "title": "Multimodal Flow: Unified Flow Modeling of Language and Vision in Embedding Spaces",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "http://arxiv.org/abs/2609.40361v1": {
+      "title": "Ranking-Aware Prompt Optimization for Multimodal Clinical Diagnosis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "http://arxiv.org/abs/2609.40358v1": {
+      "title": "Physis-Lang: Self-Evolving Language as a Physical Representation for Video World Model",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "http://arxiv.org/abs/2609.40356v1": {
+      "title": "ViTeX-Bench: Benchmarking High-Fidelity Video Scene Text Editing",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
+    },
+    "http://arxiv.org/abs/2609.40353v1": {
+      "title": "AssemblyWorld: Rethinking 3D Assembly with General-Purpose Agents",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-02",
+      "lastSeen": "2026-10-02"
     }
   }
 }
