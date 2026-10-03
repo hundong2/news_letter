@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-02",
+  "updatedAt": "2026-10-03",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8240,6 +8240,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-02",
       "lastSeen": "2026-10-02"
+    },
+    "https://huggingface.co/papers/2610.01762": {
+      "title": "OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "https://huggingface.co/papers/2609.37200": {
+      "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "https://huggingface.co/papers/2609.35259": {
+      "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "https://huggingface.co/papers/2610.01415": {
+      "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "https://huggingface.co/papers/2610.02193": {
+      "title": "Hierarchical Continuous Diffusion Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "http://arxiv.org/abs/2610.02210v1": {
+      "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "http://arxiv.org/abs/2610.02208v1": {
+      "title": "Sphere Encoder 2",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "http://arxiv.org/abs/2610.02207v1": {
+      "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "http://arxiv.org/abs/2610.02205v1": {
+      "title": "ROWBench: Do Video Models Render What the Program Specifies?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "http://arxiv.org/abs/2610.02203v1": {
+      "title": "Embedding Prediction Helps Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
+    },
+    "https://research.google/blog/toward-provably-private-learning-from-federated-data": {
+      "title": "October 2, 2026 Toward provably private learning from federated data Mobile Systems &#183; Security, Privacy and Abuse Prevention &#183; Software Systems & Engineering",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-10-03",
+      "lastSeen": "2026-10-03"
     }
   }
 }
