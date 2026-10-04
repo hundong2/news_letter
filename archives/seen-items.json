@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-03",
+  "updatedAt": "2026-10-04",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -22,20 +22,6 @@
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
       "lastSeen": "2026-09-15"
-    },
-    "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression": {
-      "title": "March 24, 2026 TurboQuant: Redefining AI efficiency with extreme compression Algorithms & Theory &#183; Generative AI &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-25",
-      "lastSeen": "2026-04-06"
-    },
-    "https://research.google/blog/vibe-coding-xr-accelerating-ai-xr-prototyping-with-xr-blocks-and-gemini": {
-      "title": "March 25, 2026 Vibe Coding XR: Accelerating AI + XR prototyping with XR Blocks and Gemini Human-Computer Interaction and Visualization &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-03-26",
-      "lastSeen": "2026-04-06"
     },
     "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
       "title": "AsgardBench: A benchmark for visually grounded interactive planning",
@@ -72,82 +58,12 @@
       "firstSeen": "2026-04-02",
       "lastSeen": "2026-05-05"
     },
-    "https://huggingface.co/papers/2603.26164": {
-      "title": "DataFlex: A Unified Framework for Data-Centric Dynamic Training of Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "https://huggingface.co/papers/2604.02029": {
-      "title": "The Latent Space: Foundation, Evolution, Mechanism, Ability, and Outlook",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "https://huggingface.co/papers/2604.02329": {
-      "title": "Generative World Renderer",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "https://huggingface.co/papers/2604.02268": {
-      "title": "SKILL0: In-Context Agentic Reinforcement Learning for Skill Internalization",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "http://arxiv.org/abs/2604.02331v1": {
-      "title": "EventHub: Data Factory for Generalizable Event-Based Stereo Networks without Active Sensors",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "http://arxiv.org/abs/2604.02330v1": {
-      "title": "ActionParty: Multi-Subject Action Binding in Generative Video Games",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "http://arxiv.org/abs/2601.14674v2": {
-      "title": "LaVR: Scene Latent Conditioned Generative Video Trajectory Re-Rendering using Large 4D Reconstruction Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "http://arxiv.org/abs/2604.02329v1": {
-      "title": "Generative World Renderer",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
-    "http://arxiv.org/abs/2604.02328v1": {
-      "title": "Modulate-and-Map: Crossmodal Feature Mapping with Cross-View Modulation for 3D Anomaly Detection",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-06"
-    },
     "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms": {
       "title": "April 3, 2026 Evaluating alignment of behavioral dispositions in LLMs Generative AI &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-04",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.02327": {
-      "title": "Steerable Visual Representations",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-05",
-      "lastSeen": "2026-04-06"
     },
     "https://huggingface.co/papers/2604.03128": {
       "title": "Self-Distilled RLVR",
@@ -7476,7 +7392,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.19969": {
       "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
@@ -7553,7 +7469,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.18323": {
       "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
@@ -7861,7 +7777,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.28654": {
       "title": "Training Object Permanence in World Models",
@@ -8008,7 +7924,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-09-29"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.29233": {
       "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
@@ -8085,14 +8001,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-09-30"
+      "lastSeen": "2026-10-04"
     },
     "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-09-30"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.33439": {
       "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
@@ -8169,7 +8085,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-01"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.36484": {
       "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
@@ -8246,21 +8162,21 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.37200": {
       "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2609.35259": {
       "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "https://huggingface.co/papers/2610.01415": {
       "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
@@ -8274,49 +8190,56 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "http://arxiv.org/abs/2610.02210v1": {
       "title": "Moore, Escher, Penrose: A Conformal Golden Braid",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "http://arxiv.org/abs/2610.02208v1": {
       "title": "Sphere Encoder 2",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "http://arxiv.org/abs/2610.02207v1": {
       "title": "One Basis to Animate Them All: Gaussian Blendshape Distillation for Real-Time Avatars",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "http://arxiv.org/abs/2610.02205v1": {
       "title": "ROWBench: Do Video Models Render What the Program Specifies?",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "http://arxiv.org/abs/2610.02203v1": {
       "title": "Embedding Prediction Helps Image Generation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
     },
     "https://research.google/blog/toward-provably-private-learning-from-federated-data": {
       "title": "October 2, 2026 Toward provably private learning from federated data Mobile Systems &#183; Security, Privacy and Abuse Prevention &#183; Software Systems & Engineering",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-03"
+      "lastSeen": "2026-10-04"
+    },
+    "https://huggingface.co/papers/2609.38923": {
+      "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-04",
+      "lastSeen": "2026-10-04"
     }
   }
 }
