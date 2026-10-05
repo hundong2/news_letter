@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-04",
+  "updatedAt": "2026-10-05",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -14,14 +14,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-09-15"
+      "lastSeen": "2026-10-05"
     },
     "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
       "title": "AsgardBench: A benchmark for visually grounded interactive planning",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-04",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.03128": {
-      "title": "Self-Distilled RLVR",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "https://huggingface.co/papers/2604.02317": {
-      "title": "A Simple Baseline for Streaming Video Understanding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "https://huggingface.co/papers/2604.02870": {
-      "title": "Token Warping Helps MLLMs Look from Nearby Viewpoints",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "https://huggingface.co/papers/2604.03016": {
-      "title": "Agentic-MME: What Agentic Capability Really Brings to Multimodal Intelligence?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "https://huggingface.co/papers/2604.01411": {
-      "title": "Test-Time Scaling Makes Overtraining Compute-Optimal",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "http://arxiv.org/abs/2604.03231v1": {
-      "title": "CoME-VL: Scaling Complementary Multi-Encoder Vision-Language Learning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "http://arxiv.org/abs/2604.03225v1": {
-      "title": "VOSR: A Vision-Only Generative Model for Image Super-Resolution",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "http://arxiv.org/abs/2604.03224v1": {
-      "title": "HyperCT: Low-Rank Hypernet for Unified Chest CT Analysis",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "http://arxiv.org/abs/2512.00129v2": {
-      "title": "Analysis of Invasive Breast Cancer in Mammograms Using YOLO, Explainability, and Domain Adaptation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
-    },
-    "http://arxiv.org/abs/2604.03212v1": {
-      "title": "ProtoFlow: Mitigating Forgetting in Class-Incremental Remote Sensing Segmentation via Low-Curvature Prototype Flow",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-07",
-      "lastSeen": "2026-04-07"
     },
     "https://huggingface.co/papers/2604.04707": {
       "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
@@ -7392,7 +7322,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-18",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.19969": {
       "title": "DeepSeek-V4.1-Flash: Pushing the Limits of KV Cache Compression",
@@ -7469,7 +7399,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-19",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.18323": {
       "title": "Can MiniMax-H3 Reason About the Physical World? An Evaluation of Omni-Modal Generative Model",
@@ -7553,7 +7483,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-22",
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.24972": {
       "title": "RRSI: Regularized Recursive Self-Improvement of Agent Harnesses",
@@ -7700,7 +7630,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-09-28"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.26780": {
       "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
@@ -7777,7 +7707,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-25",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.28654": {
       "title": "Training Object Permanence in World Models",
@@ -7924,7 +7854,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.29233": {
       "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
@@ -8001,14 +7931,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.33439": {
       "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
@@ -8085,7 +8015,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.36484": {
       "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
@@ -8162,21 +8092,21 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.37200": {
       "title": "Adaptive Reward Routing: Dynamic Multi-Reward Optimization for Joint Audio-Video Diffusion via Forward-Process RL",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.35259": {
       "title": "On-Policy or Off-Policy Learning? A Systematic Study of Distillation Dynamics",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2610.01415": {
       "title": "Beyond Memory: Harnessing Long-Horizon Agents with Explicit Belief States",
@@ -8232,14 +8162,21 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
     },
     "https://huggingface.co/papers/2609.38923": {
       "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-04",
-      "lastSeen": "2026-10-04"
+      "lastSeen": "2026-10-05"
+    },
+    "https://huggingface.co/papers/2610.00314": {
+      "title": "Predictive Credit: Measuring What Scientific Explanations Add to Experimental Forecasts",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-05",
+      "lastSeen": "2026-10-05"
     }
   }
 }
