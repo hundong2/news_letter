@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-05",
+  "updatedAt": "2026-10-06",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-04",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.04707": {
-      "title": "OpenWorldLib: A Unified Codebase and Definition of Advanced World Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "https://huggingface.co/papers/2604.04771": {
-      "title": "MinerU2.5-Pro: Pushing the Limits of Data-Centric Document Parsing at Scale",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "https://huggingface.co/papers/2603.28301": {
-      "title": "LIBERO-Para: A Diagnostic Benchmark and Metrics for Paraphrase Robustness in VLA Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "https://huggingface.co/papers/2604.04921": {
-      "title": "TriAttention: Efficient Long Reasoning with Trigonometric KV Compression",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "https://huggingface.co/papers/2604.02176": {
-      "title": "Adam's Law: Textual Frequency Law on Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "http://arxiv.org/abs/2604.04934v1": {
-      "title": "Vanast: Virtual Try-On with Human Image Animation via Synthetic Triplet Supervision",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "http://arxiv.org/abs/2604.04933v1": {
-      "title": "PointTPA: Dynamic Network Parameter Adaptation for 3D Scene Understanding",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "http://arxiv.org/abs/2604.04931v1": {
-      "title": "LoMa: Local Feature Matching Revisited",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "http://arxiv.org/abs/2604.04929v1": {
-      "title": "Rethinking Model Efficiency: Multi-Agent Inference with Large Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
-    },
-    "http://arxiv.org/abs/2603.27158v2": {
-      "title": "Weakly Convex Ridge Regularization for 3D Non-Cartesian MRI Reconstruction",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-08",
-      "lastSeen": "2026-04-08"
     },
     "https://huggingface.co/papers/2604.05015": {
       "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
@@ -8177,6 +8107,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-05",
       "lastSeen": "2026-10-05"
+    },
+    "https://huggingface.co/papers/2610.01780": {
+      "title": "RealCompanion: Benchmarking Human Understanding from Reasoning over Longitudinal Real-World Conversations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "https://huggingface.co/papers/2609.38879": {
+      "title": "Does Learning Protein Folding Generalize to Broader Reasoning?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "https://huggingface.co/papers/2609.38839": {
+      "title": "FrameMorrow: Future-guided Frame Selection with Prospective Tokens for Long-Horizon Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "https://huggingface.co/papers/2609.38078": {
+      "title": "MotorMind: Scaffolding General Vision Language Models for Zero-Shot Robot Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "https://huggingface.co/papers/2610.02826": {
+      "title": "Scaling Trajectories for Complex Tasks through Recursive Self-Rewrite",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "http://arxiv.org/abs/2610.03717v1": {
+      "title": "Less Decoder is More Encoder: Geometric Representation Learning from Novel View Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "http://arxiv.org/abs/2610.03716v1": {
+      "title": "MoSE3: Learning World-Space SE(3) at Every Pixel",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "http://arxiv.org/abs/2610.03715v1": {
+      "title": "4DCodeBench: Benchmarking Agents on Inverse Graphics of Dynamic Scenes",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "http://arxiv.org/abs/2610.03713v1": {
+      "title": "What Should World Models Forget? Stratified Retention for Continual Adaptation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "http://arxiv.org/abs/2607.15065v3": {
+      "title": "DriftWorld: Fast World Modeling through Drifting",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
+    },
+    "https://research.google/blog/open-and-emergent-problems-in-agentic-privacy-and-security-a-contextual-angle": {
+      "title": "October 5, 2026 Open and Emergent Problems in Agentic Privacy and Security: A Contextual Angle Education Innovation &#183; General Science &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-10-06",
+      "lastSeen": "2026-10-06"
     }
   }
 }
