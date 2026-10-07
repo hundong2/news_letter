@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-06",
+  "updatedAt": "2026-10-07",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-04",
       "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.05015": {
-      "title": "Video-MME-v2: Towards the Next Stage in Benchmarks for Comprehensive Video Understanding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "https://huggingface.co/papers/2604.06132": {
-      "title": "Claw-Eval: Toward Trustworthy Evaluation of Autonomous Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "https://huggingface.co/papers/2604.04949": {
-      "title": "Learning to Retrieve from Agent Trajectories",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "https://huggingface.co/papers/2604.03922": {
-      "title": "ACES: Who Tests the Tests? Leave-One-Out AUC Consistency for Code Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "https://huggingface.co/papers/2604.02648": {
-      "title": "GBQA: A Game Benchmark for Evaluating LLMs as Quality Assurance Engineers",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "http://arxiv.org/abs/2604.06168v1": {
-      "title": "Action Images: End-to-End Policy Learning via Multiview Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "http://arxiv.org/abs/2604.06165v1": {
-      "title": "HaloProbe: Bayesian Detection and Mitigation of Object Hallucinations in Vision-Language Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "http://arxiv.org/abs/2407.14971v3": {
-      "title": "Sim-CLIP: Unsupervised Siamese Adversarial Fine-Tuning for Robust and Semantically-Rich Vision-Language Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "http://arxiv.org/abs/2604.06161v1": {
-      "title": "DiffHDR: Re-Exposing LDR Videos with Video Diffusion Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
-    },
-    "http://arxiv.org/abs/2604.06160v1": {
-      "title": "The Character Error Vector: Decomposable errors for page-level OCR evaluation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-09",
-      "lastSeen": "2026-04-09"
     },
     "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review": {
       "title": "April 8, 2026 Improving the academic workflow: Introducing two AI agents for better figures and peer review Generative AI &#183; Natural Language Processing",
@@ -8184,6 +8114,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-06",
       "lastSeen": "2026-10-06"
+    },
+    "https://huggingface.co/papers/2610.05608": {
+      "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "https://huggingface.co/papers/2610.04198": {
+      "title": "ALoDLM: Adaptively Looped Diffusion Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "https://huggingface.co/papers/2610.03120": {
+      "title": "In-Distribution Forcing for Long Video Generation at Test Time",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "https://huggingface.co/papers/2610.05162": {
+      "title": "Memadapter: Counterfactual Adaptation Against Memory-induced Sycophancy",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "https://huggingface.co/papers/2610.04292": {
+      "title": "LMBuild: Evaluating LLM Agents for Generating Buildable and Functional Structures",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "http://arxiv.org/abs/2512.05117v3": {
+      "title": "The Universal Weight Subspace Hypothesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "http://arxiv.org/abs/2610.06852v1": {
+      "title": "One Figure, Every Canvas: Editable Flowchart Relayout via Agentic Pipeline",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "http://arxiv.org/abs/2610.06850v1": {
+      "title": "InterMimicGen: Scaling Humanoid Loco-Manipulation through Self-Evolving Motion Imitation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "http://arxiv.org/abs/2610.06847v1": {
+      "title": "S2PD: Serial-to-Parallel Diffusion for Physically and Logically Consistent Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "http://arxiv.org/abs/2610.06844v1": {
+      "title": "Learning to Read the Contextual Tokens in Diffusion Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
+    },
+    "https://research.google/blog/earth-ais-planetary-geospatial-foundation-models-for-global-public-health": {
+      "title": "October 6, 2026 Unlocking Earth AI’s planetary geospatial foundation models for global public health Earth AI &#183; Global &#183; Health & Bioscience",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-10-07",
+      "lastSeen": "2026-10-07"
     }
   }
 }
