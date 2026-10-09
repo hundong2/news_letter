@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-08",
+  "updatedAt": "2026-10-09",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8205,6 +8205,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-08",
       "lastSeen": "2026-10-08"
+    },
+    "https://huggingface.co/papers/2609.38169": {
+      "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "https://huggingface.co/papers/2610.10528": {
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "https://huggingface.co/papers/2610.08699": {
+      "title": "nanoMuse: An Open-Source Personal Agent for Every Device You Own",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "https://huggingface.co/papers/2610.08621": {
+      "title": "Recursive Game Creator: An Agentic Product-Level Experience-Oriented Game Harness",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "https://huggingface.co/papers/2610.07967": {
+      "title": "DecepEval: A Benchmark for Evaluating Deception in LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "http://arxiv.org/abs/2610.10539v1": {
+      "title": "Tetris3D: 3D Scene Generation With Objects That Fit Together",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "http://arxiv.org/abs/2610.10538v1": {
+      "title": "Never Look Back: Understanding Persistence in 3D Object Memory from Egocentric Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "http://arxiv.org/abs/2609.35965v2": {
+      "title": "Systematic Multi-Agent Vision-and-Language Navigation: Formulation, Benchmark, and Method",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "http://arxiv.org/abs/2610.10528v1": {
+      "title": "Long-WAM: Scaling the Context of World-Action Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
+    },
+    "http://arxiv.org/abs/2610.10524v1": {
+      "title": "GRACE: Generation-aware latent compression for efficient video generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-09",
+      "lastSeen": "2026-10-09"
     }
   }
 }
