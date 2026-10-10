@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-09",
+  "updatedAt": "2026-10-10",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -120,41 +120,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-11",
       "lastSeen": "2026-04-13"
-    },
-    "http://arxiv.org/abs/2604.08547v1": {
-      "title": "GaussiAnimate: Reconstruct and Rig Animatable Categories with Level of Dynamics",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
-    },
-    "http://arxiv.org/abs/2604.08548v1": {
-      "title": "ETCH-X: Robustify Expressive Body Fitting to Clothed Humans with Composable Datasets",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
-    },
-    "http://arxiv.org/abs/2604.08546v1": {
-      "title": "When Numbers Speak: Aligning Textual Numerals and Visual Instances in Text-to-Video Diffusion Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
-    },
-    "http://arxiv.org/abs/2604.08545v1": {
-      "title": "Act Wisely: Cultivating Meta-Cognitive Tool Use in Agentic Multimodal Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
-    },
-    "http://arxiv.org/abs/2604.08544v1": {
-      "title": "SIM1: Physics-Aligned Simulator as Zero-Shot Data Scaler in Deformable Worlds",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-11",
-      "lastSeen": "2026-04-12"
     },
     "https://huggingface.co/papers/2604.08626": {
       "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
@@ -8275,6 +8240,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-09",
       "lastSeen": "2026-10-09"
+    },
+    "https://huggingface.co/papers/2610.12374": {
+      "title": "AgentGarten: Code Worlds for Evolving Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "https://huggingface.co/papers/2610.12242": {
+      "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "https://huggingface.co/papers/2610.06100": {
+      "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "https://huggingface.co/papers/2610.08215": {
+      "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "https://huggingface.co/papers/2610.12126": {
+      "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "http://arxiv.org/abs/2610.12470v1": {
+      "title": "Dex-One2Many: Learning Dexterous Manipulation from a Single Human Demonstration",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "http://arxiv.org/abs/2610.12469v1": {
+      "title": "Rubric-CEPR: Self-Evolving Image Editing via Reward-Verified Self-Distillation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "http://arxiv.org/abs/2610.12468v1": {
+      "title": "DreamTrue: Action-Faithful Robot World Model with Counterfactual Post-Training",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "http://arxiv.org/abs/2610.12464v1": {
+      "title": "What 30,000 Hours of Ego-centric Video Does Not Teach",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
+    },
+    "http://arxiv.org/abs/2610.12461v1": {
+      "title": "OuroWorld: Bringing Any 3D World Alive as Diverse, Endlessly Looping 3D Cinemagraphs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-10",
+      "lastSeen": "2026-10-10"
     }
   }
 }
