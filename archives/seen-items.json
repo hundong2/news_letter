@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-11",
+  "updatedAt": "2026-10-12",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -14,14 +14,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
       "title": "AsgardBench: A benchmark for visually grounded interactive planning",
@@ -78,76 +78,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-10",
       "lastSeen": "2026-05-08"
-    },
-    "https://huggingface.co/papers/2604.08626": {
-      "title": "WildDet3D: Scaling Promptable 3D Detection in the Wild",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "https://huggingface.co/papers/2604.07413": {
-      "title": "FORGE:Fine-grained Multimodal Evaluation for Manufacturing Scenarios",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "https://huggingface.co/papers/2604.06870": {
-      "title": "RefineAnything: Multimodal Region-Specific Refinement for Perfect Local Details",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "https://huggingface.co/papers/2604.08644": {
-      "title": "EXAONE 4.5 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "https://huggingface.co/papers/2604.08995": {
-      "title": "Matrix-Game 3.0: Real-Time and Streaming Interactive World Model with Long-Horizon Memory",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "http://arxiv.org/abs/2604.09547v1": {
-      "title": "Tango: Taming Visual Signals for Efficient Video Large Language Models",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "http://arxiv.org/abs/2604.08538v2": {
-      "title": "ParseBench: A Document Parsing Benchmark for AI Agents",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "http://arxiv.org/abs/2604.09535v1": {
-      "title": "EgoTL: Egocentric Think-Aloud Chains for Long-Horizon Tasks",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "http://arxiv.org/abs/2604.09532v1": {
-      "title": "Seeing is Believing: Robust Vision-Guided Cross-Modal Prompt Learning under Label Noise",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
-    },
-    "http://arxiv.org/abs/2604.09531v1": {
-      "title": "VisionFoundry: Teaching VLMs Visual Perception with Synthetic Images",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-14"
     },
     "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai": {
       "title": "April 13, 2026 Towards developing future-ready skills with generative AI Education Innovation &#183; Generative AI",
@@ -7343,7 +7273,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-24",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.26780": {
       "title": "SpeakerMem-R1: Speaker-Centered Dual-Track Memory for Multi-Party Dialogue",
@@ -7567,7 +7497,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-29",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.29233": {
       "title": "Post-Training Leaves Behavioral Shadows on Unrelated Decisions",
@@ -7644,14 +7574,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.33439": {
       "title": "Raven: The Harness of Harnesses for Composable Agentic Intelligence",
@@ -7728,7 +7658,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.36484": {
       "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
@@ -7875,7 +7805,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.38923": {
       "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
@@ -7966,7 +7896,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.05608": {
       "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
@@ -8043,7 +7973,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.08448": {
       "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
@@ -8120,14 +8050,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses": {
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2609.38169": {
       "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
@@ -8204,28 +8134,28 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.12242": {
       "title": "TokenRouter: Efficient Serving System for Token-Level LLM Routing",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.06100": {
       "title": "From Traces to Agentic Worlds: Agentic Language World Models for Interactive Environment Simulation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.08215": {
       "title": "Learn2Play Bench: How Well Do LLM Agents Learn from Experience in Unfamiliar Environments?",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-10",
-      "lastSeen": "2026-10-11"
+      "lastSeen": "2026-10-12"
     },
     "https://huggingface.co/papers/2610.12126": {
       "title": "SuperNav: An Agentic Navigation System for Any Task in Any Scene",
@@ -8268,6 +8198,13 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-10",
       "lastSeen": "2026-10-10"
+    },
+    "https://huggingface.co/papers/2610.11959": {
+      "title": "MiMo-V2.6: Scaling Reinforcement Learning Towards Self-Improvement",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-12",
+      "lastSeen": "2026-10-12"
     }
   }
 }
