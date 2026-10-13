@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-12",
+  "updatedAt": "2026-10-13",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -85,76 +85,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-14",
       "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.08570": {
-      "title": "QuanBench+: A Unified Multi-Framework Benchmark for LLM-Based Quantum Code Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "https://huggingface.co/papers/2604.11297": {
-      "title": "The Past Is Not Past: Memory-Enhanced Dynamic Reward Shaping",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "https://huggingface.co/papers/2604.11804": {
-      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "https://huggingface.co/papers/2604.10098": {
-      "title": "Attention Sink in Transformers: A Survey on Utilization, Interpretation, and Mitigation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "https://huggingface.co/papers/2604.09132": {
-      "title": "Strips as Tokens: Artist Mesh Generation with Native UV Segmentation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "http://arxiv.org/abs/2604.11809v1": {
-      "title": "Who Handles Orientation? Investigating Invariance in Feature Matching",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "http://arxiv.org/abs/2604.11808v1": {
-      "title": "Pair2Scene: Learning Local Object Relations for Procedural Scene Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "http://arxiv.org/abs/2604.11805v1": {
-      "title": "Solving Physics Olympiad via Reinforcement Learning on Physics Simulators",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "http://arxiv.org/abs/2604.11804v1": {
-      "title": "OmniShow: Unifying Multimodal Conditions for Human-Object Interaction Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
-    },
-    "http://arxiv.org/abs/2604.11798v1": {
-      "title": "Budget-Aware Uncertainty for Radiotherapy Segmentation QA Using nnU-Net",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-15",
-      "lastSeen": "2026-04-15"
     },
     "https://huggingface.co/papers/2604.11784": {
       "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
@@ -8205,6 +8135,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-12",
       "lastSeen": "2026-10-12"
+    },
+    "https://huggingface.co/papers/2610.12572": {
+      "title": "DiffusionART: Efficient, Stable and Scalable Reinforcement of Diffusion Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "https://huggingface.co/papers/2610.13527": {
+      "title": "S-Space: Exploring Spatial Workspace in Multimodal Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "https://huggingface.co/papers/2610.12772": {
+      "title": "Reflex: Visually Grounded Reactive Humanoid Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "https://huggingface.co/papers/2610.12611": {
+      "title": "SoftwareGym: Scaling Computer-Use Agent Training with Diverse Synthesized Software Environments",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "https://huggingface.co/papers/2610.13021": {
+      "title": "EmbodiedCLBench: Evaluating Continual Learning for Self-Evolving Embodied Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "http://arxiv.org/abs/2610.13947v1": {
+      "title": "Towards Physically Grounded Articulated 3D Assets: A Multi-Agent Pipeline and Benchmark",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "http://arxiv.org/abs/2610.13945v1": {
+      "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "http://arxiv.org/abs/2610.13944v1": {
+      "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "http://arxiv.org/abs/2610.13941v1": {
+      "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "http://arxiv.org/abs/2610.03220v2": {
+      "title": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
+    },
+    "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring": {
+      "title": "Simulating student learning for better AI tutoring",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-10-13",
+      "lastSeen": "2026-10-13"
     }
   }
 }
