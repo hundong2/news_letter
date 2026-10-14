@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-13",
+  "updatedAt": "2026-10-14",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -30,33 +30,12 @@
       "firstSeen": "2026-03-27",
       "lastSeen": "2026-04-29"
     },
-    "https://www.microsoft.com/en-us/research/blog/groundedplanbench-spatially-grounded-long-horizon-task-planning-for-robot-manipulation": {
-      "title": "GroundedPlanBench: Spatially grounded long-horizon task planning for robot manipulation",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-16"
-    },
-    "https://research.google/blog/building-better-ai-benchmarks-how-many-raters-are-enough": {
-      "title": "March 31, 2026 Building better AI benchmarks: How many raters are enough? Algorithms & Theory &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-04-01",
-      "lastSeen": "2026-04-16"
-    },
     "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks": {
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-02",
       "lastSeen": "2026-05-05"
-    },
-    "https://research.google/blog/evaluating-alignment-of-behavioral-dispositions-in-llms": {
-      "title": "April 3, 2026 Evaluating alignment of behavioral dispositions in LLMs Generative AI &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-04-04",
-      "lastSeen": "2026-04-16"
     },
     "https://research.google/blog/improving-the-academic-workflow-introducing-two-ai-agents-for-better-figures-and-peer-review": {
       "title": "April 8, 2026 Improving the academic workflow: Introducing two AI agents for better figures and peer review Generative AI &#183; Natural Language Processing",
@@ -85,41 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-14",
       "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.11784": {
-      "title": "ClawGUI: A Unified Framework for Training, Evaluating, and Deploying GUI Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-16",
-      "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.12627": {
-      "title": "KnowRL: Boosting LLM Reasoning via Reinforcement Learning with Minimal-Sufficient Knowledge Guidance",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-16",
-      "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.13016": {
-      "title": "Rethinking On-Policy Distillation of Large Language Models: Phenomenology, Mechanism, and Recipe",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-16",
-      "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.09574": {
-      "title": "Turing Test on Screen: A Benchmark for Mobile GUI Agent Humanization",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-16",
-      "lastSeen": "2026-04-16"
-    },
-    "https://huggingface.co/papers/2604.08865": {
-      "title": "SPPO: Sequence-Level PPO for Long-Horizon Reasoning Tasks",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-16",
-      "lastSeen": "2026-04-16"
     },
     "https://huggingface.co/papers/2604.14148": {
       "title": "Seedance 2.0: Advancing Video Generation for World Complexity",
@@ -7504,7 +7448,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-09-30",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://www.microsoft.com/en-us/research/blog/introducing-quine-an-ai-research-system-designed-for-the-complexity-of-biology": {
       "title": "Introducing Quine: An AI research system designed for the complexity of biology",
@@ -7588,7 +7532,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-01",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://huggingface.co/papers/2609.36484": {
       "title": "The Teacher Is a Direction, Not a Destination: Extrapolating RL-Induced Representation Residuals in On-Policy Distillation",
@@ -7735,7 +7679,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-03",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://huggingface.co/papers/2609.38923": {
       "title": "GraphForge: Training Working Agents with Graph-Anchored Workspace Synthesis",
@@ -7826,7 +7770,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-06",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://huggingface.co/papers/2610.05608": {
       "title": "Kandinsky 6.0 Video: Foundation Models for Synchronized Video and Audio Generation",
@@ -7903,7 +7847,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-07",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://huggingface.co/papers/2610.08448": {
       "title": "Rethinking Cross-Tokenizer On-Policy Distillation: From Alignment Coverage to Supervision Reliability",
@@ -7980,14 +7924,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses": {
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-14"
     },
     "https://huggingface.co/papers/2609.38169": {
       "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
@@ -8176,42 +8120,77 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
     },
     "http://arxiv.org/abs/2610.13945v1": {
       "title": "Splat2Act: From Captured Scenes to Personalized VLA Manipulation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
     },
     "http://arxiv.org/abs/2610.13944v1": {
       "title": "InstantFusion: A Shared Latent Interface for Heterogeneous Image Generators",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
     },
     "http://arxiv.org/abs/2610.13941v1": {
       "title": "Images Talk Back: Guiding MMDiTs by Suppressing Image-to-Text Feedback",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
     },
     "http://arxiv.org/abs/2610.03220v2": {
       "title": "Evolving Hybrid Quantum-Classical Architectures for Image Classification",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
     },
     "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring": {
       "title": "Simulating student learning for better AI tutoring",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-13"
+      "lastSeen": "2026-10-14"
+    },
+    "https://huggingface.co/papers/2609.39601": {
+      "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
+    },
+    "https://huggingface.co/papers/2610.11765": {
+      "title": "Thinking Inertia: LLMs Keep Thinking When Told Not To",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
+    },
+    "https://huggingface.co/papers/2610.13361": {
+      "title": "AgentSWE: Can Coding Agents Build the Agent You Actually Want?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
+    },
+    "https://huggingface.co/papers/2610.13166": {
+      "title": "Scaling Agentic Data for Long-Horizon Terminal Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
+    },
+    "https://huggingface.co/papers/2610.09326": {
+      "title": "VIS-Ground: Video Interactive Storytelling with Contextual Grounding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-14",
+      "lastSeen": "2026-10-14"
     }
   }
 }
