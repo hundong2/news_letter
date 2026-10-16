@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-15",
+  "updatedAt": "2026-10-16",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -106,13 +106,6 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-04-18",
       "lastSeen": "2026-04-20"
-    },
-    "https://huggingface.co/papers/2509.25843": {
-      "title": "ASGuard: Activation-Scaling Guard to Mitigate Targeted Jailbreaking Attack",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-18",
-      "lastSeen": "2026-04-18"
     },
     "http://arxiv.org/abs/2604.15312v1": {
       "title": "Bidirectional Cross-Modal Prompting for Event-Frame Asymmetric Stereo",
@@ -8212,6 +8205,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
       "lastSeen": "2026-10-15"
+    },
+    "https://huggingface.co/papers/2610.20571": {
+      "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "https://huggingface.co/papers/2610.20584": {
+      "title": "Player-1: Learning to Play from Synthetic Experience",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "https://huggingface.co/papers/2610.13521": {
+      "title": "Beyond Domain-Routed Supervision: Cross-Teacher Guarding for Multi-Teacher On-Policy Distillation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "https://huggingface.co/papers/2610.20344": {
+      "title": "Doc2Harness: Benchmarking LLMs on Long-Horizon Harness Engineering of Coding Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "https://huggingface.co/papers/2610.19789": {
+      "title": "More Methods, Better Agents? A Reality Check on Self-Distillation in Agentic Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "http://arxiv.org/abs/2610.20610v1": {
+      "title": "Can Learning to Answer Spatial Questions Improve Novel-View Generation?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "http://arxiv.org/abs/2610.20608v1": {
+      "title": "Representation Conditioning for Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "http://arxiv.org/abs/2610.20604v1": {
+      "title": "VITAL: From Visual Motion to Precise Action",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "http://arxiv.org/abs/2610.20603v1": {
+      "title": "CommerceGen-Studio: An End-to-End Framework for Commercial-Grade Main-Image Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "http://arxiv.org/abs/2610.20598v1": {
+      "title": "DynThinker: Unifying Static 3D and Dynamic 4D Spatial Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
+    },
+    "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar": {
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-10-16",
+      "lastSeen": "2026-10-16"
     }
   }
 }
