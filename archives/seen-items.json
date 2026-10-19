@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-18",
+  "updatedAt": "2026-10-19",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
       "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.16044": {
-      "title": "Elucidating the SNR-t Bias of Diffusion Probabilistic Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "https://huggingface.co/papers/2502.07408": {
-      "title": "Maximal Brain Damage Without Data or Optimization: Disrupting Neural Networks via Sign-Bit Flips",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "https://huggingface.co/papers/2604.13074": {
-      "title": "PersonaVLM: Long-Term Personalized Multimodal LLMs",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "https://huggingface.co/papers/2604.15804": {
-      "title": "Qwen3.5-Omni Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "https://huggingface.co/papers/2604.04936": {
-      "title": "Web Retrieval-Aware Chunking (W-RAC) for Efficient and Cost-Effective Retrieval-Augmented Generation Systems",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "http://arxiv.org/abs/2604.16299v1": {
-      "title": "Repurposing 3D Generative Model for Autoregressive Layout Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "http://arxiv.org/abs/2604.16298v1": {
-      "title": "FineCog-Nav: Integrating Fine-grained Cognitive Modules for Zero-shot Multimodal UAV Navigation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "http://arxiv.org/abs/2603.01098v2": {
-      "title": "Differential privacy representation geometry for medical image analysis",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "http://arxiv.org/abs/2601.12193v3": {
-      "title": "VeRVE: Versatile Retrieval for Videos via Unified Embeddings",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
-    },
-    "http://arxiv.org/abs/2604.15237v2": {
-      "title": "StreamCacheVGGT: Streaming Visual Geometry Transformers with Robust Scoring and Hybrid Cache Compression",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-21",
-      "lastSeen": "2026-04-21"
     },
     "https://huggingface.co/papers/2604.18168": {
       "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
@@ -7763,14 +7693,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://www.microsoft.com/en-us/research/blog/agent-lightning-v1-0-a-3500-line-lightweight-agentic-rl-framework-for-training-agents-with-real-harnesses": {
       "title": "Agent Lightning v1.0: A 3,500-Line Lightweight Agentic RL Framework for Training Agents with Real Harnesses",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2609.38169": {
       "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
@@ -7994,7 +7924,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2609.39601": {
       "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
@@ -8106,21 +8036,21 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
       "title": "October 14, 2026 Analyzing technical documents with Deep Review General Science &#183; Machine Intelligence &#183; Natural Language Processing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": {
       "title": "October 14, 2026 Putting Earth AI to work: Geospatial agents for our planet's biggest challenges Earth AI &#183; General Science &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.20571": {
       "title": "Any Time, Any Space: A World-State-Centric Framework for Agentic Video Generation",
@@ -8197,35 +8127,35 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.18829": {
       "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.21601": {
       "title": "Waypoint-OPD: Transferring RL-Induced Policy Shifts via Gated On-Policy Distillation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.22200": {
       "title": "OpenGCUA: Toward a Fully Open Stack for Generalist Computer Use",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.22350": {
       "title": "FDE-Gym: The Last Mile of AI Delivery",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.17665": {
       "title": "RoTA-Bench: Evaluating 3D Spatial Reasoning through Interactive Projection Alignment",
@@ -8239,49 +8169,49 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "http://arxiv.org/abs/2610.22370v1": {
       "title": "Which Tokens to Merge? Diffusion Dynamics for Efficient Image Generation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "http://arxiv.org/abs/2610.22369v1": {
       "title": "SoftCache: Adaptive Step Size Caching for Diffusion Transformers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "http://arxiv.org/abs/2610.22364v1": {
       "title": "T2-z: Test-Time Optimization of Environment Latents for Robotic World Models",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "http://arxiv.org/abs/2610.22363v1": {
       "title": "Perceive, Predict, and Plan: a Unified World Action Model for Egocentric Dexterous Manipulation",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://research.google/blog/grounding-ai-agents-in-biological-reality-building-blocks-for-autonomous-wet-labs": {
       "title": "October 16, 2026 Grounding AI agents in biological reality: Building blocks for autonomous wet labs General Science &#183; Health & Bioscience &#183; Robotics",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     },
     "https://huggingface.co/papers/2610.22276": {
       "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-18",
-      "lastSeen": "2026-10-18"
+      "lastSeen": "2026-10-19"
     }
   }
 }
