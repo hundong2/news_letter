@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-19",
+  "updatedAt": "2026-10-20",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,76 +64,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
       "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.18168": {
-      "title": "Extending One-Step Image Generation from Class Labels to Text via Discriminative Text Representation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "https://huggingface.co/papers/2604.18486": {
-      "title": "OneVL: One-Step Latent Reasoning and Planning with Vision-Language Explanation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "https://huggingface.co/papers/2604.18292": {
-      "title": "Agent-World: Scaling Real-World Environment Synthesis for Evolving General Agent Intelligence",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "https://huggingface.co/papers/2604.18394": {
-      "title": "OpenGame: Open Agentic Coding for Games",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "https://huggingface.co/papers/2604.18564": {
-      "title": "MultiWorld: Scalable Multi-Agent Multi-View Video World Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "http://arxiv.org/abs/2604.18583v1": {
-      "title": "MUA: Mobile Ultra-detailed Animatable Avatars",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "http://arxiv.org/abs/2411.15115v3": {
-      "title": "Self-Correcting Text-to-Video Generation with Misalignment Detection and Localized Refinement",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "http://arxiv.org/abs/2604.18575v1": {
-      "title": "ReCap: Lightweight Referential Grounding for Coherent Story Visualization",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "http://arxiv.org/abs/2604.18573v1": {
-      "title": "T-REN: Learning Text-Aligned Region Tokens Improves Dense Vision-Language Alignment and Scalability",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
-    },
-    "http://arxiv.org/abs/2411.17690v3": {
-      "title": "Mechanisms of Multimodal Synchronization: Insights from Decoder-Based Video-Text-to-Speech Synthesis",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-22",
-      "lastSeen": "2026-04-22"
     },
     "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience": {
       "title": "April 21, 2026 ReasoningBank: Enabling agents to learn from experience Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -8212,6 +8142,76 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-18",
       "lastSeen": "2026-10-19"
+    },
+    "https://huggingface.co/papers/2610.23479": {
+      "title": "HexaShell: A Thin Harness for Exploring the Limits of VLM Agents as Robot Coding Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "https://huggingface.co/papers/2610.22471": {
+      "title": "Has GPT-6-Astra Achieved Embodied Intelligence?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "https://huggingface.co/papers/2610.20424": {
+      "title": "BizBench: Unveiling Hidden Challenges in Deploying Long-Horizon Agents for Real-World Business",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "https://huggingface.co/papers/2610.21783": {
+      "title": "Learning to Think and Explore in 3D World",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "https://huggingface.co/papers/2610.19159": {
+      "title": "Into the Unknown: Benchmarking AI agents on open scientific research problems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "http://arxiv.org/abs/2610.23856v1": {
+      "title": "Learning to Correct Geometry in Generated Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "http://arxiv.org/abs/2610.23854v1": {
+      "title": "Rethinking the design space of Vanilla Pixel Diffusion Transformers",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "http://arxiv.org/abs/2610.23841v1": {
+      "title": "StopWatch: Goal Grounding for Object-goal Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "http://arxiv.org/abs/2605.04702v2": {
+      "title": "FaithfulFaces: Pose-Faithful Facial Identity Preservation for Text-to-Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
+    },
+    "http://arxiv.org/abs/2610.23795v1": {
+      "title": "Persistent Planar Memory for Video World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-20",
+      "lastSeen": "2026-10-20"
     }
   }
 }
