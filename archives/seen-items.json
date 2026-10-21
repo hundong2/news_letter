@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-20",
+  "updatedAt": "2026-10-21",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,76 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-22",
       "lastSeen": "2026-05-27"
-    },
-    "https://huggingface.co/papers/2604.19748": {
-      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "https://huggingface.co/papers/2604.19636": {
-      "title": "CoInteract: Physically-Consistent Human-Object Interaction Video Synthesis via Spatially-Structured Co-Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "https://huggingface.co/papers/2604.13346": {
-      "title": "AgentSPEX: An Agent SPecification and EXecution Language",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "https://huggingface.co/papers/2604.19747": {
-      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "https://huggingface.co/papers/2604.19295": {
-      "title": "TEMPO: Scaling Test-time Training for Large Reasoning Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "http://arxiv.org/abs/2604.19748v1": {
-      "title": "Tstars-Tryon 1.0: Robust and Realistic Virtual Try-On for Diverse Fashion Items",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "http://arxiv.org/abs/2604.19747v1": {
-      "title": "AnyRecon: Arbitrary-View 3D Reconstruction with Video Diffusion Model",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "http://arxiv.org/abs/2604.19741v1": {
-      "title": "CityRAG: Stepping Into a City via Spatially-Grounded Video Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "http://arxiv.org/abs/2604.19740v1": {
-      "title": "Generalization at the Edge of Stability",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
-    },
-    "http://arxiv.org/abs/2604.19736v1": {
-      "title": "Generative Drifting for Conditional Medical Image Generation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-23",
-      "lastSeen": "2026-04-23"
     },
     "https://research.google/blog/its-all-about-the-angle-your-photos-re-composed": {
       "title": "April 22, 2026 It's all about the angle: Your photos, re-composed Generative AI &#183; Photography",
@@ -8212,6 +8142,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-20",
       "lastSeen": "2026-10-20"
+    },
+    "https://huggingface.co/papers/2610.26802": {
+      "title": "Scaling Parameter-Efficient Fine-Tuning for Brain Encoding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "https://huggingface.co/papers/2610.24087": {
+      "title": "OR-License: Evaluating LLM Agents as Real-World Operations Research Practitioners",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "https://huggingface.co/papers/2610.26625": {
+      "title": "EgoXperience: Learning World-Grounded Egocentric Representations from Human Experience",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "https://huggingface.co/papers/2610.26825": {
+      "title": "MemT-1.0: Towards Memory-Native Evolution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "https://huggingface.co/papers/2610.26549": {
+      "title": "Holi-World: Building Holistic World Intelligence from Human-Ego Experience",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "http://arxiv.org/abs/2610.26863v1": {
+      "title": "Text-to-Image Generative Modeling Without Language Pretraining",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "http://arxiv.org/abs/2610.26860v1": {
+      "title": "OpenVLHarness: Real World Visual Agentic Tool-Use with Multimodal Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "http://arxiv.org/abs/2610.26861v1": {
+      "title": "Can It Actually Work? Synthesizing Functional CAD Mechanisms",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "http://arxiv.org/abs/2610.26856v1": {
+      "title": "Reinforcement Learning with Visually Attributable On-Policy Self-Distillation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
+    },
+    "http://arxiv.org/abs/2610.26857v1": {
+      "title": "VideoMaMa++: Temporally Consistent Video Matting via Preserve-and-Refine Token",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-21",
+      "lastSeen": "2026-10-21"
     }
   }
 }
