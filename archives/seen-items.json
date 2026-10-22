@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-21",
+  "updatedAt": "2026-10-22",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -85,76 +85,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-23",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2604.20796": {
-      "title": "LLaDA2.0-Uni: Unifying Multimodal Understanding and Generation with Diffusion Large Language Model",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "https://huggingface.co/papers/2604.20733": {
-      "title": "Near-Future Policy Optimization",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "https://huggingface.co/papers/2604.19859": {
-      "title": "DR-Venus: Towards Frontier Edge-Scale Deep Research Agents with Only 10K Open Data",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "https://huggingface.co/papers/2604.15093": {
-      "title": "OpenMobile: Building Open Mobile Agents with Task and Trajectory Synthesis",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "https://huggingface.co/papers/2604.20841": {
-      "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "http://arxiv.org/abs/2604.20841v1": {
-      "title": "DeVI: Physics-based Dexterous Human-Object Interaction via Synthetic Video Imitation",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "http://arxiv.org/abs/2604.20825v1": {
-      "title": "FedSIR: Spectral Client Identification and Relabeling for Federated Learning with Noisy Labels",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "http://arxiv.org/abs/2604.20822v1": {
-      "title": "Global Offshore Wind Infrastructure: Deployment and Operational Dynamics from Dense Sentinel-1 Time Series",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "http://arxiv.org/abs/2604.20816v1": {
-      "title": "ParetoSlider: Diffusion Models Post-Training for Continuous Reward Control",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
-    },
-    "http://arxiv.org/abs/2604.20813v1": {
-      "title": "Adapting TrOCR for Printed Tigrinya Text Recognition: Word-Aware Loss Weighting for Cross-Script Transfer Learning",
-      "sourceId": "arxiv_cv",
-      "sourceName": "arXiv cs.CV (recent)",
-      "firstSeen": "2026-04-24",
-      "lastSeen": "2026-04-24"
     },
     "https://huggingface.co/papers/2604.17295": {
       "title": "LLaTiSA: Towards Difficulty-Stratified Time Series Reasoning from Visual Perception to Semantics",
@@ -8212,6 +8142,90 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-21",
       "lastSeen": "2026-10-21"
+    },
+    "https://huggingface.co/papers/2610.26203": {
+      "title": "Focused Omni-Modal GUI Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://huggingface.co/papers/2610.27999": {
+      "title": "Matrix-Game 4.0: Harnessing Video Models for Real-Time Playable Game Worlds",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://huggingface.co/papers/2610.26855": {
+      "title": "Ropedia W0: Scaling Loco-Manipulation World Models across Embodiments with Human Experience",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://huggingface.co/papers/2610.27628": {
+      "title": "PAR: Progress-Aligned Recurrence for Length Generalization in State Tracking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://huggingface.co/papers/2610.28354": {
+      "title": "S-Agent 2.0: Spatial Reasoning with a General Coding Agent",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "http://arxiv.org/abs/2610.28632v1": {
+      "title": "Joints, Camera, Action! Co-Generating 3D Motion and Video for Arbitrary Rigs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "http://arxiv.org/abs/2610.28631v1": {
+      "title": "AEON: Unifying Video and 3D World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "http://arxiv.org/abs/2610.28630v1": {
+      "title": "SolarRenderer: Few-Step Generative Reference Rendering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "http://arxiv.org/abs/2610.28628v1": {
+      "title": "Learning Adaptable Dexterous Skills via Hybrid Dexterous Mimicking",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "http://arxiv.org/abs/2610.28626v1": {
+      "title": "UniWALM: Unified World Action Language Model for Embodied Robot Control",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound": {
+      "title": "October 21, 2026 Empowering frontline maternal care with AI-assisted ultrasound Health & Bioscience &#183; Machine Perception",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
+    },
+    "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture": {
+      "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-10-22",
+      "lastSeen": "2026-10-22"
     }
   }
 }
