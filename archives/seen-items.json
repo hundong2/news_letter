@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-22",
+  "updatedAt": "2026-10-23",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8226,6 +8226,83 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-22",
       "lastSeen": "2026-10-22"
+    },
+    "https://huggingface.co/papers/2610.28402": {
+      "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "https://huggingface.co/papers/2610.26659": {
+      "title": "SpatialScout: Can VLM Agents Actively Explore and Map 3D Scenes?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "https://huggingface.co/papers/2610.29997": {
+      "title": "DONIC: Generalist Dexterous Bimanual Tracking Control from Human Demonstrations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "https://huggingface.co/papers/2610.29989": {
+      "title": "Looking Ahead: Modeling Future Evolution in Autoregressive Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "https://huggingface.co/papers/2610.28577": {
+      "title": "Cache Engineering for Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "http://arxiv.org/abs/2610.30129v1": {
+      "title": "Rethinking Video Autoencoders for Interactive World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "http://arxiv.org/abs/2610.30127v1": {
+      "title": "VoxProg: 3D Spatial Reasoning through Voxel Programming",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "http://arxiv.org/abs/2610.30125v1": {
+      "title": "PhysiCalWorld: In-Context Physics Calibration for World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "http://arxiv.org/abs/2610.30120v1": {
+      "title": "ALPS: Visual State Encoders for World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "http://arxiv.org/abs/2610.30108v1": {
+      "title": "Multimodal Embodied Agents: A Unified Capability-centric Perspective from Computer-Use to Robot-Use",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
+    },
+    "https://www.microsoft.com/en-us/research/blog/flint-interactive-a-language-for-creating-interactive-data-visualizations": {
+      "title": "Flint-interactive: A language for creating interactive data visualizations",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-10-23",
+      "lastSeen": "2026-10-23"
     }
   }
 }
