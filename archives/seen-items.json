@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-25",
+  "updatedAt": "2026-10-26",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -85,41 +85,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-23",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2604.22748": {
-      "title": "Agentic World Modeling: Foundations, Capabilities, Laws, and Beyond",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28"
-    },
-    "https://huggingface.co/papers/2604.22554": {
-      "title": "Video Analysis and Generation via a Semantic Progress Function",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28"
-    },
-    "https://huggingface.co/papers/2604.21518": {
-      "title": "DiffNR: Diffusion-Enhanced Neural Representation Optimization for Sparse-View 3D Tomographic Reconstruction",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28"
-    },
-    "https://huggingface.co/papers/2604.18519": {
-      "title": "LLM Safety From Within: Detecting Harmful Content with Internal Representations",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28"
-    },
-    "https://huggingface.co/papers/2604.22294": {
-      "title": "Contexts are Never Long Enough: Structured Reasoning for Scalable Question Answering over Long Document Sets",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-28",
-      "lastSeen": "2026-04-28"
     },
     "https://huggingface.co/papers/2604.24764": {
       "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
@@ -7756,14 +7721,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
       "title": "October 14, 2026 Analyzing technical documents with Deep Review General Science &#183; Machine Intelligence &#183; Natural Language Processing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://research.google/blog/putting-earth-ai-to-work-geospatial-agents-for-our-planets-biggest-challenges": {
       "title": "October 14, 2026 Putting Earth AI to work: Geospatial agents for our planet's biggest challenges Earth AI &#183; General Science &#183; Machine Intelligence",
@@ -7847,7 +7812,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.18829": {
       "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
@@ -7924,7 +7889,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.22276": {
       "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
@@ -8148,14 +8113,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture": {
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.28402": {
       "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
@@ -8232,84 +8197,84 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.31329": {
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.30926": {
       "title": "Making MLLM Latents Matter: Factor-Aware Predictive Learning for Cinematic Video Generation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.30181": {
       "title": "Deep Search in Real-World Web Environments",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.24738": {
       "title": "Editing Images into Reusable Layers via Compositional Edit-Prior Distillation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://huggingface.co/papers/2610.30949": {
       "title": "IQuest-Q1: Advancing Foundation Capabilities for Agentic CLI Systems",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "http://arxiv.org/abs/2610.31671v1": {
       "title": "A Unified Framework for Image-to-3D Part Generation via Variable Granularity",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "http://arxiv.org/abs/2610.31670v1": {
       "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "http://arxiv.org/abs/2610.31668v1": {
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "http://arxiv.org/abs/2610.31659v1": {
       "title": "SpectralCanary: Embarrassingly Simple Low-Frequency Traces for T2I Dataset-Use Auditing",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "http://arxiv.org/abs/2610.31651v1": {
       "title": "BrickWright: Agentic Creation of Physically Feasible Brick Builds",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     },
     "https://research.google/blog/bringing-foundational-models-to-the-front-lines-of-tb-screening": {
       "title": "October 23, 2026 Bringing foundational models to the front lines of TB screening Generative AI &#183; Health & Bioscience",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-25"
+      "lastSeen": "2026-10-26"
     }
   }
 }
