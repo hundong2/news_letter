@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-26",
+  "updatedAt": "2026-10-27",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -23,13 +23,6 @@
       "firstSeen": "2026-02-03",
       "lastSeen": "2026-10-12"
     },
-    "https://www.microsoft.com/en-us/research/blog/asgardbench-a-benchmark-for-visually-grounded-interactive-planning": {
-      "title": "AsgardBench: A benchmark for visually grounded interactive planning",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-03-27",
-      "lastSeen": "2026-04-29"
-    },
     "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks": {
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
       "sourceId": "microsoft_research_blog",
@@ -44,26 +37,12 @@
       "firstSeen": "2026-04-10",
       "lastSeen": "2026-05-08"
     },
-    "https://research.google/blog/towards-developing-future-ready-skills-with-generative-ai": {
-      "title": "April 13, 2026 Towards developing future-ready skills with generative AI Education Innovation &#183; Generative AI",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-04-14",
-      "lastSeen": "2026-04-29"
-    },
     "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles": {
       "title": "April 16, 2026 Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-17",
       "lastSeen": "2026-05-19"
-    },
-    "https://research.google/blog/ai-generated-synthetic-neurons-speed-up-brain-mapping": {
-      "title": "April 16, 2026 AI-generated synthetic neurons speed up brain mapping General Science &#183; Health & Bioscience &#183; Machine Intelligence",
-      "sourceId": "google_research_blog",
-      "sourceName": "Google Research Blog",
-      "firstSeen": "2026-04-17",
-      "lastSeen": "2026-04-29"
     },
     "https://research.google/blog/reasoningbank-enabling-agents-to-learn-from-experience": {
       "title": "April 21, 2026 ReasoningBank: Enabling agents to learn from experience Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -85,41 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-23",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2604.24764": {
-      "title": "World-R1: Reinforcing 3D Constraints for Text-to-Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.22446": {
-      "title": "From Skills to Talent: Organising Heterogeneous Agents as a Real-World Company",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.24300": {
-      "title": "ReVSI: Rebuilding Visual Spatial Intelligence Evaluation for Accurate Assessment of VLM 3D Reasoning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.24763": {
-      "title": "Tuna-2: Pixel Embeddings Beat Vision Encoders for Multimodal Understanding and Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29"
-    },
-    "https://huggingface.co/papers/2604.23775": {
-      "title": "Vision-Language-Action Safety: Threats, Challenges, Evaluations, and Mechanisms",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-29",
-      "lastSeen": "2026-04-29"
     },
     "https://huggingface.co/papers/2604.25917": {
       "title": "Recursive Multi-Agent Systems",
@@ -8275,6 +8219,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-24",
       "lastSeen": "2026-10-26"
+    },
+    "https://huggingface.co/papers/2610.31668": {
+      "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "https://huggingface.co/papers/2610.30932": {
+      "title": "UserArena: Benchmarking Interactive User Simulation for Long-Horizon Shopping Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "https://huggingface.co/papers/2610.31162": {
+      "title": "HiSTEVE 1.0: Harnessing Human-Interface VLA Agents for Open-World Games",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "https://huggingface.co/papers/2610.32253": {
+      "title": "RSIHub: A Composable Framework for Agent-Evolution Methods",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "https://huggingface.co/papers/2610.32965": {
+      "title": "RynnUnify: Towards Unified Embodied Brain",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "http://arxiv.org/abs/2610.32978v1": {
+      "title": "SceneBloom: Agentic Indoor Environment Generation with Realistic and Diverse Layouts for Embodied Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "http://arxiv.org/abs/2610.32977v1": {
+      "title": "UniAction: Unified Action Conditioning for World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "http://arxiv.org/abs/2610.32976v1": {
+      "title": "FlexGlue: Sparse-to-Dense Feature Matching and Visual Disambiguation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "http://arxiv.org/abs/2610.32967v1": {
+      "title": "MiD-VLM: Detecting and Grounding Global Semantic Misinformation in Image-Caption Pairs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
+    },
+    "http://arxiv.org/abs/2610.32966v1": {
+      "title": "ViT-H: Generative Video-To-Humanoid Control with Motion Tracking Feedback",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-27",
+      "lastSeen": "2026-10-27"
     }
   }
 }
