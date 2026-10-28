@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-27",
+  "updatedAt": "2026-10-28",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,41 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-04-23",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2604.25917": {
-      "title": "Recursive Multi-Agent Systems",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-30",
-      "lastSeen": "2026-04-30"
-    },
-    "https://huggingface.co/papers/2604.24819": {
-      "title": "Programming with Data: Test-Driven Data Engineering for Self-Improving LLMs from Raw Corpora",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-30",
-      "lastSeen": "2026-04-30"
-    },
-    "https://huggingface.co/papers/2604.25914": {
-      "title": "DV-World: Benchmarking Data Visualization Agents in Real-World Scenarios",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-30",
-      "lastSeen": "2026-04-30"
-    },
-    "https://huggingface.co/papers/2604.25256": {
-      "title": "AutoResearchBench: Benchmarking AI Agents on Complex Scientific Literature Discovery",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-30",
-      "lastSeen": "2026-04-30"
-    },
-    "https://huggingface.co/papers/2604.24625": {
-      "title": "Meta-CoT: Enhancing Granularity and Generalization in Image Editing",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-04-30",
-      "lastSeen": "2026-04-30"
     },
     "https://research.google/blog/four-ways-google-research-scientists-have-been-using-empirical-research-assistance": {
       "title": "April 29, 2026 Four ways Google Research scientists have been using Empirical Research Assistance Data Mining & Modeling &#183; General Science &#183; Generative AI &#183; Machine Intelligence",
@@ -8289,6 +8254,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-27",
       "lastSeen": "2026-10-27"
+    },
+    "https://huggingface.co/papers/2610.33568": {
+      "title": "Trajectory2Gym: Decision-Grounded Compositional Interaction Synthesis for Tool-Use Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "https://huggingface.co/papers/2610.32285": {
+      "title": "Trial by Trace: Benchmarking AI Agent Harnesses for Reliability and Failure Attribution",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "https://huggingface.co/papers/2610.34662": {
+      "title": "StreamVibe: Proactive Video Agents for Evolving User Intent",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "https://huggingface.co/papers/2610.34467": {
+      "title": "DynaFlow: Learning Free-Form Multi-Agent Orchestration",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "https://huggingface.co/papers/2610.33966": {
+      "title": "InteractiveWorld: A Verifiable Human-Centric Environment for Building Better Interactive MLLM Assistants",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "http://arxiv.org/abs/2610.35864v1": {
+      "title": "VibeVideoBench:Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "http://arxiv.org/abs/2610.35857v1": {
+      "title": "Do vision models know that three is three?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "http://arxiv.org/abs/2610.35854v1": {
+      "title": "FL4N: Feed-forward Latent Model for 4D Novel View Synthesis",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "http://arxiv.org/abs/2610.35850v1": {
+      "title": "OSWAM: An Effective World Action Model with One-Step Action Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "http://arxiv.org/abs/2610.35842v1": {
+      "title": "MedVTok: A General-Purpose Medical Visual Tokenizer",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
+    },
+    "https://research.google/blog/the-sleep-framework-a-new-way-for-llms-to-retain-knowledge-in-continual-learning": {
+      "title": "October 27, 2026 The sleep framework: A new way for LLMs to retain knowledge in continual learning Education Innovation &#183; General Science &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-10-28",
+      "lastSeen": "2026-10-28"
     }
   }
 }
