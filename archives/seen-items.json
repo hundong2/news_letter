@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-28",
+  "updatedAt": "2026-10-29",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,41 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-04-30",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2604.26752": {
-      "title": "GLM-5V-Turbo: Toward a Native Foundation Model for Multimodal Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-01",
-      "lastSeen": "2026-05-01"
-    },
-    "https://huggingface.co/papers/2604.24927": {
-      "title": "Large Language Models Explore by Latent Distilling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-01",
-      "lastSeen": "2026-05-01"
-    },
-    "https://huggingface.co/papers/2604.26067": {
-      "title": "RADIO-ViPE: Online Tightly Coupled Multi-Modal Fusion for Open-Vocabulary Semantic SLAM in Dynamic Environments",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-01",
-      "lastSeen": "2026-05-01"
-    },
-    "https://huggingface.co/papers/2604.26904": {
-      "title": "ClawGym: A Scalable Framework for Building Effective Claw Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-01",
-      "lastSeen": "2026-05-01"
-    },
-    "https://huggingface.co/papers/2604.26951": {
-      "title": "Turning the TIDE: Cross-Architecture Distillation for Diffusion Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-01",
-      "lastSeen": "2026-05-01"
     },
     "https://www.microsoft.com/en-us/research/blog/red-teaming-a-network-of-agents-understanding-what-breaks-when-ai-agents-interact-at-scale": {
       "title": "Red-teaming a network of agents: Understanding what breaks when AI agents interact at scale",
@@ -8331,6 +8296,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-28",
       "lastSeen": "2026-10-28"
+    },
+    "https://huggingface.co/papers/2610.35013": {
+      "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "https://huggingface.co/papers/2610.34283": {
+      "title": "ChronoReplay: One Answer Interface Is Not Enough for Streaming Spatial Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "https://huggingface.co/papers/2610.36077": {
+      "title": "The Trinity:Capability-Driven Recursive Self-Improvement for Multimodal Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "https://huggingface.co/papers/2610.35864": {
+      "title": "VibeVideoBench: Evaluating Multimodal Agents on Code-Driven Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "https://huggingface.co/papers/2610.37381": {
+      "title": "PDRVLA: A Vision-Language-Action Model with Physical Dynamics Representations",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "http://arxiv.org/abs/2610.37668v1": {
+      "title": "Honeycomb-Surfels: Compact Hexagonal Primitives for Efficient Scene Rendering and Reconstruction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "http://arxiv.org/abs/2610.37666v1": {
+      "title": "ThinkWorld: World Imagination Reinforces Chain-of-Dynamics Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "http://arxiv.org/abs/2610.37662v1": {
+      "title": "Can Discrete Tokens Serve as Semantically Lossless Representations of Visual Signals?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "http://arxiv.org/abs/2610.03445v2": {
+      "title": "Corrupted but Correct: Why Vision-Language Models Lie to Themselves Internally",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
+    },
+    "http://arxiv.org/abs/2610.37633v1": {
+      "title": "Repurposing Video Diffusion Transformers for Cross-View Temporal Object Correspondence",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-10-29",
+      "lastSeen": "2026-10-29"
     }
   }
 }
