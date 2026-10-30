@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-29",
+  "updatedAt": "2026-10-30",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -14,14 +14,14 @@
       "sourceId": "google_ai_edge",
       "sourceName": "Google AI Edge",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/spaces/opencompass/open_vlm_leaderboard": {
       "title": "Open VLM Leaderboard - a Hugging Face Space by opencompass",
       "sourceId": "open_vlm_leaderboard",
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
-      "lastSeen": "2026-10-12"
+      "lastSeen": "2026-10-30"
     },
     "https://www.microsoft.com/en-us/research/blog/adele-predicting-and-explaining-ai-performance-across-tasks": {
       "title": "ADeLe: Predicting and explaining AI performance across tasks",
@@ -7259,7 +7259,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-08",
-      "lastSeen": "2026-10-19"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2609.38169": {
       "title": "STEPQuant: When and Where Errors Matter in Delta-Rule Recurrent State Quantization",
@@ -7483,7 +7483,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-13",
-      "lastSeen": "2026-10-19"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2609.39601": {
       "title": "GroundingPI: A Grounding Foundation Model towards Physical Intelligence with Visual Primitives",
@@ -7595,7 +7595,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
       "title": "October 14, 2026 Analyzing technical documents with Deep Review General Science &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -7686,7 +7686,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-16",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.18829": {
       "title": "OmniCompass: A Holistic Benchmark for Omni-Modal Video Grounding and Understanding",
@@ -7763,7 +7763,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.22276": {
       "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
@@ -7987,14 +7987,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture": {
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.28402": {
       "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
@@ -8071,7 +8071,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.31329": {
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
@@ -8148,7 +8148,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-26"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.31668": {
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
@@ -8295,7 +8295,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-28"
+      "lastSeen": "2026-10-30"
     },
     "https://huggingface.co/papers/2610.35013": {
       "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
@@ -8366,6 +8366,41 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-29",
       "lastSeen": "2026-10-29"
+    },
+    "https://huggingface.co/papers/2610.32749": {
+      "title": "Efficient Streaming Audio-Visual Target Speaker Extraction for Real-World Acoustic Scenes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
+    },
+    "https://huggingface.co/papers/2610.35684": {
+      "title": "OmniShowcase: Omnidirectional Subject-Consistent Video Generation from Multi-View Images",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
+    },
+    "https://huggingface.co/papers/2610.31670": {
+      "title": "Sensorimotor Alignment: A Platonic Proxy for Embodied Policy Success",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
+    },
+    "https://huggingface.co/papers/2610.37230": {
+      "title": "TAO: Tool-Aware Joint Scheduling for LLM-Based Agentic Serving",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
+    },
+    "https://huggingface.co/papers/2610.22507": {
+      "title": "RealCLI: Toward a Unified Evaluation of Human-Agent Collaboration for CLI Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-10-30",
+      "lastSeen": "2026-10-30"
     }
   }
 }
