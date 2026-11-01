@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-10-31",
+  "updatedAt": "2026-11-01",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -79,47 +79,12 @@
       "firstSeen": "2026-05-01",
       "lastSeen": "2026-05-11"
     },
-    "https://huggingface.co/papers/2604.27351": {
-      "title": "Heterogeneous Scientific Foundation Model Collaboration",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-04"
-    },
-    "https://huggingface.co/papers/2604.28185": {
-      "title": "Visual Generation in the New Era: An Evolution from Atomic Mapping to Agentic World Modeling",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-04"
-    },
-    "https://huggingface.co/papers/2604.27083": {
-      "title": "Co-Evolving Policy Distillation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-04"
-    },
-    "https://huggingface.co/papers/2604.27711": {
-      "title": "ExoActor: Exocentric Video Generation as Generalizable Interactive Humanoid Control",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-02",
-      "lastSeen": "2026-05-04"
-    },
     "https://research.google/blog/catalyzing-scientific-impact-through-global-partnerships-and-open-resources": {
       "title": "May 1, 2026 Catalyzing scientific impact through global partnerships and open resources Data Mining & Modeling &#183; General Science &#183; Health & Bioscience &#183; Open Source Models & Datasets",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2604.28158": {
-      "title": "Intern-Atlas: A Methodological Evolution Graph as Research Infrastructure for AI Scientists",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-04",
-      "lastSeen": "2026-05-04"
     },
     "https://huggingface.co/papers/2605.00658": {
       "title": "UniVidX: A Unified Multimodal Framework for Versatile Video Generation via Diffusion Priors",
@@ -7588,7 +7553,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-15",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://research.google/blog/analyzing-technical-documents-with-deep-review": {
       "title": "October 14, 2026 Analyzing technical documents with Deep Review General Science &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -7756,7 +7721,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-17",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.22276": {
       "title": "MJev-Spatial: System One Spatial Intelligence via Native Attention Matching",
@@ -7980,14 +7945,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://www.microsoft.com/en-us/research/blog/solving-a-31-year-old-grand-challenge-in-mathematics-the-kls-conjecture": {
       "title": "Solving a 31-year-old grand challenge in mathematics – the KLS conjecture",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-22",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.28402": {
       "title": "StreamEval: Evaluating Interactive Streaming Video Generation Models",
@@ -8064,7 +8029,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-23",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.31329": {
       "title": "WeVisOne-VL: Unified Visual Perception from Objects to Pixels",
@@ -8141,7 +8106,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-24",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.31668": {
       "title": "Reading, Writing, Sharing, and Interacting with the World through Video",
@@ -8288,7 +8253,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-10-30"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.35013": {
       "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
@@ -8407,7 +8372,7 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.29927": {
       "title": "Your Benchmark Is an Empirical Measure Over Difficulty",
@@ -8421,56 +8386,70 @@
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "https://huggingface.co/papers/2610.39301": {
       "title": "Youtu-Parsing-Omni: One Encoder, One Schema, All Modalities",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "http://arxiv.org/abs/2610.40653v1": {
       "title": "Micro-Edits: Computational Support for Fine-Scale Edits in Film",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "http://arxiv.org/abs/2610.40649v1": {
       "title": "Rethinking Neural Thickets Without Weight Perturbations",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "http://arxiv.org/abs/2610.40647v1": {
       "title": "Read, Allocate, Route: Role-Coupled Tokenization for Pixel-Space Generative Transformers",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "http://arxiv.org/abs/2610.40643v1": {
       "title": "Luggage re-identification: A study of strategies towards a real-world application",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "http://arxiv.org/abs/2610.40640v1": {
       "title": "SonoWorld4D: From One Video to a 4D Audio-Visual Scene via Diffusion Synchronization",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
     },
     "https://www.microsoft.com/en-us/research/blog/from-synthetic-enterprise-data-evaluations-to-real-microsoft-copilot-ai-confidence": {
       "title": "From synthetic enterprise data evaluations to real Microsoft Copilot AI confidence",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-10-31"
+      "lastSeen": "2026-11-01"
+    },
+    "https://huggingface.co/papers/2610.39302": {
+      "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01"
+    },
+    "https://huggingface.co/papers/2610.40614": {
+      "title": "L3G-World: Real-Time Infinite World Generation with Latent 3D Gaussian Memory",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-01",
+      "lastSeen": "2026-11-01"
     }
   }
 }
