@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-03",
+  "updatedAt": "2026-11-04",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -85,41 +85,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-06",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2605.03042": {
-      "title": "ARIS: Autonomous Research via Adversarial Multi-Agent Collaboration",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07"
-    },
-    "https://huggingface.co/papers/2605.04036": {
-      "title": "OpenSeeker-v2: Pushing the Limits of Search Agents with Informative and High-Difficulty Trajectories",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07"
-    },
-    "https://huggingface.co/papers/2604.28123": {
-      "title": "Beyond SFT-to-RL: Pre-alignment via Black-Box On-Policy Distillation for Multimodal RL",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07"
-    },
-    "https://huggingface.co/papers/2605.00891": {
-      "title": "X2SAM: Any Segmentation in Images and Videos",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07"
-    },
-    "https://huggingface.co/papers/2605.02396": {
-      "title": "HeavySkill: Heavy Thinking as the Inner Skill in Agentic Harness",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-07",
-      "lastSeen": "2026-05-07"
     },
     "https://huggingface.co/papers/2605.03849": {
       "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
@@ -8415,6 +8380,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-03",
       "lastSeen": "2026-11-03"
+    },
+    "https://huggingface.co/papers/2611.01860": {
+      "title": "Advances in Agentic Computer Graphics",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "https://huggingface.co/papers/2611.00859": {
+      "title": "Wave Forcing: Towards Speed-of-Light Streaming Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "https://huggingface.co/papers/2611.03126": {
+      "title": "CUA-Master: Scaling Computer-use Agents through Open-World Recursive Improvements",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "https://huggingface.co/papers/2611.03178": {
+      "title": "CoworkOS:Scaling Agent Coworkers for Real-world Automation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "https://huggingface.co/papers/2610.40191": {
+      "title": "Video Generation Meets Agent Harness: Agentic Video Generation, Agentic World Modeling and Recursive Self-Improvement",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "http://arxiv.org/abs/2611.03647v1": {
+      "title": "Pixel-UMI: Learning Environment-Aware Whole-Body Manipulation from Sensorized Human Demonstrations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "http://arxiv.org/abs/2611.03648v1": {
+      "title": "Pixel: A Co-Designed Full-Stack Robot System for Learning General-Purpose Mobile Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "http://arxiv.org/abs/2611.03646v1": {
+      "title": "EgoActionBench: Benchmarking Dense Action Captioning for Egocentric Human Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "http://arxiv.org/abs/2611.03626v1": {
+      "title": "Isekai3D SDG: A Platform for Diverse Synthetic Gameplay Visual Data",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
+    },
+    "http://arxiv.org/abs/2609.00446v2": {
+      "title": "CRAD: Class-wise Reliability-Aware Distillation for Decentralized Heterogeneous Federated Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-04",
+      "lastSeen": "2026-11-04"
     }
   }
 }
