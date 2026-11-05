@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-04",
+  "updatedAt": "2026-11-05",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -22,13 +22,6 @@
       "sourceName": "Open VLM Leaderboard",
       "firstSeen": "2026-02-03",
       "lastSeen": "2026-10-30"
-    },
-    "https://www.microsoft.com/en-us/research/blog/new-future-of-work-ai-is-driving-rapid-change-uneven-benefits": {
-      "title": "New Future of Work: AI is driving rapid change, uneven benefits",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-04-10",
-      "lastSeen": "2026-05-08"
     },
     "https://research.google/blog/designing-synthetic-datasets-for-the-real-world-mechanism-design-and-reasoning-from-first-principles": {
       "title": "April 16, 2026 Designing synthetic datasets for the real world: Mechanism design and reasoning from first principles Generative AI &#183; Machine Intelligence &#183; Natural Language Processing",
@@ -85,41 +78,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-06",
       "lastSeen": "2026-05-11"
-    },
-    "https://huggingface.co/papers/2605.03849": {
-      "title": "Stream-R1: Reliability-Perplexity Aware Reward Distillation for Streaming Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08"
-    },
-    "https://huggingface.co/papers/2605.04461": {
-      "title": "Stream-T1: Test-Time Scaling for Streaming Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08"
-    },
-    "https://huggingface.co/papers/2605.03269": {
-      "title": "RLDX-1 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08"
-    },
-    "https://huggingface.co/papers/2605.05185": {
-      "title": "OpenSearch-VL: An Open Recipe for Frontier Multimodal Search Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08"
-    },
-    "https://huggingface.co/papers/2604.28196": {
-      "title": "HERMES++: Toward a Unified Driving World Model for 3D Scene Understanding and Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-08",
-      "lastSeen": "2026-05-08"
     },
     "https://huggingface.co/papers/2605.06130": {
       "title": "Skill1: Unified Evolution of Skill-Augmented Agents via Reinforcement Learning",
@@ -8450,6 +8408,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-04",
       "lastSeen": "2026-11-04"
+    },
+    "https://huggingface.co/papers/2611.05275": {
+      "title": "Route Anything: A Study of Model and Policy Routing for General-Purpose AI Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "https://huggingface.co/papers/2611.00617": {
+      "title": "Words Caught in the Heart: Simulating Person-Specific Expression for Self-Opaque Clients in Psychotherapy",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "https://huggingface.co/papers/2611.04814": {
+      "title": "Think Less, Locally: Local Preference Learning for Reasoning Compression",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "https://huggingface.co/papers/2611.02737": {
+      "title": "MoviEdit: Long-form Multi-Shot Video Editing Made Easy",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "https://huggingface.co/papers/2611.04916": {
+      "title": "Behind Video Generation: Observations and Insights on Multimodal Understanding from Kling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "http://arxiv.org/abs/2611.05377v1": {
+      "title": "DreamX: Video Diffusion Model is a Universal Latent Action Learner",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "http://arxiv.org/abs/2608.19490v2": {
+      "title": "Fine-Tuning VLAs with Self-Demonstrated Generative Control for Multi-Task Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "http://arxiv.org/abs/2611.05361v1": {
+      "title": "Visibility-Aware Reference Generation for Benchmarking Visual 3D Reconstruction in Vegetation-Rich Environments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "http://arxiv.org/abs/2611.05359v1": {
+      "title": "GSCV++: Lightweight 3D Gaussian Splatting Sequence Compression via Standard Video Codecs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "http://arxiv.org/abs/2611.05348v1": {
+      "title": "OpenBrain: An Auditable Generated-Label Release for Whole-Brain MRI Parcellation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
+    },
+    "https://research.google/blog/agile-deliberation-how-ai-helps-humans-define-the-gray-areas": {
+      "title": "November 4, 2026 Agile Deliberation: How AI helps humans define the gray areas Data Mining & Modeling &#183; Generative AI &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-05",
+      "lastSeen": "2026-11-05"
     }
   }
 }
