@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-05",
+  "updatedAt": "2026-11-06",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8485,6 +8485,90 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-05",
       "lastSeen": "2026-11-05"
+    },
+    "https://huggingface.co/papers/2611.06728": {
+      "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://huggingface.co/papers/2611.06918": {
+      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://huggingface.co/papers/2611.06910": {
+      "title": "FrontierPhysics: Evaluating Agents for End-to-End Physics Research",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://huggingface.co/papers/2610.37257": {
+      "title": "GameVerse: A Minute-Scale Gameplay Dataset for Long-Horizon Interactive World Modeling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://huggingface.co/papers/2611.06483": {
+      "title": "What Does Multi-Turn Reinforcement Learning Really Improve in LLM Agents?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "http://arxiv.org/abs/2611.06918v1": {
+      "title": "From Pixels to Actions - Towards Native Vision-Language-Action Policies",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "http://arxiv.org/abs/2611.06908v1": {
+      "title": "Perceptive Humanoid Motion from Simulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "http://arxiv.org/abs/2611.06901v1": {
+      "title": "Motion-guided Contrastive Regularization For Latent World Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "http://arxiv.org/abs/2611.06899v1": {
+      "title": "Occlusion for Free: Detecting Occlusion from the Disagreement Between Two Monocular Distance Cues",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "http://arxiv.org/abs/2611.06890v1": {
+      "title": "Procedural Adversarial Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://research.google/blog/detecting-signs-of-hypertension-using-wearable-sensors": {
+      "title": "November 5, 2026 Detecting signs of hypertension using wearable sensors Health & Bioscience &#183; Machine Intelligence",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
+    },
+    "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit": {
+      "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-11-06",
+      "lastSeen": "2026-11-06"
     }
   }
 }
