@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-06",
+  "updatedAt": "2026-11-07",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8569,6 +8569,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-06",
       "lastSeen": "2026-11-06"
+    },
+    "https://huggingface.co/papers/2611.08449": {
+      "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "https://huggingface.co/papers/2611.04277": {
+      "title": "Harness-S: Learning from Sibling Harnesses for Generalizable Agent Training",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "https://huggingface.co/papers/2611.00883": {
+      "title": "Random Is Almost Enough? Stable and Low-Cost Benchmark Compression via BestRand",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "https://huggingface.co/papers/2611.08373": {
+      "title": "SLA: Scaling Spatial-Language-Action Model via Continual Pre-training",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "https://huggingface.co/papers/2611.07392": {
+      "title": "WeLM-Image: A Unified Image Generation Model towards Visual Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "http://arxiv.org/abs/2611.08486v1": {
+      "title": "Do You Miss the Nights We Spent Crafting Figures? Rethinking Teaser and Framework Figures in the Age of Generative AI",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "http://arxiv.org/abs/2611.08485v1": {
+      "title": "Where and Why is Grounded Reasoning Useful?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "http://arxiv.org/abs/2611.08477v1": {
+      "title": "EgoGeneralist: Unifying Egocentric Action-Video Tasks through Video-Native Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "http://arxiv.org/abs/2610.31835v2": {
+      "title": "SAGE: A hybrid vision-language and geometry framework for work-zone pathway prediction under temporary traffic control",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
+    },
+    "http://arxiv.org/abs/2605.03749v3": {
+      "title": "FluxFlow: Conservative Flow-Matching for Astronomical Image Super-Resolution",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-07",
+      "lastSeen": "2026-11-07"
     }
   }
 }
