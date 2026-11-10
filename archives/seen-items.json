@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-09",
+  "updatedAt": "2026-11-10",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -64,41 +64,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-12",
       "lastSeen": "2026-05-15"
-    },
-    "https://huggingface.co/papers/2605.10730": {
-      "title": "Qwen-Image-2.0 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-13"
-    },
-    "https://huggingface.co/papers/2605.09063": {
-      "title": "Soohak: A Mathematician-Curated Benchmark for Evaluating Research-level Math Capabilities of LLMs",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-13"
-    },
-    "https://huggingface.co/papers/2605.08735": {
-      "title": "CollabVR: Collaborative Video Reasoning with Vision-Language and Video Generation Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-13"
-    },
-    "https://huggingface.co/papers/2605.10344": {
-      "title": "TMAS: Scaling Test-Time Compute via Multi-Agent Synergy",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-13"
-    },
-    "https://huggingface.co/papers/2605.10341": {
-      "title": "PaperFit: Vision-in-the-Loop Typesetting Optimization for Scientific Documents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-13"
     },
     "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models": {
       "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
@@ -8548,6 +8513,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-08",
       "lastSeen": "2026-11-09"
+    },
+    "https://huggingface.co/papers/2611.08264": {
+      "title": "SplatAnything: Gaussian Spacing Normalization for Feed-forward 3DGS across Arbitrary Scenes",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "https://huggingface.co/papers/2611.03953": {
+      "title": "P^2-MOPD: Accelerating Multi-Teacher On-Policy Distillation via Parameter Priors",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "https://huggingface.co/papers/2611.06856": {
+      "title": "LongBanana: An Expert-Verified Benchmark for Long-Context Multi-Reference Image Synthesis",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "https://huggingface.co/papers/2611.06043": {
+      "title": "Confucius4-R2T2: A Stable-Prefix Streaming ASR Model for Real Real-Time Transcription",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "https://huggingface.co/papers/2611.08175": {
+      "title": "PCBRouteAgent: How Close Are LLM Agents to Becoming PCB Routing Engineers?",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "http://arxiv.org/abs/2611.09894v1": {
+      "title": "Video-Coder: Reinforcing Agentic Coding for Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "http://arxiv.org/abs/2611.09892v1": {
+      "title": "On Agentic Manipulation Policies",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "http://arxiv.org/abs/2611.09882v1": {
+      "title": "FlowMoP: Stochastic Multi-Person Motion Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "http://arxiv.org/abs/2603.04399v2": {
+      "title": "SimpliHuMoN: Simplifying Human Motion Prediction",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "http://arxiv.org/abs/2611.09880v1": {
+      "title": "ZeoBench: A Benchmark for Self-Supervised Learning on 3D Zeolite Representations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
+    },
+    "https://research.google/blog/exploring-the-worlds-languages-with-language-explorer": {
+      "title": "November 9, 2026 Exploring the world's languages with Language Explorer Natural Language Processing &#183; Open Source Models & Datasets",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-10",
+      "lastSeen": "2026-11-10"
     }
   }
 }
