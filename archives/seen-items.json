@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10",
+  "updatedAt": "2026-11-11",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,41 +71,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-13",
       "lastSeen": "2026-05-21"
-    },
-    "https://huggingface.co/papers/2605.09530": {
-      "title": "MemPrivacy: Privacy-Preserving Personalized Memory Management for Edge-Cloud Agents",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-14"
-    },
-    "https://huggingface.co/papers/2605.12500": {
-      "title": "SenseNova-U1: Unifying Multimodal Understanding and Generation with NEO-unify Architecture",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-14"
-    },
-    "https://huggingface.co/papers/2605.12357": {
-      "title": "δ-mem: Efficient Online Memory for Large Language Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-14"
-    },
-    "https://huggingface.co/papers/2605.10899": {
-      "title": "RubricEM: Meta-RL with Rubric-guided Policy Decomposition beyond Verifiable Rewards",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-14"
-    },
-    "https://huggingface.co/papers/2605.12178": {
-      "title": "Do Enterprise Systems Need Learned World Models? The Importance of Context to Infer Dynamics",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-14"
     },
     "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era": {
       "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
@@ -8590,6 +8555,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-10",
       "lastSeen": "2026-11-10"
+    },
+    "https://huggingface.co/papers/2611.12806": {
+      "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "https://huggingface.co/papers/2611.10771": {
+      "title": "WorldFoundry: Towards Unified Infrastructure for World Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "https://huggingface.co/papers/2611.12762": {
+      "title": "Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "https://huggingface.co/papers/2611.12886": {
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "https://huggingface.co/papers/2610.42148": {
+      "title": "Flide: Accelerating Decision Inference with Exact State Forking",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "http://arxiv.org/abs/2611.12886v1": {
+      "title": "Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "http://arxiv.org/abs/2611.12885v1": {
+      "title": "World In-Context Learning for Agentic Robot Manipulation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "http://arxiv.org/abs/2611.12884v1": {
+      "title": "Guiding Data Allocation for Robust Subpopulation Generalization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "http://arxiv.org/abs/2611.12883v1": {
+      "title": "Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "http://arxiv.org/abs/2611.12879v1": {
+      "title": "Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
+    },
+    "https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents": {
+      "title": "Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-11-11",
+      "lastSeen": "2026-11-11"
     }
   }
 }

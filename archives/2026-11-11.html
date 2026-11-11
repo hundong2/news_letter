@@ -1,0 +1,468 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-11-11 AI 리서치 브리핑</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --accent-2: #ff7a59;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+      position: relative;
+    }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 3vw, 3.4rem);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 640px;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+    }
+
+    .nav-back {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-block {
+      margin-bottom: 42px;
+    }
+
+    .section-header {
+      margin-bottom: 18px;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 6px;
+      font-size: 1.6rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .card-grid.scrollable {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.04);
+      border-radius: 999px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-thumb {
+      background: rgba(0, 128, 143, 0.35);
+      border-radius: 999px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 18px;
+      padding: 20px 20px 18px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .pill {
+      background: rgba(0, 128, 143, 0.12);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .card-summary {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .card-translation {
+      margin: 0;
+      background: rgba(255, 122, 89, 0.12);
+      color: #7a2c17;
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 0.92rem;
+    }
+
+    .card-translation span {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+
+    .card-link {
+      margin-top: auto;
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .sources h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 12px;
+    }
+
+    .sources ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .sources a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 36px 16px 56px;
+      }
+
+      .hero-meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <a class="nav-back" href="../index.html">← 전체 목록</a>
+      <h1>2026-11-11 AI 리서치 브리핑</h1>
+      <p>최신 VLM, sLLM, on-device AI 논문과 연구 블로그를 한눈에 정리합니다. 중복 기사 방지를 위해 URL 기준으로 추적합니다.</p>
+      <div class="hero-meta">
+        <span>총 11건 요약</span>
+        <span>자동 생성</span>
+      </div>
+    </header>
+
+    
+    <section class="section-block">
+      <div class="section-header">
+        <h2>VLM 업데이트</h2>
+        <p>멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.12883v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Beyond Modality Preference: Controlling Multimodal Arbitration under Modality Conflict in MLLMs</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Multimodal large language models (MLLMs) integrate information across modalities, but become unreliable when those modalities disagree. Under conflicting inputs, MLLMs may favor modalities that are not the most reliable for the task, thus motivating inference-time control of modality arbitration. We identify a small set of attention heads, termed arbitration heads, that causally influence whether predictions follow visual or textual evidence. Building on this, we introduce a lightweight, training-free intervention that biases these heads toward a designated trusted modality at inference time. The identified heads are stable across calibration set sizes and generalize across settings, and steering them enables effective bidirectional control of modality reliance across diverse benchmarks. Our findings identify an effective control mechanism to align MLLM predictions with task-specified modality priorities. The code is available at https://github.com/zhaoyingpan/modality-arbitration.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.12883v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>sLLM 트렌드</h2>
+        <p>경량화·효율화를 위한 스몰 LLM 연구</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.12886" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.12886" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.12886v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Reframe: Observation-Aligned Multi-Teacher On-Policy Distillation for Agentic Visual Reasoning</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Agentic reinforcement learning (RL) and multi-teacher on-policy distillation (MOPD) offer complementary routes to post-training. For visual agents, however, tool use presents two related challenges. Models may overlook useful tool-returned observations, while poorly grounded actions can limit the evidence available for subsequent distillation. We introduce Reframe, a post-training framework that treats the observation state, rather than only the output distribution, as an object of alignment. First, Ground-Drop-GRPO (GD-GRPO) trains spatial and temporal specialists with evidence-aware rewards and stochastic removal of the original visual input, encouraging them to acquire grounded evidence and use the returned observations. Second, Observation-Gated-MOPD (OG-MOPD) replaces deficient tool actions with canonical ones mid-rollout and resumes distillation from the repaired observation. The two stages complement each other, as learning to rely on tool-returned observations can help the policy benefit from observation repair. Neither stage requires a task-specific SFT cold start. Extensive experiments over 14 image and video benchmarks demonstrate that Reframe outperforms both Mix-RL and vanilla MOPD. Ablation results show that GD-GRPO increases observation dependence and tool gain compared with outcome-based GRPO.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.12886v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>On-Device AI</h2>
+        <p>디바이스 내 추론 및 엣지 최적화 동향</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.12885v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>World In-Context Learning for Agentic Robot Manipulation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Trained action policies write manipulation skill into network weights, tying what is learned to the distribution it is learned from. In-context learning (ICL) avoids this coupling but has not matched trained policies, because a demonstration recorded in another scene carries no feedback from the world the robot currently faces. We observe that what an agent learns in context is semantic, recording task steps and object roles rather than visual appearance, so experience gathered in one world transfers to another. Based on this insight, we propose World In-Context Learning (WICL), a paradigm in which a frozen model starts from a demonstration, rehearses the task in a world such as a simulator, and writes the feedback into its context rather than its weights. We build RoboScript, a modular infrastructure that implements WICL for agentic manipulation. From a single demonstration, RoboScript learns each task through rehearsal in simulation, freezes the learned knowledge as a Task Memory, and deploys the frozen memory on new scenes with data isolation that ensures every deployment input is available on a real robot. On all 50 tasks of RoboTwin 2.0, RoboScript reaches 83.4% mean success across clean and randomized settings with one demonstration per task and no gradient updates, exceeding the strongest trained action policy by over 20 points. The method generalizes across visual distributions, improves through reflection, scales with the foundation model, and transfers to a physical dual-arm robot through cross-embodiment memory adaptation. With a world in the loop, a robot can learn a manipulation task in its context as well as it learns one in its weights. All code is available at https://github.com/ArcheOne-AI/RoboScript</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.12885v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>AI 뉴스 &amp; 리서치</h2>
+        <p>기업/연구기관의 주요 발표와 블로그 업데이트</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.12806" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Learning Heterogeneous Tactile Representation for General Dexterous Manipulation</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Learning Heterogeneous Tactile Representation for General Dexterous Manipulation에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.12806" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.10771" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>WorldFoundry: Towards Unified Infrastructure for World Intelligence</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">WorldFoundry: Towards Unified Infrastructure for World Intelligence에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.10771" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.12762" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Sage-Taiyi: A Metacognitive Architecture for Scientific Discovery에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.12762" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2610.42148" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Flide: Accelerating Decision Inference with Exact State Forking</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Flide: Accelerating Decision Inference with Exact State Forking에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2610.42148" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.12884v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Guiding Data Allocation for Robust Subpopulation Generalization</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Machine learning models often achieve high average accuracy in the training data while performing poorly on test data due to subpopulation shift. A common data-centric solution is to enforce balanced subgroup proportions, but full balance can be costly, infeasible, and not always necessary. In this work, we study whether balanced training data is the unique optimal configuration for robust subpopulation generalization. We extend a Gaussian feature-model framework to theoretically characterize the performance landscape across general training subgroup distributions. We show that multiple configurations, including substantially imbalanced ones, can perform comparably to the balanced one. We further derive gradient-based directions for adjusting subgroup proportions to improve adjusted accuracy and worst-group accuracy more efficiently. These findings suggest that strategically allocating data offers a more flexible and principled path to robust performance than simple balancing. The code is available at https://github.com/zhaoyingpan/subpop-data-allocation.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.12884v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.12879v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>Grasping the Future: Joint 3D Hand-Object Forecasting From Internet Videos</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">To interact with an object, we need to anticipate both how it will move and how our hands should move with it. Human videos capture these relationships across everyday activities, offering a natural source for learning to predict future interactions. Learning from them requires recovering motion from completed interactions and using it to anticipate what could happen next. We present $\textit{Grasping-the-Future}$, a unified generative model of joint 3D hand-object motion, including wrist motion, finger articulation, and object position and orientation. Through masked spatiotemporal completion and flow matching, we train a single model for several prediction tasks: forecasting future interactions, predicting hand motion given object motion or vice versa, generating both trajectories toward a desired final object pose, and completing partially observed interactions. We explicitly model hand-object relations and incorporate contact constraints to help preserve grasp relationships during motion. To obtain 3D supervision from internet videos, we develop a scalable pipeline that combines pretrained perception models with joint geometric optimization to reconstruct completed interactions. We combine these recovered trajectories with annotated interaction datasets as training data for all tasks. We demonstrate strong performance across all tasks, outperforming released forecasters on datasets with 3D annotations. Moreover, we show geometric and physical plausibility of the predicted trajectories by retargeting them to a robotic embodiment. Videos are available at https://grasping-the-future.github.io.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.12879v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents" data-source="Microsoft Research Blog" data-item-type="news">
+      <header>
+        <h3>Lazare, veni foras: Reprogramming Dormant Neurons to Backdoor AI Agents</h3>
+        <div class="card-meta">
+          <span class="pill">News</span>
+          <span class="source">Microsoft Research Blog</span>
+        </div>
+      </header>
+      <p class="card-summary">Microsoft researchers have discovered &amp;#8220;Lazarus,&amp;#8221; a backdoor technique that can reprogram dormant neurons in an AI model, causing an otherwise normal AI agent to execute malicious commands when a hidden trigger appears. The threat is especially serious for AI agents with tool or terminal access. A triggered model could quietly download and run attacker code, [&amp;hellip;]</p>
+      
+      <a class="card-link" href="https://www.microsoft.com/en-us/research/blog/lazare-veni-foras-reprogramming-dormant-neurons-to-backdoor-ai-agents" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="sources">
+      <h2>참고한 소스</h2>
+      <ul>
+        <li><a href="https://huggingface.co/papers" target="_blank" rel="noopener noreferrer">Hugging Face Papers</a></li>
+<li><a href="https://export.arxiv.org/api/query?search_query=cat:cs.CV&amp;sortBy=lastUpdatedDate&amp;sortOrder=descending&amp;max_results=10" target="_blank" rel="noopener noreferrer">arXiv cs.CV (recent)</a></li>
+<li><a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a></li>
+<li><a href="https://research.google/blog/" target="_blank" rel="noopener noreferrer">Google Research Blog</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/" target="_blank" rel="noopener noreferrer">Microsoft Research Blog</a></li>
+<li><a href="https://www.qualcomm.com/research/artificial-intelligence" target="_blank" rel="noopener noreferrer">Qualcomm AI Research</a></li>
+<li><a href="https://ai.google.dev/edge" target="_blank" rel="noopener noreferrer">Google AI Edge</a></li>
+<li><a href="https://huggingface.co/spaces/opencompass/open_vlm_leaderboard" target="_blank" rel="noopener noreferrer">Open VLM Leaderboard</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>요약은 Gemini API를 사용하며, 실제 원문은 "원문 보기" 링크를 확인하세요.</div>
+      <div>중복 방지 기준: URL 기준 + 최근 180일 기록 유지</div>
+    </footer>
+  </div>
+</body>
+</html>
