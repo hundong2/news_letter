@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-12",
+  "updatedAt": "2026-11-13",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -7854,7 +7854,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-10-28",
-      "lastSeen": "2026-11-09"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2610.35013": {
       "title": "Multiscale Policy Optimization for Long-Horizon LLM Agents",
@@ -8036,7 +8036,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-10-31",
-      "lastSeen": "2026-11-09"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2610.39302": {
       "title": "Proving and Improving the Platonic Representation Hypothesis with JEPAs",
@@ -8274,7 +8274,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-05",
-      "lastSeen": "2026-11-09"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2611.06728": {
       "title": "Turns Matter: Advancing Streaming Video RL via Turn-Level Credit",
@@ -8351,14 +8351,14 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-09"
+      "lastSeen": "2026-11-13"
     },
     "https://www.microsoft.com/en-us/research/blog/formally-verifying-agent-written-full-stack-web-apps-with-pdd-kit": {
       "title": "Formally verifying agent-written full-stack web apps with PDD Kit",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-09"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2611.08449": {
       "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
@@ -8512,7 +8512,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-10"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2611.12806": {
       "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
@@ -8589,7 +8589,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-11"
+      "lastSeen": "2026-11-13"
     },
     "https://huggingface.co/papers/2611.14210": {
       "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
@@ -8631,42 +8631,77 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
     },
     "http://arxiv.org/abs/2608.09928v2": {
       "title": "Multimodal Model Diffing for Feature Discovery and Control",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
     },
     "http://arxiv.org/abs/2611.14518v1": {
       "title": "Toward Foundation Detection Models via Example-Based Grounding in EM-DETR",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
     },
     "http://arxiv.org/abs/2606.14700v2": {
       "title": "RepFusion: Leveraging Multimodal Priors for Denoising in Representation Space",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
     },
     "http://arxiv.org/abs/2611.14498v1": {
       "title": "Measuring Robustness and Efficiency in a Connectome-Constrained Fly Visual System Model: Linking an Adversarial and a Perceptual Illusion",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
     },
     "https://research.google/blog/using-wearables-to-enable-cardiovascular-kidney-metabolic-ckm-risk-profiling-for-personalized-coaching": {
       "title": "November 11, 2026 Using wearables to enable cardiovascular-kidney-metabolic (CKM) risk profiling for personalized coaching Health & Bioscience &#183; Machine Intelligence",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-12"
+      "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2610.40394": {
+      "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2611.13410": {
+      "title": "SteerDistill: Quantizing LLM Agents via Closed-Loop Teacher Steering",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2610.39671": {
+      "title": "Incentivizing Self-Learning in Large Language Models via Reinforcement Learning",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2608.22237": {
+      "title": "Read Less, Solve More: Token-Efficient Sparse Reading of External Content for AI Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2611.10193": {
+      "title": "Ensemble Routing for Prompt-Adaptive Cost-Aware LLM Inference",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-13",
+      "lastSeen": "2026-11-13"
     }
   }
 }
