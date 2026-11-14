@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-13",
+  "updatedAt": "2026-11-14",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8702,6 +8702,83 @@
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-13",
       "lastSeen": "2026-11-13"
+    },
+    "https://huggingface.co/papers/2611.15777": {
+      "title": "SO-Arena: Benchmarking the Capability Spectrum and Reliability of System One Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "https://huggingface.co/papers/2611.14815": {
+      "title": "BirdDreams: Joint Perspective and BEV Video Generation for a Plausible, Reactive Driving World Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "https://huggingface.co/papers/2611.16748": {
+      "title": "PhysLoop: Harnessing LLMs' Physics Awareness for Self-Improving Video Generation Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "https://huggingface.co/papers/2611.13004": {
+      "title": "G-STAR: Group-Scaled Token Capacity for Deeply Compressed Autoregressive Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "https://huggingface.co/papers/2611.15131": {
+      "title": "Duo: A Reciprocal World Model for Full-Duplex Interaction",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "http://arxiv.org/abs/2611.17336v1": {
+      "title": "Back to Pixels: Lifting Latent Video Diffusion into Pixel Space",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "http://arxiv.org/abs/2611.17334v1": {
+      "title": "Unbundling Multimodal Vision Encoding",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "http://arxiv.org/abs/2611.17331v1": {
+      "title": "TTB: Test-time Baking for Efficient Rendering of Decoder-only View Synthesis Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "http://arxiv.org/abs/2611.17330v1": {
+      "title": "ProtoVis-Nav: Prototypical Visual Imagination for Visual-Spatial Aligned UAV Navigation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "http://arxiv.org/abs/2611.17324v1": {
+      "title": "K2V: Generative Keyframing For Physically Plausible Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
+    },
+    "https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature": {
+      "title": "November 13, 2026 Advancing science & engineering with Antigravity’s /teamwork Education Innovation &#183; General Science &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-14",
+      "lastSeen": "2026-11-14"
     }
   }
 }
