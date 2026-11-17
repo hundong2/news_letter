@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-16",
+  "updatedAt": "2026-11-17",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -78,41 +78,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-16",
       "lastSeen": "2026-05-27"
-    },
-    "https://huggingface.co/papers/2605.18747": {
-      "title": "Code as Agent Harness",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20"
-    },
-    "https://huggingface.co/papers/2605.18401": {
-      "title": "SkillsVote: Lifecycle Governance of Agent Skills from Collection, Recommendation to Evolution",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20"
-    },
-    "https://huggingface.co/papers/2605.18739": {
-      "title": "LongLive-2.0: An NVFP4 Parallel Infrastructure for Long Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20"
-    },
-    "https://huggingface.co/papers/2605.18678": {
-      "title": "Lance: Unified Multimodal Modeling by Multi-Task Synergy",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20"
-    },
-    "https://huggingface.co/papers/2605.18661": {
-      "title": "AI for Auto-Research: Roadmap & User Guide",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-20",
-      "lastSeen": "2026-05-20"
     },
     "https://research.google/blog/empirical-research-assistance-era-from-nature-publication-to-catalyzing-computational-discovery": {
       "title": "May 19, 2026 Empirical Research Assistance (ERA): From Nature publication to catalyzing Computational Discovery General Science &#183; Machine Intelligence &#183; Natural Language Processing &#183; Open Source Models & Datasets",
@@ -8702,6 +8667,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-14",
       "lastSeen": "2026-11-16"
+    },
+    "https://huggingface.co/papers/2611.18359": {
+      "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "https://huggingface.co/papers/2611.18397": {
+      "title": "Gamer: A Generalist Vision-Language-Action Foundation Model for Long-Horizon Real-Time Game Agent",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "https://huggingface.co/papers/2611.15789": {
+      "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "https://huggingface.co/papers/2611.12068": {
+      "title": "MIRIX-2.0: Multi-Agent Memory System",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "https://huggingface.co/papers/2611.18482": {
+      "title": "MMFlash: Faster Speculative Decoding for Vision-Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "http://arxiv.org/abs/2611.18559v1": {
+      "title": "BAL: Bidirectional Autoregression in Latent Space for Learning Human Movement Representations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "http://arxiv.org/abs/2611.18550v1": {
+      "title": "Restoring Diversity in Distilled Image and Video Generators by Probing Activations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "http://arxiv.org/abs/2611.18549v1": {
+      "title": "JVT: Just Video Transformer makes pixel-space video diffusion simple",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "http://arxiv.org/abs/2601.15235v5": {
+      "title": "Tracing 3D Anatomy in 2D Strokes: Can Projection-Derived Masks Replace 3D Segmentation for Cervical Spine Fracture Recognition?",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "http://arxiv.org/abs/2611.09724v2": {
+      "title": "Evaluating Anterior Cruciate Ligament Risk of Injury Using a Graph Convolutional Autoencoder",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
+    },
+    "https://www.microsoft.com/en-us/research/blog/tokeneconomizer-learning-from-experience-to-make-ai-coding-agents-more-efficient": {
+      "title": "TokenEconomizer: Learning from Experience to Make AI Coding Agents More Efficient",
+      "sourceId": "microsoft_research_blog",
+      "sourceName": "Microsoft Research Blog",
+      "firstSeen": "2026-11-17",
+      "lastSeen": "2026-11-17"
     }
   }
 }
