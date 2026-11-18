@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-17",
+  "updatedAt": "2026-11-18",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -51,26 +51,12 @@
       "firstSeen": "2026-05-02",
       "lastSeen": "2026-06-02"
     },
-    "https://www.microsoft.com/en-us/research/blog/advancing-ai-for-materials-with-mattersim-experimental-synthesis-faster-simulation-and-multi-task-models": {
-      "title": "Advancing AI for materials with MatterSim: experimental synthesis, faster simulation, and multi-task models",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-05-13",
-      "lastSeen": "2026-05-21"
-    },
     "https://www.microsoft.com/en-us/research/blog/mimalloc-a-high-performance-scalable-memory-allocator-for-the-modern-era": {
       "title": "mimalloc: A new, high-performance, scalable memory allocator for the modern era",
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-14",
       "lastSeen": "2026-05-27"
-    },
-    "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid": {
-      "title": "GridSFM: A new, small foundation model for the electric grid",
-      "sourceId": "microsoft_research_blog",
-      "sourceName": "Microsoft Research Blog",
-      "firstSeen": "2026-05-14",
-      "lastSeen": "2026-05-21"
     },
     "https://www.microsoft.com/en-us/research/blog/further-notes-on-our-recent-research-on-ai-delegation-and-long-horizon-reliability": {
       "title": "Further Notes on Our Recent Research on AI Delegation and Long-Horizon Reliability",
@@ -85,41 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-20",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2605.16403": {
-      "title": "When Vision Speaks for Sound",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-21",
-      "lastSeen": "2026-05-21"
-    },
-    "https://huggingface.co/papers/2605.14236": {
-      "title": "Active Learners as Efficient PRP Rerankers",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-21",
-      "lastSeen": "2026-05-21"
-    },
-    "https://huggingface.co/papers/2605.11609": {
-      "title": "Anti-Self-Distillation for Reasoning RL via Pointwise Mutual Information",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-21",
-      "lastSeen": "2026-05-21"
-    },
-    "https://huggingface.co/papers/2605.19577": {
-      "title": "GoLongRL: Capability-Oriented Long Context Reinforcement Learning with Multitask Alignment",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-21",
-      "lastSeen": "2026-05-21"
-    },
-    "https://huggingface.co/papers/2605.20025": {
-      "title": "AutoResearchClaw: Self-Reinforcing Autonomous Research with Human-AI Collaboration",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-21",
-      "lastSeen": "2026-05-21"
     },
     "https://huggingface.co/papers/2605.19833": {
       "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
@@ -8744,6 +8695,76 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-17",
       "lastSeen": "2026-11-17"
+    },
+    "https://huggingface.co/papers/2611.21072": {
+      "title": "Sage S2.1 Flash Technical Report",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "https://huggingface.co/papers/2611.21003": {
+      "title": "K2-Horizon: A Frontier Fleet of Open Source Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "https://huggingface.co/papers/2611.19937": {
+      "title": "AllocFlow: End-to-End Portfolio Trading Action Generation from Raw Market Data",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "https://huggingface.co/papers/2611.21218": {
+      "title": "InclusionMed: Benchmarking AI for Inclusive Healthcare",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "https://huggingface.co/papers/2611.07222": {
+      "title": "SPILLWAY: Separating Target Admission from Sanitization to Defend Tool-Using Agents against Prompt Injection",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2611.21605v1": {
+      "title": "ViRA: Toward Ultra-High-Resolution Visual Agents via Cross-Input Relative Policy Optimization",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2611.21604v1": {
+      "title": "FaceJev: Direct Visual Decisions for Face Forgery Detection",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2611.21600v1": {
+      "title": "How VLMs Plan What's Next",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2511.11934v4": {
+      "title": "A Systematic Analysis of Out-of-Distribution Detection Under Representation and Training Paradigm Shifts",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
+    },
+    "http://arxiv.org/abs/2608.21761v2": {
+      "title": "What Does CLIP Learn for Regional Geolocalization? Probing Visual Cues and Scene Configuration After Adaptation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-18",
+      "lastSeen": "2026-11-18"
     }
   }
 }
