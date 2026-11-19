@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-18",
+  "updatedAt": "2026-11-19",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,41 +71,6 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-05-20",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2605.19833": {
-      "title": "Mega-ASR: Towards In-the-wild^2 Speech Recognition via Scaling up Real-world Acoustic Simulation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-22"
-    },
-    "https://huggingface.co/papers/2605.14747": {
-      "title": "Video2GUI: Synthesizing Large-Scale Interaction Trajectories for Generalized GUI Agent Pretraining",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-22"
-    },
-    "https://huggingface.co/papers/2605.18233": {
-      "title": "Enhancing Train-Free Infinite-Frame Generation for Consistent Long Videos",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-22"
-    },
-    "https://huggingface.co/papers/2605.20682": {
-      "title": "IndusAgent: Reinforcing Open-Vocabulary Industrial Anomaly Detection with Agentic Tools",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-22"
-    },
-    "https://huggingface.co/papers/2605.21468": {
-      "title": "You Only Need Minimal RLVR Training: Extrapolating LLMs via Rank-1 Trajectories",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-22",
-      "lastSeen": "2026-05-22"
     },
     "https://www.microsoft.com/en-us/research/blog/magenticlite-magenticbrain-fara1-5-an-agentic-experience-optimized-for-small-models": {
       "title": "MagenticLite, MagenticBrain, Fara1.5: An agentic experience optimized for small models",
@@ -8765,6 +8730,76 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-18",
       "lastSeen": "2026-11-18"
+    },
+    "https://huggingface.co/papers/2611.22115": {
+      "title": "TeleChat to Xing4: Advancing Frontier Agentic Models on Domestic Chips and Frameworks",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "https://huggingface.co/papers/2611.17621": {
+      "title": "AscendGYM: A Cost-Aware Kernel Optimization Benchmark for Real-World Workloads on Ascend NPUs",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "https://huggingface.co/papers/2611.22055": {
+      "title": "Weight-Space Programming Doesn't Need Transformers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "https://huggingface.co/papers/2611.19800": {
+      "title": "Multi-Branch Transformer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "https://huggingface.co/papers/2611.21099": {
+      "title": "ForceHarness: Turning Force into Action and Physics for Frozen Frontier Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23228v1": {
+      "title": "Spool: Low-Latency Streaming Inference for Hybrid Vision-Language Models",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23226v1": {
+      "title": "FastFrames: Video Generation at Interactive Latency",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.21479v2": {
+      "title": "LynnReal-Hand: Unlocking World Interaction with Hand Control",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23212v1": {
+      "title": "EviSlide-MIL: Multi-Query Pooling and Shared Prediction for Class-Incremental Whole-Slide Image Classification",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
+    },
+    "http://arxiv.org/abs/2611.23211v1": {
+      "title": "Multimodal Masked Diffusion Autoencoder for Modeling Impaired Driving",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-19",
+      "lastSeen": "2026-11-19"
     }
   }
 }
