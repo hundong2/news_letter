@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19",
+  "updatedAt": "2026-11-20",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8800,6 +8800,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-19",
       "lastSeen": "2026-11-19"
+    },
+    "https://huggingface.co/papers/2611.24738": {
+      "title": "Jeveration: System One Models Now Generate",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "https://huggingface.co/papers/2611.23068": {
+      "title": "The Resolution Hypothesis: Agent Evolution's Key Is Identifying Improvements",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "https://huggingface.co/papers/2611.21366": {
+      "title": "ALIVE: Making Streaming Video Models Interactive",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "https://huggingface.co/papers/2611.11318": {
+      "title": "PROLA: Principal-Orthogonal Low-rank Adaptation for Predictive Spatiotemporal Weather Downscaling",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "https://huggingface.co/papers/2611.24154": {
+      "title": "Game2Player: Scaling Gameplay Experience for Visual Agents through Environment-Player Co-Development",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24941v1": {
+      "title": "UltraTex: Aligning Physical Knowledge for High-Fidelity PBR Texture Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24940v1": {
+      "title": "$Z$-sight: Unifying Vision-Language-Action and Latent World Modeling",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.15789v2": {
+      "title": "VibePrevisBench: Evaluating Agentic Coding for 4D Scene Generation in Blender",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24917v1": {
+      "title": "Unified Law for Visual Tasks (The Four Laws of Computer Vision)",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "http://arxiv.org/abs/2611.24915v1": {
+      "title": "PrismRestore: A Compact Restoration Toolbox for Agentic Image Restoration",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
+    },
+    "https://research.google/blog/a-game-you-cannot-win-unless-you-have-a-quantum-computer": {
+      "title": "November 19, 2026 A game you cannot win unless you have a quantum computer Quantum",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-20",
+      "lastSeen": "2026-11-20"
     }
   }
 }
