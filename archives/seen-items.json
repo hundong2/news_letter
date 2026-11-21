@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-20",
+  "updatedAt": "2026-11-21",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8877,6 +8877,83 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-20",
       "lastSeen": "2026-11-20"
+    },
+    "https://huggingface.co/papers/2611.21373": {
+      "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "https://huggingface.co/papers/2611.26444": {
+      "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "https://huggingface.co/papers/2611.26409": {
+      "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "https://huggingface.co/papers/2611.26590": {
+      "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "https://huggingface.co/papers/2611.26595": {
+      "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26629v1": {
+      "title": "Posterior Matching Distillation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26627v1": {
+      "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26624v1": {
+      "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26617v1": {
+      "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "http://arxiv.org/abs/2611.26615v1": {
+      "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
+    },
+    "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": {
+      "title": "November 20, 2026 How Google Duplex evolved to also call businesses for you in Gemini Generative AI &#183; Machine Intelligence &#183; Natural Language Processing &#183; Speech Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-21",
+      "lastSeen": "2026-11-21"
     }
   }
 }
