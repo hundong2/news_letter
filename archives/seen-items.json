@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-22",
+  "updatedAt": "2026-11-23",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -85,41 +85,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2605.23904": {
-      "title": "SkillOpt: Executive Strategy for Self-Evolving Agent Skills",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-26",
-      "lastSeen": "2026-05-26"
-    },
-    "https://huggingface.co/papers/2605.20708": {
-      "title": "Rethinking Cross-Layer Information Routing in Diffusion Transformers",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-26",
-      "lastSeen": "2026-05-26"
-    },
-    "https://huggingface.co/papers/2605.21573": {
-      "title": "Lens: Rethinking Training Efficiency for Foundational Text-to-Image Models",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-26",
-      "lastSeen": "2026-05-26"
-    },
-    "https://huggingface.co/papers/2605.22878": {
-      "title": "SciAtlas: A Large-Scale Knowledge Graph for Automated Scientific Research",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-26",
-      "lastSeen": "2026-05-26"
-    },
-    "https://huggingface.co/papers/2605.23463": {
-      "title": "StepAudio 2.5 Technical Report",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-26",
-      "lastSeen": "2026-05-26"
     },
     "https://huggingface.co/papers/2605.25604": {
       "title": "DVAO: Dynamic Variance-adaptive Advantage Optimization for Multi-reward Reinforcement Learning",
@@ -8127,7 +8092,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.08449": {
       "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
@@ -8281,7 +8246,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-10",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.12806": {
       "title": "Learning Heterogeneous Tactile Representation for General Dexterous Manipulation",
@@ -8358,7 +8323,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.14210": {
       "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
@@ -8435,7 +8400,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-12",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2610.40394": {
       "title": "Scaling Mathematical Proof Supervision from Structured Textbooks",
@@ -8547,7 +8512,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.18359": {
       "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
@@ -8624,7 +8589,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.21072": {
       "title": "Sage S2.1 Flash Technical Report",
@@ -8841,35 +8806,35 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.21373": {
       "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.26444": {
       "title": "Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.26409": {
       "title": "WeMM-Video: Pushing the Frontiers of Open-Source Omni-Modal Video Understanding",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.26590": {
       "title": "Probing the \"Conscious\" Mind: Selective Access and Global Workspace in Vision-Language Models",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.26595": {
       "title": "Coda-DaVinci: Reimagining Video Generation with Code2Video",
@@ -8883,49 +8848,49 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "http://arxiv.org/abs/2611.26627v1": {
       "title": "RL Post-Training in Diffusion Transformers Is Activation Steering",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "http://arxiv.org/abs/2611.26624v1": {
       "title": "PlayCraft: Designing Engaging Games from Agent Play Experience",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "http://arxiv.org/abs/2611.26617v1": {
       "title": "One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "http://arxiv.org/abs/2611.26615v1": {
       "title": "ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://research.google/blog/how-google-duplex-evolved-to-also-call-businesses-for-you-in-gemini": {
       "title": "November 20, 2026 How Google Duplex evolved to also call businesses for you in Gemini Generative AI &#183; Machine Intelligence &#183; Natural Language Processing &#183; Speech Processing",
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     },
     "https://huggingface.co/papers/2611.26629": {
       "title": "Posterior Matching Distillation",
       "sourceId": "hf_papers",
       "sourceName": "Hugging Face Papers",
       "firstSeen": "2026-11-22",
-      "lastSeen": "2026-11-22"
+      "lastSeen": "2026-11-23"
     }
   }
 }
