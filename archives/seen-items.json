@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-24",
+  "updatedAt": "2026-11-25",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -57,41 +57,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-22",
       "lastSeen": "2026-06-02"
-    },
-    "https://huggingface.co/papers/2605.27365": {
-      "title": "LocateAnything: Fast and High-Quality Vision-Language Grounding with Parallel Box Decoding",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
-    },
-    "https://huggingface.co/papers/2605.23271": {
-      "title": "EvalVerse: Pipeline-Aware and Expert-Calibrated Benchmarking for Professional Cinematic Video Generation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
-    },
-    "https://huggingface.co/papers/2605.27367": {
-      "title": "SpatialBench: Is Your Spatial Foundation Model an All-Round Player?",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
-    },
-    "https://huggingface.co/papers/2605.26114": {
-      "title": "MobileGym: A Verifiable and Highly Parallel Simulation Platform for Mobile GUI Agent Research",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
-    },
-    "https://huggingface.co/papers/2605.26230": {
-      "title": "Geometry-Aware Representation Denoising for Robust Multi-view 3D Reconstruction",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-28",
-      "lastSeen": "2026-05-28"
     },
     "https://research.google/blog/private-analytics-via-zero-trust-aggregation": {
       "title": "May 27, 2026 Private analytics via zero-trust aggregation Security, Privacy and Abuse Prevention",
@@ -8905,6 +8870,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-24",
       "lastSeen": "2026-11-24"
+    },
+    "https://huggingface.co/papers/2611.29897": {
+      "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "https://huggingface.co/papers/2611.31201": {
+      "title": "Embo-Harness: Towards Understanding Frontier-Model-as-Policy Harness",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "https://huggingface.co/papers/2611.30989": {
+      "title": "WorldLeague: Benchmarking Physical Agency",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "https://huggingface.co/papers/2611.30013": {
+      "title": "3AGameFactory-Motion: Agentic Rigging and Reliable Complex Motion Generation for Diverse 3D Assets",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "https://huggingface.co/papers/2611.29338": {
+      "title": "A Glimpse of Training VLMs as Foundation Models for Robotic Manipulation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "http://arxiv.org/abs/2611.31240v1": {
+      "title": "Pruning Autonomous Driving VLAs: What to Preserve for Reasoning and Action",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "http://arxiv.org/abs/2611.09854v2": {
+      "title": "Super-resolved digital terrain models for GEDI geolocation correction: agreement with airborne LiDAR DTM-based corrections at the beam level, not the footprint level",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "http://arxiv.org/abs/2611.31239v1": {
+      "title": "Lyris: Layout-Guided Long Video Generation with Persistent 3D Memory",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "http://arxiv.org/abs/2611.31238v1": {
+      "title": "Modern Self-Supervised Vision Transformers Are Pareidolic",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
+    },
+    "http://arxiv.org/abs/2611.31237v1": {
+      "title": "Let Vision-Language Models Generate Images through Their Representations",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-25",
+      "lastSeen": "2026-11-25"
     }
   }
 }
