@@ -1,0 +1,459 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2026-11-26 AI 리서치 브리핑</title>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=Noto+Sans+KR:wght@400;500;700&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg: #f6f1ea;
+      --bg-accent: #e3efe9;
+      --card: #ffffff;
+      --text: #1c232b;
+      --muted: #5e6b78;
+      --accent: #00808f;
+      --accent-2: #ff7a59;
+      --border: #e2dcd5;
+      --shadow: 0 16px 40px rgba(24, 32, 45, 0.08);
+    }
+
+    * {
+      box-sizing: border-box;
+    }
+
+    body {
+      margin: 0;
+      font-family: 'Noto Sans KR', sans-serif;
+      color: var(--text);
+      background: radial-gradient(circle at top left, var(--bg-accent), var(--bg)) no-repeat;
+      min-height: 100vh;
+    }
+
+    .page {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 48px 20px 64px;
+      position: relative;
+    }
+
+    .hero {
+      display: grid;
+      gap: 16px;
+      margin-bottom: 36px;
+    }
+
+    .hero h1 {
+      font-family: 'Space Grotesk', sans-serif;
+      font-size: clamp(2.2rem, 3vw, 3.4rem);
+      margin: 0;
+      letter-spacing: -0.02em;
+    }
+
+    .hero p {
+      margin: 0;
+      color: var(--muted);
+      font-size: 1.05rem;
+      max-width: 640px;
+    }
+
+    .hero-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 12px;
+      font-size: 0.95rem;
+    }
+
+    .hero-meta span {
+      background: var(--card);
+      border: 1px solid var(--border);
+      padding: 6px 12px;
+      border-radius: 999px;
+    }
+
+    .nav-back {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+    }
+
+    .section-block {
+      margin-bottom: 42px;
+    }
+
+    .section-header {
+      margin-bottom: 18px;
+    }
+
+    .section-header h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 6px;
+      font-size: 1.6rem;
+    }
+
+    .section-header p {
+      margin: 0;
+      color: var(--muted);
+    }
+
+    .card-grid {
+      display: grid;
+      gap: 18px;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    }
+
+    .card-grid.scrollable {
+      max-height: 520px;
+      overflow-y: auto;
+      padding-right: 6px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar {
+      width: 8px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-track {
+      background: rgba(0, 0, 0, 0.04);
+      border-radius: 999px;
+    }
+
+    .card-grid.scrollable::-webkit-scrollbar-thumb {
+      background: rgba(0, 128, 143, 0.35);
+      border-radius: 999px;
+    }
+
+    .card {
+      background: var(--card);
+      border-radius: 18px;
+      padding: 20px 20px 18px;
+      box-shadow: var(--shadow);
+      border: 1px solid var(--border);
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+    }
+
+    .card h3 {
+      font-size: 1.1rem;
+      margin: 0;
+      line-height: 1.4;
+    }
+
+    .card-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      font-size: 0.8rem;
+      color: var(--muted);
+    }
+
+    .pill {
+      background: rgba(0, 128, 143, 0.12);
+      color: var(--accent);
+      padding: 4px 10px;
+      border-radius: 999px;
+      font-weight: 600;
+    }
+
+    .card-summary {
+      margin: 0;
+      color: var(--text);
+      line-height: 1.6;
+    }
+
+    .card-translation {
+      margin: 0;
+      background: rgba(255, 122, 89, 0.12);
+      color: #7a2c17;
+      padding: 10px 12px;
+      border-radius: 12px;
+      font-size: 0.92rem;
+    }
+
+    .card-translation span {
+      font-weight: 700;
+      margin-right: 6px;
+    }
+
+    .card-link {
+      margin-top: auto;
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+      display: inline-flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .sources {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 18px;
+      padding: 22px;
+      box-shadow: var(--shadow);
+    }
+
+    .sources h2 {
+      font-family: 'Space Grotesk', sans-serif;
+      margin: 0 0 12px;
+    }
+
+    .sources ul {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    }
+
+    .sources a {
+      text-decoration: none;
+      color: var(--accent);
+      font-weight: 600;
+    }
+
+    footer {
+      margin-top: 42px;
+      color: var(--muted);
+      font-size: 0.9rem;
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      text-align: center;
+    }
+
+    @media (max-width: 720px) {
+      .page {
+        padding: 36px 16px 56px;
+      }
+
+      .hero-meta {
+        flex-direction: column;
+        align-items: flex-start;
+      }
+    }
+  </style>
+</head>
+<body>
+  <div class="page">
+    <header class="hero">
+      <a class="nav-back" href="../index.html">← 전체 목록</a>
+      <h1>2026-11-26 AI 리서치 브리핑</h1>
+      <p>최신 VLM, sLLM, on-device AI 논문과 연구 블로그를 한눈에 정리합니다. 중복 기사 방지를 위해 URL 기준으로 추적합니다.</p>
+      <div class="hero-meta">
+        <span>총 11건 요약</span>
+        <span>자동 생성</span>
+      </div>
+    </header>
+
+    
+    <section class="section-block">
+      <div class="section-header">
+        <h2>VLM 업데이트</h2>
+        <p>멀티모달 비전-언어 모델의 최신 논문과 리더보드 변화</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.33151v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">The development of biomedical vision-language models (VLMs) with contrastive image-text pretraining has been driven by scaling to increasingly large and diverse image-text datasets. Beyond scaling, further progress can come from learning richer representations from existing data. We hypothesize that the structure of scientific literature itself provides an additional source of supervision: figures, panels, captions, and accompanying article text encode rich relationships across modalities. Yet, treating these as independent image-text pairs overlooks their relationships. To address this limitation, we incorporate these structural relationships into contrastive image-text supervision. We preserve exact image-text matches while introducing weaker positive supervision for related pairs, such as a panel and the caption of a sibling panel. We upweight cross-article negatives of the same content type to encourage finer discrimination. We also enrich panel descriptions using visual content, original figure captions, and mentioning paragraphs. Pairing panels with these descriptions and whole figures with their original captions yields Loom52M, a dataset of 52.4 million image-text pairs spanning scientific charts and biomedical images. Using Loom52M, BioLoom (DFN-2B) achieves 56.82% domain-balanced mean accuracy across 67 zero-shot classification tasks from 43 datasets in 10 domains, compared with 48.77% for MedPMC-CLIP. On BioLoomBench with concise captions and BioMedFlickr, it achieves bidirectional mean Recall@1 of 63.20% and 10.59%, versus 46.37% and 7.55% for the respective strongest evaluated baselines, BiomedCLIP and MedPMC-CLIP. Code, datasets, benchmarks, and models are available at https://bioloom-clip.github.io/.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.33151v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>On-Device AI</h2>
+        <p>디바이스 내 추론 및 엣지 최적화 동향</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.33158v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>OmniAct: One Policy, One Million Embodiments</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">A single policy that controls diverse robots must not only transfer task knowledge across embodiments, but also adapt its behavior to each robot&#39;s capabilities. Existing approaches facilitate transfer through shared action representations, but these representations do not necessarily capture how differences in robot morphology should shape manipulation strategies. We introduce OmniAct, a cross-embodiment manipulation policy that conditions directly on each robot&#39;s kinematics in a specific scene to produce embodiment-specific behavior. This kinematic graph represents the robot&#39;s joint positions, motion axes, and connectivity to its visual observation, allowing the policy to account for how its embodiment related to objects and surfaces in the scene. A flow-matching policy predicts relative joint motions for each node, enabling control across robots with different degrees of freedom and kinematic configurations. To learn how physical structure shapes behavior at scale, we procedurally design and filter one million physically feasible robot embodiments; next, we develop algorithms to generate robot trajectories in simulation for all embodiments; finally, we train across diverse simulated manipulation tasks. On 2,000 embodiment-scene-held-out evaluation episodes, OmniAct achieves 63.0% success, compared to 17.8% for pi 0.5 and 57.9% for the strongest baseline; on the task families GPT-6 Astra was evaluated on, it achieves 64.7% against GPT-6 Astra&#39;s 41.1%. On a previously unseen real-world robot, it achieves nearly twice the success rate of the next best method, MolmoAct2. Beyond task success, we observe that OmniAct learns distinct manipulation strategies that exploit the capabilities and accommodate the limitations of different morphologies. Project: https://omniact.github.io/</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.33158v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="section-block">
+      <div class="section-header">
+        <h2>AI 뉴스 &amp; 리서치</h2>
+        <p>기업/연구기관의 주요 발표와 블로그 업데이트</p>
+      </div>
+      <div class="card-grid scrollable">
+        
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.25403" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Antom 3-in-1 Transformer: A Payment Foundation Model</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Antom 3-in-1 Transformer: A Payment Foundation Model에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.25403" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.32884" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.32884" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.28947" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Don&#39;t Sleep, Keep Watch: Proactive Perception for Computer-Use Agents</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Don&#39;t Sleep, Keep Watch: Proactive Perception for Computer-Use Agents에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.28947" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.30634" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>Rewirable Circuits in Transformers with Loom Attention</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">Rewirable Circuits in Transformers with Loom Attention에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.30634" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://huggingface.co/papers/2611.31205" data-source="Hugging Face Papers" data-item-type="paper">
+      <header>
+        <h3>ACAP: Asynchronous Coding Agents for Efficient Robot Control</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">Hugging Face Papers</span>
+        </div>
+      </header>
+      <p class="card-summary">ACAP: Asynchronous Coding Agents for Efficient Robot Control에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://huggingface.co/papers/2611.31205" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.33157v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>PointX: Multi-View Consistent Intrinsics by Querying Surface Points</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">The appearance of a scene is determined by the albedo, roughness, metallicity and normal of every point on its surface, and by the light that reaches it, its irradiance. Recovering these intrinsics from images is ambiguous, and methods that predict them per pixel give the same surface point a different decomposition in every view. We introduce PointX, a simple feed-forward model that predicts intrinsics per 3D surface point instead. A multi-view transformer encodes a set of unposed images, and for any queried surface point, PointX pools the point&#39;s tokens across the views in which it appears and decodes the point&#39;s intrinsics once. Each point of a 3D reconstruction of the scene, such as a point cloud or a mesh, thus receives a single prediction, which is exactly consistent across views by construction and enables view-consistent relighting and editing. The same model also predicts per-view maps, from one image or many, by querying the point seen at every pixel. These maps agree across views up to the precision of the estimated geometry and correspondences. PointX is significantly more consistent than existing methods, while remaining competitive in accuracy from a single image and improving as views are added. Project page: https://pointx-paper.github.io/</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.33157v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.33153v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">We present DiaCap, an audiovisual LLM for comprehensive dialogue captioning, which produces the transcript, timestamps, and a visual description of the speaker for every utterance in a video. Considering that utterance timing and audiovisual diarization are tightly coupled, DiaCap unifies the tasks in a single model, trained in two complementary stages. First, we train DiaCap on 225K curated clips, using synthetic captions that densely label every utterance in detail. Second, we further refine the model via reinforcement learning on 2.9K human-corrected clips, using fine-grained feedback that directly evaluates utterance timing, speaker grouping, and speaker binding. On DiaDemBench, which we extend with utterance-level timestamps and subtitle redaction, both DiaCap with off-the-shelf transcripts and its end-to-end variant DiaCap-E2E achieve strong results. Specifically, DiaCap performs on par with Gemini 4 Argon in audiovisual diarization while clearly outperforming it in timestamp accuracy (76.59 vs. 42.76 TIME). It also maintains strong diarization on multilingual and minute-long videos, and transfers to audiovisual question answering.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.33153v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="http://arxiv.org/abs/2611.33147v1" data-source="arXiv cs.CV (recent)" data-item-type="paper">
+      <header>
+        <h3>One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography</h3>
+        <div class="card-meta">
+          <span class="pill">Paper</span>
+          <span class="source">arXiv cs.CV (recent)</span>
+        </div>
+      </header>
+      <p class="card-summary">Creating a dialogue scene typically requires cutting between multiple views (e.g., close-ups, medium shots, and over-the-shoulder shots) of the actors. Yet capturing such coverage is costly and in many settings unavailable. We study dialogue re-cinematography: synthesizing additional shots from a single wide-angle dialogue video. Existing video generators can synthesize new shots, but rely on visual cues alone, so when the source video barely shows the lips, the generated lip motion fails to match the speech. Our key observation is that the speech audio is view-invariant: it constrains lip motion in any target view. Building on this insight, we adapt a pretrained audio-visual diffusion model to generate the new shot from a target frame that specifies the view, a source video that contains the performance, and the speech audio that drives lip motion. In multi-person scenes, however, pretrained audio-visual models drive every visible face with the same speech, causing speech leakage, where silent listeners mouth the speaker&#39;s words. We therefore introduce speaker-aware audio gating, a training-free module that lets the audio drive only the faces that speak in the target shot. On a cinematic paired-view benchmark spanning diverse viewpoints and framings, our method lowers perceptual error by 59%, landmark error by 56%, and speech leakage by 97% relative to the strongest baseline, Wan 3.0. Our method also remains robust on in-the-wild scenes, highlighting its potential for film post-production.</p>
+      
+      <a class="card-link" href="http://arxiv.org/abs/2611.33147v1" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+
+    <article class="card" data-item-url="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants" data-source="Google Research Blog" data-item-type="news">
+      <header>
+        <h3>November 25, 2026 Verifiable Social Reasoning for LLM Assistants Generative AI &amp;#183; Human-Computer Interaction and Visualization &amp;#183; Machine Intelligence &amp;#183; Natural Language Processing</h3>
+        <div class="card-meta">
+          <span class="pill">News</span>
+          <span class="source">Google Research Blog</span>
+        </div>
+      </header>
+      <p class="card-summary">November 25, 2026 Verifiable Social Reasoning for LLM Assistants Generative AI &amp;#183; Human-Computer Interaction and Visualization &amp;#183; Machine Intelligence &amp;#183; Natural Language Processing에 관한 최근 업데이트입니다. 자세한 내용은 원문 링크에서 확인할 수 있습니다.</p>
+      
+      <a class="card-link" href="https://research.google/blog/verifiable-social-reasoning-for-llm-assistants" target="_blank" rel="noopener noreferrer">원문 보기</a>
+    </article>
+  
+      </div>
+    </section>
+  
+
+    <section class="sources">
+      <h2>참고한 소스</h2>
+      <ul>
+        <li><a href="https://huggingface.co/papers" target="_blank" rel="noopener noreferrer">Hugging Face Papers</a></li>
+<li><a href="https://export.arxiv.org/api/query?search_query=cat:cs.CV&amp;sortBy=lastUpdatedDate&amp;sortOrder=descending&amp;max_results=10" target="_blank" rel="noopener noreferrer">arXiv cs.CV (recent)</a></li>
+<li><a href="https://paperswithcode.com/" target="_blank" rel="noopener noreferrer">Papers with Code</a></li>
+<li><a href="https://research.google/blog/" target="_blank" rel="noopener noreferrer">Google Research Blog</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/blog/" target="_blank" rel="noopener noreferrer">Microsoft Research Blog</a></li>
+<li><a href="https://www.qualcomm.com/research/artificial-intelligence" target="_blank" rel="noopener noreferrer">Qualcomm AI Research</a></li>
+<li><a href="https://ai.google.dev/edge" target="_blank" rel="noopener noreferrer">Google AI Edge</a></li>
+<li><a href="https://huggingface.co/spaces/opencompass/open_vlm_leaderboard" target="_blank" rel="noopener noreferrer">Open VLM Leaderboard</a></li>
+      </ul>
+    </section>
+
+    <footer>
+      <div>요약은 Gemini API를 사용하며, 실제 원문은 "원문 보기" 링크를 확인하세요.</div>
+      <div>중복 방지 기준: URL 기준 + 최근 180일 기록 유지</div>
+    </footer>
+  </div>
+</body>
+</html>

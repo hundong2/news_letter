@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25",
+  "updatedAt": "2026-11-26",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -71,41 +71,6 @@
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-05-28",
       "lastSeen": "2026-06-24"
-    },
-    "https://huggingface.co/papers/2605.28816": {
-      "title": "Gamma-World: Generative Multi-Agent World Modeling Beyond Two Players",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
-    },
-    "https://huggingface.co/papers/2605.28293": {
-      "title": "ProRL: Effective Reinforcement Learning for Proactive Recommendation via Rectified Policy Gradient Estimation",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
-    },
-    "https://huggingface.co/papers/2605.28774": {
-      "title": "Agent Explorative Policy Optimization for Multimodal Agentic Reasoning",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
-    },
-    "https://huggingface.co/papers/2605.28820": {
-      "title": "From Pixels to Words -- Towards Native One-Vision Models at Scale",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
-    },
-    "https://huggingface.co/papers/2605.28814": {
-      "title": "Self-Improving Language Models with Bidirectional Evolutionary Search",
-      "sourceId": "hf_papers",
-      "sourceName": "Hugging Face Papers",
-      "firstSeen": "2026-05-29",
-      "lastSeen": "2026-05-29"
     },
     "https://research.google/blog/a-new-era-of-innovation-google-research-at-io-2026": {
       "title": "May 28, 2026 A New Era of Innovation: Google Research at I/O 2026 General Science &#183; Generative AI &#183; Global &#183; Quantum",
@@ -8940,6 +8905,83 @@
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-25",
       "lastSeen": "2026-11-25"
+    },
+    "https://huggingface.co/papers/2611.25403": {
+      "title": "Antom 3-in-1 Transformer: A Payment Foundation Model",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "https://huggingface.co/papers/2611.32884": {
+      "title": "Lazy Agents Answer Against Their Own Beliefs: Reinforcement Learning with Verifiable Beliefs Teaches Them to Act on What They Believe",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "https://huggingface.co/papers/2611.28947": {
+      "title": "Don't Sleep, Keep Watch: Proactive Perception for Computer-Use Agents",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "https://huggingface.co/papers/2611.30634": {
+      "title": "Rewirable Circuits in Transformers with Loom Attention",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "https://huggingface.co/papers/2611.31205": {
+      "title": "ACAP: Asynchronous Coding Agents for Efficient Robot Control",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.33158v1": {
+      "title": "OmniAct: One Policy, One Million Embodiments",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.33157v1": {
+      "title": "PointX: Multi-View Consistent Intrinsics by Querying Surface Points",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.33153v1": {
+      "title": "DiaCap: Jointly Learning Who Speaks When for Audiovisual Dialogue Captioning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.33151v1": {
+      "title": "BioLoom: Scaling Biomedical Vision-Language Models by Learning from the Structure of Scientific Articles",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "http://arxiv.org/abs/2611.33147v1": {
+      "title": "One Take, Many Cameras: Audio-Grounded Shot Synthesis for Dialogue Re-Cinematography",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
+    },
+    "https://research.google/blog/verifiable-social-reasoning-for-llm-assistants": {
+      "title": "November 25, 2026 Verifiable Social Reasoning for LLM Assistants Generative AI &#183; Human-Computer Interaction and Visualization &#183; Machine Intelligence &#183; Natural Language Processing",
+      "sourceId": "google_research_blog",
+      "sourceName": "Google Research Blog",
+      "firstSeen": "2026-11-26",
+      "lastSeen": "2026-11-26"
     }
   }
 }
