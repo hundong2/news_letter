@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-26",
+  "updatedAt": "2026-11-27",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -8982,6 +8982,76 @@
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-26",
       "lastSeen": "2026-11-26"
+    },
+    "https://huggingface.co/papers/2611.34849": {
+      "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "https://huggingface.co/papers/2611.34575": {
+      "title": "Sage-Med: Scaling Medical Multimodal Intelligence",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "https://huggingface.co/papers/2611.34923": {
+      "title": "Mixture-of-Loops Transformer",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "https://huggingface.co/papers/2611.30844": {
+      "title": "DyLoMo-DiT: Dynamic Looped Mixture-of-Experts Diffusion Transformers",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "https://huggingface.co/papers/2611.34237": {
+      "title": "VibeVideoAgent: Closing the Perceptual Loop for Code-Driven Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34944v1": {
+      "title": "AnyCam: Anything Can Represent Camera for Video Generation",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34943v1": {
+      "title": "Tracking Any Point with Agentic Visual Reasoning",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34941v1": {
+      "title": "Improving and Expanding Video Editing Capabilities Without Videos",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34940v1": {
+      "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
+    },
+    "http://arxiv.org/abs/2611.34939v1": {
+      "title": "A Mesh for Every Moment",
+      "sourceId": "arxiv_cv",
+      "sourceName": "arXiv cs.CV (recent)",
+      "firstSeen": "2026-11-27",
+      "lastSeen": "2026-11-27"
     }
   }
 }
