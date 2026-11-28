@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-27",
+  "updatedAt": "2026-11-28",
   "items": {
     "https://www.microsoft.com/en-us/research/blog": {
       "title": "Microsoft Research blog",
@@ -7959,7 +7959,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-06",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.08449": {
       "title": "VFlash: Fast, Accurate Visual Planning via Flash Primitive Decoding",
@@ -8190,7 +8190,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-11",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.14210": {
       "title": "Tree-Ising: Repairing Language Models with Bit-Level Ising Edits",
@@ -8379,7 +8379,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-14",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.18359": {
       "title": "Envisioning Agentic Robotics: A New Era of Robotic Systems",
@@ -8456,7 +8456,7 @@
       "sourceId": "microsoft_research_blog",
       "sourceName": "Microsoft Research Blog",
       "firstSeen": "2026-11-17",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.21072": {
       "title": "Sage S2.1 Flash Technical Report",
@@ -8673,7 +8673,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-20",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.21373": {
       "title": "WeVisForensics: Self-Evolving Agent for Omni AI-Generated Video Detection",
@@ -8750,7 +8750,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-21",
-      "lastSeen": "2026-11-23"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.26629": {
       "title": "Posterior Matching Distillation",
@@ -8834,7 +8834,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-24",
-      "lastSeen": "2026-11-24"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.29897": {
       "title": "Motion Mamba 2.0: Autoregressive Diffusion Mamba for Long-Horizon Humanoid Control",
@@ -8981,7 +8981,7 @@
       "sourceId": "google_research_blog",
       "sourceName": "Google Research Blog",
       "firstSeen": "2026-11-26",
-      "lastSeen": "2026-11-26"
+      "lastSeen": "2026-11-28"
     },
     "https://huggingface.co/papers/2611.34849": {
       "title": "Real2SimLab: A Unified Platform for Real-to-Simulation Transfer",
@@ -9023,35 +9023,70 @@
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-28"
     },
     "http://arxiv.org/abs/2611.34943v1": {
       "title": "Tracking Any Point with Agentic Visual Reasoning",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-28"
     },
     "http://arxiv.org/abs/2611.34941v1": {
       "title": "Improving and Expanding Video Editing Capabilities Without Videos",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-28"
     },
     "http://arxiv.org/abs/2611.34940v1": {
       "title": "LuxAvatar: Real-Time Relightable Head Avatars via Causal Neural Shading of 3D Intrinsic Proxies",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-28"
     },
     "http://arxiv.org/abs/2611.34939v1": {
       "title": "A Mesh for Every Moment",
       "sourceId": "arxiv_cv",
       "sourceName": "arXiv cs.CV (recent)",
       "firstSeen": "2026-11-27",
-      "lastSeen": "2026-11-27"
+      "lastSeen": "2026-11-28"
+    },
+    "https://huggingface.co/papers/2611.34051": {
+      "title": "Stable Gated DeltaNet-2: Understanding and Mitigating Recurrent State Instability",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28"
+    },
+    "https://huggingface.co/papers/2611.34232": {
+      "title": "OS-Omni: Benchmarking Generalist Computer-Using Agents on Long-Horizon Workflows Across Platforms",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28"
+    },
+    "https://huggingface.co/papers/2611.34813": {
+      "title": "Solve Vision with Code: Coding Agents Are Stronger Visual Reasoners Than Video Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28"
+    },
+    "https://huggingface.co/papers/2611.31619": {
+      "title": "What a Forecasting Leaderboard Can Establish: Resolution Reporting for Zero-Shot Time-Series Models",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28"
+    },
+    "https://huggingface.co/papers/2611.34457": {
+      "title": "ProxyGenBench: Benchmarking Proxy-Guided Video Generation",
+      "sourceId": "hf_papers",
+      "sourceName": "Hugging Face Papers",
+      "firstSeen": "2026-11-28",
+      "lastSeen": "2026-11-28"
     }
   }
 }
